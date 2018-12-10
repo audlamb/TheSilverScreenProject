@@ -1,0 +1,563 @@
+,Movie,Release Date,Budget,Revenue,Genres
+0,Terrence Howard's Fright Club,2018-05-24,0,0,Comedy
+1,I Am Heath Ledger,2017-04-23,0,0,Documentary
+2,I'm Still Here,2010-09-10,0,0,Music
+3,Being George Clooney,2016-02-06,0,0,Documentary
+4,Cold Souls,2009-08-07,0,0,Comedy
+5,Jake Gyllenhaal Challenges the Winner of the Nobel Peace Prize,2010-01-01,0,0,Comedy
+6,Judi Dench: My Passion for Trees,2017-12-20,0,0,Documentary
+7,ハウルの動く城,2004-11-19,24000000,234710455,Fantasy
+8,Corpse Bride,2005-09-12,40000000,117195061,Romance
+9,Wallace & Gromit: The Curse of the Were-Rabbit,2005-09-04,30000000,192452832,Adventure
+10,"Good Night, and Good Luck.",2005-09-16,7000000,54600000,Drama
+11,Harry Potter and the Goblet of Fire,2005-11-16,150000000,895921036,Adventure
+12,King Kong,2005-12-12,207000000,550517357,Adventure
+13,Memoirs of a Geisha,2005-12-06,85000000,162242962,Drama
+14,Pride,2014-09-12,0,7523634,Drama
+15,Batman Begins,2005-06-10,150000000,374218673,Action
+16,Brokeback Mountain,2005-09-10,14000000,178043761,Drama
+19,The Thinning: New World Order,2018-10-17,0,0,Action
+20,Charlie and the Chocolate Factory,2005-07-13,150000000,474968763,Adventure
+22,Mrs Henderson Presents,2005-09-08,0,0,Comedy
+24,Walk the Line,2005-09-13,28000000,186438883,Drama
+26,Capote,2005-09-30,7000000,49084830,Crime
+27,Crash,2005-05-06,6500000,98410061,Drama
+29,Munich,2005-12-23,70000000,130358911,Drama
+30,Darwin's Nightmare,2004-09-01,0,0,Documentary
+31,Enron: The Smartest Guys in the Room,2005-04-22,0,0,Documentary
+32,La Marche de l'empereur,2005-01-26,3300000,127392239,Documentary
+33,Murderball,2005-07-22,300000,1750211,Documentary
+34,Street Fight,2005-01-01,0,0,Documentary
+35,The Death of Kevin Carter: Casualty of the Bang Bang Club,2004-09-17,11000,0,Documentary
+36,Cinderella Man,2005-06-02,88000000,108539911,Romance
+37,The Constant Gardener,2005-08-31,25000000,82466670,Drama
+41,Don't Tell,2017-05-18,0,0,Drama
+42,Joyeux Noël,2005-11-09,22000000,17709155,Romance
+43,Paradise Now,2005-02-14,0,3357075,Thriller
+44,Sophie Scholl – Die letzten Tage,2005-02-13,0,0,Drama
+45,Tsotsi,2005-08-18,3000000,9879971,Crime
+46,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005-12-07,180000000,748806957,Adventure
+48,Star Wars: Episode III - Revenge of the Sith,2005-05-17,113000000,850000000,Science Fiction
+59,Badgered,2005-02-23,0,0,Animation
+60,The Mysterious Geographic Explorations of Jasper Morello,2005-01-19,0,0,Adventure
+61,9,2009-08-19,30000000,48428063,Action
+62,One Man Band,2005-06-21,0,0,Animation
+63,Cashback,2006-09-10,0,2294291,Drama
+64,Síðasti bærinn,2004-08-21,0,0,Drama
+65,Our Time Is Up,2004-01-01,0,0,Comedy
+66,Six Shooter,2004-01-01,200000,0,Comedy
+69,War of the Worlds,2005-06-28,132000000,591739379,Adventure
+81,A History of Violence,2005-09-23,32000000,60740827,Drama
+85,Match Point,2005-10-26,15000000,85306374,Drama
+86,The Squid and the Whale,2005-10-05,1500000,11098131,Comedy
+87,Syriana,2005-11-23,50000000,93974620,Drama
+88,A Prairie Home Companion,2006-06-09,10000000,0,Drama
+89,Ryan Gosling - Hollywoods Halbgott,2018-07-22,0,0,Documentary
+90,Will Smith: Live in Concert,,0,0,Music
+91,Eddie Murphy Raw,1987-11-25,0,50504655,Comedy
+93,When Harry Met Sally 2 with Billy Crystal and Helen Mirren,2011-04-06,0,0,Comedy
+94,Cars,2006-06-08,120000000,461983149,Animation
+95,Happy Feet,2006-11-16,100000000,384335608,Animation
+96,Monster House,2006-07-21,75000000,140175006,Animation
+97,Dreamgirls,2006-12-25,70000000,154937680,Drama
+98,The Good Shepherd,2006-12-11,85000000,59908565,Drama
+99,El laberinto del fauno,2006-08-25,19000000,83258226,Fantasy
+100,Pirates of the Caribbean: Dead Man's Chest,2006-06-20,200000000,1065659812,Adventure
+101,The Prestige,2006-10-19,40000000,109676311,Drama
+102,The Black Dahlia,2006-09-15,50000000,49111202,Drama
+103,Children of Men,2006-09-22,76000000,69959751,Drama
+104,The Illusionist,2006-08-18,40000000,86915017,Fantasy
+107,滿城盡帶黃金甲,2006-12-21,45000000,78568977,Action
+108,The Devil Wears Prada,2006-06-30,35000000,326551094,Comedy
+110,Marie Antoinette,2006-05-24,40000000,60474340,Drama
+111,The Queen,2006-09-15,15000000,123384128,Drama
+112,Babel,2006-09-08,25000000,135330182,Drama
+113,The Departed,2006-10-05,90000000,289847354,Drama
+114,Letters from Iwo Jima,2006-12-19,19000000,68673228,Action
+116,United 93,2006-04-28,15000000,76286096,Drama
+117,Deliver Us from Evil,2014-07-01,30000000,0,Thriller
+118,An Inconvenient Truth,2006-01-24,1000000,46243000,Documentary
+119,Iraq in Fragments,2006-01-21,0,202000,Documentary
+120,Jesus Camp,2006-09-15,0,1013596,Documentary
+121,My Country No More,2018-02-23,0,0,Documentary
+122,The Blood of Yingzhou District,2006-06-13,0,0,Documentary
+123,Recycled Life,2006-01-01,150000,0,Documentary
+124,Two Hands,1999-07-29,0,0,Comedy
+126,Blood Diamond,2006-12-07,100000000,170877916,Drama
+130,Efter brylluppet,2006-02-24,0,0,Drama
+131,Indigènes,2006-05-25,14500000,22963701,Drama
+132,Das Leben der Anderen,2006-03-15,2000000,70000000,Drama
+134,The Shape of Water,2017-12-01,19500000,194989655,Drama
+135,Apocalypto,2006-12-07,40000000,120175290,Action
+136,Click,2006-06-22,82500000,237681299,Comedy
+139,The Good German,2006-12-08,32000000,5914908,Drama
+140,Notes on a Scandal,2006-12-25,15000000,49469904,Drama
+146,Little Miss Sunshine,2006-07-26,8000000,100523181,Comedy
+148,The Danish Poet,2006-02-15,0,0,Animation
+149,Lifted,2006-12-28,0,0,Family
+150,The Little Matchgirl,2006-09-07,0,0,Drama
+151,Maestro,2014-07-23,0,0,Drama
+152,No Time for Nuts,2006-10-23,0,0,Adventure
+153,Binta y la gran idea,2004-10-25,0,0,Family
+154,Helmer & søn,2006-01-01,0,0,Comedy
+155,Sultan: The Saviour,2018-06-15,0,0,Thriller
+156,West Bank Story,2005-01-01,0,0,Comedy
+159,Flags of Our Fathers,2006-10-18,90000000,65900249,War
+168,Poseidon,2006-05-12,160000000,181674817,Adventure
+169,Superman Returns,2006-06-28,270000000,391081192,Adventure
+170,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,2006-11-01,18000000,261572744,Comedy
+173,Little Children,2006-10-06,26000000,14821658,Romance
+180,Ennio Morricone: Arena concerto - la musica per il cinema,2003-01-01,0,0,Music
+181,Richard Edlund VS His Sons,,0,0,Comedy
+183,"Johnny Depp - Idol, Rebell und Superstar",2012-12-20,0,0,Documentary
+184,Tilda Swinton: The Love Factory,2002-10-10,0,0,Documentary
+185,Persepolis,2007-05-23,7300000,0,Animation
+186,Ratatouille,2007-06-22,150000000,623722818,Animation
+187,Surf's Up,2007-06-08,85000000,149044513,Animation
+188,American Gangster,2007-11-02,100000000,266465037,Drama
+189,Atonement,2007-08-29,30000000,129266061,Drama
+190,The Golden Compass,2007-12-04,180000000,372234864,Adventure
+191,Sweeney Todd: The Demon Barber of Fleet Street,2007-12-20,50000000,152000000,Drama
+192,There Will Be Blood,2007-12-28,25000000,77208711,Drama
+193,The Assassination of Jesse James by the Coward Robert Ford,2007-09-02,30000000,14711793,Action
+195,Le scaphandre et le papillon,2007-05-23,14000000,19777647,Drama
+196,No Country for Old Men,2007-11-08,25000000,171627166,Crime
+198,Across the Universe,2007-09-14,0,0,Adventure
+200,Elizabeth: The Golden Age,2007-09-09,55000000,74237563,Drama
+201,La Môme,2007-02-08,0,0,Music
+204,Juno,2007-12-05,7500000,231411584,Comedy
+205,Michael Clayton,2007-09-28,25000000,92991835,Drama
+208,No End in Sight,2007-07-27,2000000,1431623,Documentary
+209,Operation Homecoming: Writing the Wartime Experience,2007-02-09,0,0,Documentary
+210,Sicko,2007-05-18,9000000,24538513,Documentary
+211,Taxi to the Dark Side,2007-04-30,1000000,274661,Documentary
+212,War Dance,2007-11-09,0,0,Documentary
+213,Freeheld,2015-10-02,7000000,573335,Romance
+214,La corona partida,2016-02-19,0,0,Drama
+215,The Bourne Ultimatum,2007-08-03,70000000,442824138,Action
+217,Into the Wild,2007-09-11,15000000,56255142,Adventure
+220,בופור,2007-02-02,0,0,History
+221,The Counterfeiters,1948-05-28,0,0,Action
+222,Katyń,2007-09-21,5200000,14723313,Drama
+223,Монгол,2007-09-20,18000000,26527510,History
+224,12,2007-06-06,4000000,7537453,Crime
+226,Norbit,2007-02-08,10000000,0,Comedy
+227,Pirates of the Caribbean: At World's End,2007-05-19,300000000,961000000,Adventure
+229,The Kite Runner,2007-10-14,20000000,73276047,Drama
+232,3:10 to Yuma,2007-09-06,55000000,70016220,Western
+238,I Met the Walrus,2007-06-13,0,0,Documentary
+239,Madame Tutli-Putli,2007-05-19,0,0,Animation
+240,Peter Pan,1953-02-05,4000000,87404651,Animation
+241,Night at the Museum,2006-10-20,110000000,574480841,Action
+246,Transformers,2007-06-27,150000000,709709780,Adventure
+256,Away from Her,2006-09-11,0,0,Drama
+261,Lars and the Real Girl,2007-10-12,12000000,11293663,Comedy
+264,The Savages,2007-01-19,0,0,Drama
+265,El Chapo & Sean Penn: Bungle in the Jungle,2016-03-10,0,0,Documentary
+267,Michael Shannon Michael Shannon John,2015-09-26,0,0,Documentary
+268,One Day,2011-03-02,15000000,59389433,Drama
+269,Bolt,2008-01-29,150000000,309979994,Animation
+270,Kung Fu Panda,2008-06-04,130000000,631744560,Adventure
+271,Wall Street,1987-12-10,15000000,43848069,Crime
+272,Changeling,2008-01-30,55000000,113020255,Crime
+273,The Curious Case of Benjamin Button,2008-12-25,150000000,333932083,Fantasy
+274,The Dark Knight,2008-07-16,185000000,1004558444,Drama
+275,The Duchess,2008-09-05,17759769,43306325,Drama
+276,Revolutionary Road,2008-12-19,35000000,75225693,Drama
+280,The Reader,2008-12-10,32000000,113019290,Drama
+281,Slumdog Millionaire,2008-05-12,15000000,377910544,Drama
+282,Australia,2008-11-18,130000000,49554002,Adventure
+285,Milk,2008-11-26,20000000,54586584,History
+288,Frost/Nixon,2008-10-15,25000000,18593156,Drama
+292,The Betrayal (Nerakhoon),2008-11-21,0,0,Documentary
+293,Encounters at the End of the World,2007-09-01,0,0,Documentary
+294,The Secret Garden,1993-08-13,0,0,Drama
+295,Man on Wire,2008-07-25,0,2957978,Thriller
+296,Trouble the Water,2008-01-20,0,0,Documentary
+297,The Conscience of Nhem En,2008-08-22,0,0,Documentary
+298,Smile Pinki,2008-12-31,0,0,Documentary
+304,Der Baader Meinhof Komplex,2008-09-24,27000000,0,Action
+305,Front of the Class,2008-01-01,0,0,Drama
+306,Departures,2018-12-31,0,0,Drama
+307,Revanche,2008-05-16,0,0,Crime
+308,Vals Im Bashir,2008-06-25,2000000,11125849,Drama
+311,Hellboy II: The Golden Army,2008-07-11,85000000,160388063,Adventure
+313,Defiance,2008-12-31,32000000,51155219,Action
+322,つみきのいえ,2009-02-14,0,0,Animation
+323,Уборная история — любовная история,2008-01-01,0,0,Animation
+324,Oktapodi,2007-01-01,0,0,Animation
+325,Presto,2008-06-18,0,0,Animation
+326,This Way Up,2008-04-24,0,0,Comedy
+327,The Only Living Boy in New York,2017-07-27,0,0,Drama
+328,Babe: Pig in the City,1998-11-25,90000000,69131860,Adventure
+329,Spielzeugland,2007-08-29,0,0,Drama
+331,Iron Man,2008-04-30,140000000,585174222,Action
+334,Wanted,2008-06-19,75000000,258270008,Action
+344,Doubt,2008-11-27,20000000,50907234,Drama
+348,Frozen River,2008-08-01,0,0,Drama
+349,Happy-Go-Lucky,2008-04-18,0,18130888,Drama
+350,In Bruges,2008-02-08,15000000,34533783,Comedy
+353,The Nutty Professor,1963-06-04,0,0,Comedy
+355,Morgan Freeman Science Show - Esistono universi paralleli,2012-03-21,0,0,Documentary
+356,Untitled Jeremy Renner/Bourne Sequel,,0,0,Action
+357,Meeting Matt Damon,2015-09-28,0,0,Comedy
+358,Premonition,2007-02-08,20000000,84146832,Thriller
+360,Coraline,2009-02-05,60000000,124596398,Animation
+361,Fantastic Mr. Fox,2009-10-23,40000000,46471023,Adventure
+362,The Princess and the Frog,2009-12-08,105000000,270997378,Romance
+363,The Secret of Kells,2009-02-09,0,0,Animation
+364,Up,2009-05-28,175000000,735099082,Animation
+365,Avatar,2009-12-10,237000000,2787965087,Action
+366,The Imaginarium of Doctor Parnassus,2009-10-01,30000000,64352607,Adventure
+367,Nine,2009-12-03,80000000,53825515,Drama
+368,Sherlock Holmes,2009-12-23,90000000,524028679,Action
+369,The Young Victoria,2009-03-04,35000000,31878891,Drama
+371,Harry Potter and the Half-Blood Prince,2009-07-07,250000000,933959197,Adventure
+372,The Hurt Locker,2008-10-10,15000000,42000000,Drama
+373,Inglourious Basterds,2009-08-18,70000000,319131050,Drama
+374,Das weisse Band,2009-10-06,15238800,0,Crime
+375,Bright Star,2009-11-05,10000000,0,Drama
+376,Coco avant Chanel,2009-04-22,0,0,Drama
+383,Precious,2009-11-06,10000000,47536959,Drama
+384,Up in the Air,2009-09-05,25000000,163670000,Drama
+385,Burma VJ: Reporter i et lukket land,2008-11-12,0,0,Documentary
+386,The Cove,2009-07-31,0,1162422,Documentary
+387,"Food, Inc.",2008-09-07,0,0,Documentary
+388,The Most Dangerous Man in America: Daniel Ellsberg and the Pentagon Papers,2009-10-16,0,0,Documentary
+389,Which Way Home,2009-01-31,0,0,Documentary
+390,China's Unnatural Disaster: The Tears of Sichuan Province,2009-05-07,0,0,Documentary
+391,The Last Truck: Closing of a GM Plant,2009-09-07,0,0,Documentary
+392,Music by Prudence,2010-04-01,0,0,Documentary
+393,Królik po berlinsku,2009-04-29,0,0,Documentary
+395,District 9,2009-08-05,30000000,210819611,Science Fiction
+399,Ajami,2009-09-17,0,0,Crime
+400,La teta asustada,2009-02-12,0,0,Drama
+401,Anthem of a Teenage Prophet,2018-12-31,0,0,Drama
+402,El secreto de sus ojos,2009-08-13,2000000,33965843,Crime
+404,Il Divo,2008-05-28,7275000,11260366,Drama
+405,Star Trek,2009-05-06,150000000,385680446,Science Fiction
+413,The Blind Side,2009-11-20,29000000,309208309,Drama
+415,An Education,2009-10-29,7500000,26096852,Drama
+419,A Serious Man,2009-10-02,7000000,31430334,Comedy
+422,French Roast,2008-09-30,0,0,Animation
+423,Granny O'Grimm's Sleeping Beauty,2008-01-01,0,0,Animation
+424,The Lady and the Reaper,2009-10-01,700000,0,Animation
+425,Logorama,2009-01-01,0,0,Animation
+426,A Matter of Loaf and Death,2008-12-03,0,0,Animation
+427,The Girl Next Door,2004-04-09,0,31635150,Comedy
+428,Instead of Abracadabra,2008-01-23,0,0,Action
+429,കവി ഉദ്ദേശിച്ചത് ..?,2016-10-08,0,0,Comedy
+430,Miracle Fish,2009-01-16,0,0,Drama
+431,The New Tenants,2009-01-01,0,0,Comedy
+441,Transformers: Revenge of the Fallen,2009-06-19,150000000,836297228,Science Fiction
+447,In the Loop,2009-01-22,0,6149791,Comedy
+452,The Messenger,2009-11-13,6500000,1521261,Drama
+455,"Lauren Bacall, ombre et lumière",2017-09-24,0,0,Documentary
+456,Roger Corman: Hollywood's Wild Angel,1978-04-06,0,0,Documentary
+457,Comedy Central Roast of James Franco,2013-09-02,0,0,Comedy
+459,Kathy Griffin is... Not Nicole Kidman,2005-08-03,0,0,Comedy
+460,Untitled Jennifer Lawrence/Amy Schumer Project,,0,0,Comedy
+461,Natalie Portman: Starting Young,2005-01-11,0,0,Documentary
+462,How to Train Your Dragon,2010-03-05,165000000,494878759,Fantasy
+464,Toy Story 3,2010-06-16,200000000,1066969703,Animation
+465,Alice in Wonderland,2010-03-03,200000000,1025491110,Family
+466,Harry Potter and the Deathly Hallows: Part 1,2010-10-17,250000000,954305868,Adventure
+467,Inception,2010-07-15,160000000,825532764,Action
+468,The King's Speech,2010-09-06,15000000,414211549,Drama
+469,True Grit,2010-12-22,38000000,252276927,Drama
+470,Black Swan,2010-12-03,13000000,327803731,Drama
+473,The Social Network,2010-10-01,40000000,224920315,Drama
+476,Он - дракон,2015-12-04,18000000,1776333,Adventure
+478,The Tempest,2010-12-10,20000000,346594,Drama
+481,The Fighter,2010-12-17,25000000,93617009,Drama
+485,Exit Through the Gift Shop,2010-01-24,0,4790751,Documentary
+486,Gasland,2010-01-24,0,0,Documentary
+487,Inside Job,2010-10-08,2000000,7871522,Documentary
+488,Restrepo,2010-06-25,0,1422910,Documentary
+489,Waste Land,2010-01-24,1500000,187716,Documentary
+490,Strangers No More,2010-01-01,0,0,Documentary
+494,127 Hours,2010-11-05,18000000,35692920,Adventure
+496,Biutiful,2010-10-20,0,25147786,Drama
+497,Κυνόδοντας,2009-06-01,0,110197,Drama
+498,Hævnen,2010-08-26,15000000,13004198,Drama
+499,Incendies,2010-09-04,10000000,0,Drama
+500,Hors-la-loi,2010-09-21,30000000,0,Action
+501,Barney's Version,2010-10-26,30000000,8454301,Comedy
+502,The Way Way Back,2013-06-06,4600000,23198652,Comedy
+503,The Wolfman,2010-02-11,150000000,0,Drama
+512,The Kids Are All Right,2010-07-09,3500000,34705850,Comedy
+518,Winter's Bone,2010-06-11,2000000,13831503,Drama
+519,Groundhog Day,1993-02-11,14600000,70906973,Romance
+520,The Gruffalo,2009-12-25,0,0,Animation
+521,The Lost Thing,2010-06-03,0,0,Animation
+522,The Confession,1999-03-26,0,0,Drama
+523,The Crush,1993-04-02,6000000,13609396,Drama
+524,"Eros, o Deus do Amor",1981-08-21,0,0,Drama
+525,Na Wewe,2010-04-25,0,0,Comedy
+526,Wish 143,2009-11-19,0,0,Drama
+529,TRON: Legacy,2010-12-10,170000000,400062763,Adventure
+531,Unstoppable,2010-11-04,100000000,167805466,Action
+534,Salt,2010-07-21,110000000,293329073,Action
+539,Hereafter,2010-10-22,50000000,105197635,Drama
+541,Iron Man 2,2010-04-28,200000000,623933331,Adventure
+547,Another Year,2010-11-05,8000000,18124262,Comedy
+552,Jean-Luc Cinema Godard,2009-09-30,0,0,Documentary
+553,Hearts of Darkness: A Filmmaker's Apocalypse,1991-09-06,0,0,Documentary
+555,Kenneth Branagh Theatre Company Live: The Winter's Tale,2015-11-26,0,0,Drama
+556,Nick Nolte: No Exit,2008-01-01,0,0,Documentary
+557,Max Von Sydow: Dialogues with The Renter,2012-03-27,0,0,Documentary
+558,Une vie de chat,2010-12-13,0,309973,Animation
+559,Chico & Rita,2010-11-19,0,0,Animation
+560,Kung Fu Panda 2,2011-05-25,150000000,665692281,Animation
+561,Puss in Boots,2011-10-28,130000000,554987477,Action
+562,Rango,2011-03-02,10000000,0,Animation
+563,The Artist,2011-06-26,15000000,133432856,Drama
+564,Harry Potter and the Deathly Hallows: Part 2,2011-07-07,125000000,1342000000,Family
+565,Hugo,2011-11-22,170000000,185770160,Adventure
+566,Midnight in Paris,2011-05-11,30000000,151119219,Fantasy
+567,War Horse,2011-12-25,66000000,177584879,Drama
+569,The Girl with the Dragon Tattoo,2011-12-14,90000000,232617430,Thriller
+571,The Tree of Life,2011-05-18,32000000,54674226,Drama
+573,Anonymous,2011-10-21,30000000,15395087,Drama
+576,Jane Eyre,2011-03-11,0,34710627,Drama
+577,W.E.,2011-09-01,15000000,868439,Drama
+579,The Descendants,2011-09-09,20000000,177243185,Comedy
+583,Hell and Back Again,2011-10-04,0,0,Documentary
+584,If a Tree Falls: A Story of the Earth Liberation Front,2011-06-22,0,0,Documentary
+585,Paradise Lost 3: Purgatory,2011-10-10,0,0,Documentary
+586,Pina,2011-02-24,4317946,14624826,Documentary
+587,Undefeated,2011-03-13,0,0,Documentary
+588,The Barber of Birmingham: Foot Soldier of the Civil Rights Movement,2011-01-01,0,0,Documentary
+589,God is the Bigger Elvis,2012-04-01,0,0,Documentary
+590,Incident in New Baghdad,2011-04-24,0,0,Documentary
+591,Saving Face,2004-09-12,0,0,Comedy
+592,The Tsunami and the Cherry Blossom,2011-09-12,0,0,Documentary
+597,Moneyball,2011-09-22,50000000,110206216,Drama
+598,Rundskop,2011-02-02,2000000,0,Crime
+599,הערת שוליים,2011-05-25,0,0,Drama
+600,In Darkness,2018-05-25,0,0,Thriller
+601,Monsieur Lazhar,2011-09-10,0,6581915,Drama
+602,جدایی نادر از سیمین,2011-03-15,500000,24426169,Drama
+603,Albert Nobbs,2011-12-21,8000000,5634828,Drama
+605,The Iron Lady,2011-12-30,13000000,114956699,History
+606,The Adventures of Tintin,2011-10-25,130000000,371940071,Adventure
+609,Tinker Tailor Soldier Spy,2011-09-16,30000000,80630608,Drama
+613,Extremely Loud & Incredibly Close,2011-12-24,40000000,55247881,Drama
+614,The Help,2011-08-09,25000000,124272124,Drama
+620,Any Given Sunday,1999-12-16,55000000,100230832,Drama
+621,The Fantastic Flying Books of Mr Morris Lessmore,2011-01-30,0,0,Adventure
+622,La Luna,1979-08-29,0,0,Drama
+623,Robinson Crusoe: The Wild Life,2016-02-04,13500000,3342697,Adventure
+624,Pentecost,2011-02-10,0,0,Comedy
+625,Raju Gadu,2018-06-01,0,0,Comedy
+626,Love at the Shore,2017-08-05,0,0,Romance
+627,Time Freak,2018-11-09,0,0,Science Fiction
+628,Tuba Atlantic,2010-02-10,0,0,Comedy
+629,Drive,2011-08-06,15000000,78054825,Drama
+632,Transformers: Dark of the Moon,2011-06-28,195000000,1123746996,Action
+641,Real Steel,2011-09-28,110000000,299268508,Action
+642,Rise of the Planet of the Apes,2011-08-03,93000000,482860185,Thriller
+646,The Ides of March,2011-09-24,12500000,75993061,Drama
+650,Bridesmaids,2011-05-13,32500000,288383523,Comedy
+651,Margin Call,2011-09-28,3500000,19504039,Thriller
+654,Mitch Albom's For One More Day,2007-12-09,0,0,Drama
+656,Alles wegen Robert De Niro,1996-12-04,0,0,Comedy
+659,Brave,2012-06-21,185000000,538983207,Animation
+660,Frankenweenie,2012-10-04,39000000,35287788,Animation
+661,ParaNorman,2012-08-03,60000000,107139399,Family
+662,The Pirates! In an Adventure with Scientists!,2012-03-12,60000000,118338361,Animation
+663,Wreck-It Ralph,2012-11-01,165000000,471222889,Family
+664,Anna Karenina,2012-09-06,0,68929150,Drama
+665,Django Unchained,2012-12-25,100000000,425368238,Drama
+666,Life of Pi,2012-11-20,120000000,609016565,Adventure
+667,Lincoln,2012-11-09,65000000,275293450,History
+668,Skyfall,2012-10-25,200000000,1108561013,Action
+670,Les Misérables,2012-12-18,61000000,441809770,History
+672,Mirror Mirror,2012-03-15,85000000,183018522,Adventure
+673,Snow White and the Huntsman,2012-05-30,170000000,396600000,Adventure
+674,Amour,2012-07-01,8900000,29844753,Drama
+675,Beasts of the Southern Wild,2012-06-29,1800000,21107746,Drama
+678,Silver Linings Playbook,2012-09-08,21000000,236412453,Drama
+679,Five Broken Cameras,2011-11-23,0,0,War
+680,The Gatekeepers,2012-07-09,0,0,Documentary
+681,How to Survive a Plague,2012-09-20,0,0,Documentary
+682,The Invisible War,2012-01-20,0,0,Crime
+683,Searching for Sugar Man,2012-06-30,0,0,Documentary
+684,Born Innocent,1974-09-10,0,0,Drama
+685,Aprimi il cuore,2002-09-07,0,0,Drama
+686,The Shawshank Redemption,1994-09-23,25000000,28341469,Drama
+687,Argo,2012-10-11,44500000,232324128,Drama
+691,Zero Dark Thirty,2012-12-19,40000000,132820716,Thriller
+693,Kon-Tiki,2012-08-24,16600000,0,Adventure
+694,Dr. No,1962-10-04,950000,59600000,Adventure
+695,En kongelig affære,2012-03-29,8000000,7594693,Drama
+696,Rebelle,2012-02-17,0,0,Drama
+697,Hitchcock,2012-11-22,0,23570541,Drama
+698,The Hobbit: An Unexpected Journey,2012-11-26,250000000,1021103568,Adventure
+719,Adam and Dog,2013-02-01,0,0,Animation
+720,Fresh Guacamole,2012-03-02,0,0,Animation
+721,Head Over Heels,2001-02-02,14000000,10424470,Comedy
+722,Maggie Simpson in The Longest Daycare,2012-07-12,0,0,Animation
+723,Paperman,2012-11-02,0,0,Animation
+724,Curfew,2012-01-01,50000,0,Drama
+725,Hardcore Henry,2015-09-12,10000000,14333790,Action
+738,The Avengers,2012-04-25,220000000,1519557910,Science Fiction
+739,Prometheus,2012-05-30,130000000,403170142,Science Fiction
+748,Flight,2012-11-02,31000000,161772375,Drama
+749,Moonrise Kingdom,2012-05-24,16000000,68263166,Comedy
+751,Jill Drew and D.A. Pennebaker,2016-04-20,0,0,Documentary
+752,George Stevens Jr. On 'Woman of the Year',2017-04-18,0,0,Documentary
+753,Joker,,0,0,Crime
+757,Untitled Lupita Nyong'o/Rihanna Project,,0,0,Crime
+758,The Croods,2013-03-20,135000000,585178928,Action
+759,Despicable Me 2,2013-06-25,76000000,970761885,Animation
+760,Ernest et Célestine,2012-12-12,12516654,8109160,Animation
+761,Frozen,2013-11-27,150000000,1274219009,Animation
+762,風立ちぬ,2013-07-20,30000000,117932401,Animation
+763,一代宗師,2013-01-10,3860000,64076736,Action
+764,Gravity,2013-10-03,105000000,716392705,Science Fiction
+765,Inside Llewyn Davis,2013-10-06,11000000,32935319,Drama
+766,Nebraska,2013-09-21,12000000,17654912,Drama
+767,Prisoners,2013-09-18,46000000,122126687,Drama
+768,American Hustle,2013-12-12,40000000,251171807,Drama
+770,The Great Gatsby,2013-05-10,105000000,351040419,Drama
+771,The Invisible Woman,2013-12-25,0,1234254,Drama
+772,12 Years a Slave,2013-10-18,20000000,187000000,Drama
+777,The Wolf of Wall Street,2013-12-25,100000000,392000694,Crime
+778,Jagal,2012-08-31,1000000,444575,Documentary
+779,Cutie and the Boxer,2013-08-16,0,0,Documentary
+780,Dirty Wars,2013-01-18,0,0,Documentary
+781,The Square,2017-08-25,0,1502347,Drama
+782,20 Feet from Stardom,2013-06-14,1000000,5892466,Documentary
+783,Cavedigger,2013-01-12,0,0,Documentary
+784,Karama Has No Walls,2012-03-01,0,0,Documentary
+786,Captain Phillips,2013-10-10,55000000,95000000,Action
+787,Dallas Buyers Club,2013-11-17,5000000,55198285,Drama
+790,The Broken Circle Breakdown,2012-10-09,0,5475058,Drama
+791,The Great American Beauty Contest,1973-02-13,0,0,TV Movie
+792,Hunt for the Wilderpeople,2016-03-31,2500000,23200000,Adventure
+793,L'image manquante,2014-03-19,0,52164,Documentary
+794,Omar m'a tuer,2011-06-21,0,0,Drama
+796,Jackass Presents: Bad Grandpa,2013-10-22,15000000,151831537,Comedy
+797,The Lone Ranger,2013-07-03,255000000,89289910,Action
+798,The Book Thief,2013-11-08,0,76586316,Drama
+800,Her,2013-12-18,23000000,47351251,Romance
+801,Philomena,2013-11-01,12000000,100129872,Drama
+802,Saving Mr. Banks,2013-11-16,35000000,112544580,Comedy
+817,Feral,2018-05-25,0,0,Thriller
+818,Get a Horse!,2013-11-27,0,0,Animation
+819,Mr Hublot,2013-10-14,295000,0,Animation
+820,Ava's Possessions,2015-03-16,0,0,Mystery
+821,Room on the Broom,2012-12-25,0,0,Family
+822,Avant que de tout perdre,2013-01-23,0,0,Family
+823,Helium,2013-10-01,0,0,Drama
+824,The Voorman Problem,2013-04-25,0,0,Comedy
+825,All Is Lost,2013-10-18,9000000,6108720,Action
+828,The Hobbit: The Desolation of Smaug,2013-12-11,250000000,958400000,Adventure
+829,Lone Survivor,2013-12-24,40000000,149295601,Action
+837,Iron Man 3,2013-04-18,200000000,1215439994,Action
+839,Star Trek Into Darkness,2013-05-05,190000000,467365246,Action
+840,Before Midnight,2013-04-05,3000000,11176469,Romance
+846,Blue Jasmine,2013-07-25,18000000,99206215,Comedy
+850,Steve Martin Live,1984-09-06,0,0,Comedy
+851,They All Laughed 25 Years Later: Director to Director - A Conversation with Peter Bogdanovich and Wes Anderson,2006-10-17,0,0,Documentary
+852,Untitled Laura Dern/Judd Apatow Project,,0,0,Comedy
+853,Big Hero 6,2014-10-24,165000000,657818612,Adventure
+854,The Boxtrolls,2014-09-10,60000000,108255770,Animation
+855,How to Train Your Dragon 2,2014-06-12,145000000,609123048,Fantasy
+856,Song of the Sea,2014-09-06,0,857522,Family
+857,かぐや姫の物語,2013-11-23,49300000,24186232,Animation
+858,Birdman,2014-08-27,18000000,103215094,Drama
+859,The Grand Budapest Hotel,2014-02-26,30000000,174600318,Comedy
+860,Ida,2013-10-25,2159280,15298355,Drama
+861,Mr. Turner,2014-10-31,0,5405500,History
+862,Unbroken,2014-12-25,65000000,163442937,Drama
+864,Inherent Vice,2014-12-25,20000000,11110975,Comedy
+865,Into the Woods,2014-12-25,50000000,212902372,Fantasy
+866,Maleficent,2014-05-28,180000000,758539785,Fantasy
+869,Boyhood,2014-06-05,4000000,44349000,Drama
+870,Foxcatcher,2014-05-19,24000000,12096300,Drama
+872,The Imitation Game,2014-11-14,14000000,233555708,History
+873,Citizenfour,2014-10-24,0,3003169,Documentary
+874,Finding Vivian Maier,2014-03-28,0,1503616,Documentary
+875,Last Days in Vietnam,2014-09-05,0,161,War
+876,Salt of the Earth,1954-03-14,0,0,History
+877,Virunga,2014-11-07,0,0,Documentary
+878,Crisis Hotline: Veterans Press 1,2013-11-11,0,0,Documentary
+879,Joanna,2013-06-28,0,0,Documentary
+880,Nasza klątwa,2013-05-28,0,0,Documentary
+881,White Earth,2013-03-17,0,0,Documentary
+882,American Sniper,2014-12-11,58800000,542307423,War
+886,Whiplash,2014-10-10,3300000,13092000,Drama
+888,Leviathan,1989-03-17,25000000,15704614,Adventure
+889,Mandariinid,2013-10-16,0,0,Drama
+890,Timbuktu,2014-12-10,0,1076075,Drama
+891,Relatos salvajes,2014-08-21,0,27007072,Drama
+894,Guardians of the Galaxy,2014-07-30,170000000,773328629,Action
+897,Interstellar,2014-11-05,165000000,675120017,Adventure
+899,The Theory of Everything,2014-11-26,15000000,123726688,Drama
+905,Selma,2014-12-25,20000000,66787908,History
+913,The Bigger Picture,2014-05-21,0,0,Drama
+914,The Dam Keeper,2014-02-06,0,0,Animation
+915,Feast,2014-11-07,0,0,Animation
+916,Moulton og meg,2014-09-11,0,0,Animation
+917,A Single Life,2014-12-04,0,0,Animation
+918,Boogaloo and Graham,2014-08-01,0,0,Drama
+919,Parvaneh,2012-11-01,0,0,Drama
+920,The Phone Call,2013-10-20,0,0,Drama
+923,The Hobbit: The Battle of the Five Armies,2014-12-10,250000000,956019788,Action
+931,Captain America: The Winter Soldier,2014-03-20,170000000,714766572,Action
+932,Dawn of the Planet of the Apes,2014-06-26,170000000,710644566,Science Fiction
+935,X-Men: Days of Future Past,2014-05-15,250000000,747862775,Action
+945,Nightcrawler,2014-10-23,8500000,50300000,Crime
+946,Sing Your Song,2012-01-13,0,29110,Documentary
+948,Busy Bodies,1933-10-07,0,0,Comedy
+949,Driven,2001-04-27,94000000,54744738,Action
+951,Charlotte Rampling: The Look,2011-05-16,0,0,Documentary
+952,Anomalisa,2015-12-30,8000000,5659286,Animation
+953,O Menino e o Mundo,2014-01-17,0,0,Animation
+954,Inside Out,2015-06-09,175000000,857611174,Drama
+955,Shaun the Sheep Movie,2015-02-05,0,59700000,Family
+956,思い出のマーニー,2014-07-19,0,561085,Animation
+957,Carol,2015-11-20,0,40272135,Romance
+958,The Hateful Eight,2015-12-25,44000000,155760117,Crime
+959,Mad Max: Fury Road,2015-05-13,150000000,378858340,Action
+960,The Revenant,2015-12-25,135000000,532950503,Western
+961,Sicario,2015-09-17,30000000,84025816,Action
+963,Cinderella,2015-03-12,95000000,543514353,Romance
+964,The Danish Girl,2015-11-27,15000000,64191523,Drama
+967,The Big Short,2015-12-11,28000000,133346506,Comedy
+970,Room,2015-10-16,6000000,35401758,Drama
+971,Spotlight,2015-11-06,20000000,88346473,Drama
+972,Amy,2015-07-03,0,8413144,Documentary
+973,Cartel Land,2015-07-03,0,0,Drama
+974,The Look of Silence,2014-08-30,0,332710,History
+975,"What Happened, Miss Simone?",2015-01-22,0,0,Documentary
+976,Winter on Fire: Ukraine's Fight for Freedom,2015-10-09,0,0,Documentary
+977,Body Team 12,2015-04-19,0,0,Documentary
+978,"Chau, Beyond the Lines",2015-08-21,0,0,Documentary
+979,A Girl in the River: The Price of Forgiveness,2015-10-28,0,0,Documentary
+980,Last Day of Freedom,2015-04-11,0,0,Animation
+985,Star Wars: The Force Awakens,2015-12-15,245000000,2068223624,Action
+986,El Abrazo de la Serpiente,2015-05-25,1400000,1320005,Adventure
+987,Mustang,2015-06-17,1300000,250000,Drama
+988,Saul fia,2015-06-11,1000000,1777043,War
+989,Theeb‎‎,2014-09-04,0,0,Adventure
+990,A Private War,2018-11-16,0,0,Drama
+992,Hundraåringen som klev ut genom fönstret och försvann,2013-12-25,9250000,0,Adventure
+994,Bridge of Spies,2015-10-15,40000000,165478348,Thriller
+999,The Bath Song & More Kids Songs: Super Simple Songs,2015-04-22,0,0,Music
+1002,Brooklyn,2015-10-20,11000000,62076141,Drama
+1004,The Martian,2015-09-30,108000000,630161890,Drama
+1013,Historia de un oso,2014-05-08,0,0,Adventure
+1014,Prologue,2015-06-01,0,0,Action
+1015,Sanjay's Super Team,2015-11-25,0,0,Animation
+1016,Мы не можем жить без космоса,2014-08-21,0,0,Animation
+1017,World of Tomorrow,2015-03-05,0,0,Animation
+1018,Ave Maria,2015-05-18,0,0,Comedy
+1020,Shok,2015-04-10,0,0,Drama
+1021,Stutterer,2015-07-08,0,0,Drama
+1032,Ex Machina,2015-01-21,15000000,36869414,Drama
+1046,Straight Outta Compton,2015-08-13,28000000,201634991,Drama
+1047,Bright Lights: Starring Carrie Fisher and Debbie Reynolds,2016-05-14,10000000,0,Documentary
+1048,He Got Game,1998-05-01,25000000,21567853,Drama
