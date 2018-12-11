@@ -1,0 +1,568 @@
+,Movie,Rating,Release Date,Runtime,Metascore,IMDb Rating,Box Office,Awards,Production Company
+0,Capote,R,03 Feb 2006,114 min,88,7.4,"$28,337,516",Won 1 Oscar. Another 58 wins & 86 nominations.,Sony Pictures Classics
+1,American Hustle,R,20 Dec 2013,138 min,90,7.3,"$99,165,609",Nominated for 10 Oscars. Another 70 wins & 208 nominations.,Sony Pictures
+2,Brokeback Mountain,R,13 Jan 2006,134 min,87,7.7,"$82,970,165",Won 3 Oscars. Another 138 wins & 128 nominations.,Focus Features
+3,Walk the Line,PG-13,18 Nov 2005,136 min,72,7.9,"$119,317,827",Won 1 Oscar. Another 44 wins & 46 nominations.,20th Century Fox
+4,"Good Night, and Good Luck.",PG,04 Nov 2005,93 min,80,7.5,"$31,500,000",Nominated for 6 Oscars. Another 38 wins & 121 nominations.,Warner Independent Pictures
+5,Syriana,R,09 Dec 2005,128 min,76,6.9,"$50,800,000",Won 1 Oscar. Another 13 wins & 28 nominations.,Warner Bros. Pictures
+6,Crash,R,06 May 2005,112 min,69,7.8,"$55,382,847",Won 3 Oscars. Another 64 wins & 111 nominations.,Lions Gate Films
+7,Cinderella Man,PG-13,03 Jun 2005,144 min,69,8.0,"$61,600,000",Nominated for 3 Oscars. Another 16 wins & 41 nominations.,Universal Pictures
+8,A History of Violence,R,30 Sep 2005,96 min,81,7.5,"$31,500,000",Nominated for 2 Oscars. Another 37 wins & 78 nominations.,New Line Cinema
+9,Mrs Henderson Presents,R,17 Feb 2006,103 min,71,7.1,"$10,965,943",Nominated for 2 Oscars. Another 6 wins & 31 nominations.,Weinstein Company
+10,Transamerica,R,03 Mar 2006,103 min,66,7.4,"$8,713,873",Nominated for 2 Oscars. Another 32 wins & 23 nominations.,Weinstein Company
+11,Pride,R,12 Sep 2014,119 min,79,7.8,N/A,Nominated for 1 Golden Globe. Another 9 wins & 17 nominations.,CBS Films
+12,North Country,R,21 Oct 2005,126 min,68,7.3,"$18,324,242",Nominated for 2 Oscars. Another 6 wins & 17 nominations.,Warner Bros. Pictures
+13,Junebug,R,16 Sep 2005,106 min,80,7.0,"$2,416,555",Nominated for 1 Oscar. Another 21 wins & 27 nominations.,Sony Pictures Classics
+14,The Constant Gardener,R,31 Aug 2005,129 min,82,7.4,"$33,565,375",Won 1 Oscar. Another 35 wins & 68 nominations.,Focus Features
+15,Being George Clooney,N/A,15 Oct 2016,88 min,N/A,6.7,N/A,1 nomination.,N/A
+16,Little Italy,N/A,21 Sep 2018,102 min,28,5.7,N/A,N/A,Lionsgate
+17,Made in France,R,23 Sep 2016,89 min,N/A,6.2,N/A,N/A,N/A
+18,Mumford,R,24 Sep 1999,112 min,62,6.9,N/A,1 win & 1 nomination.,Buena Vista Pictures
+19,A John Williams Celebration,NOT RATED,30 Jun 2015,103 min,N/A,8.5,N/A,N/A,N/A
+20,King Richard and the Crusaders,APPROVED,07 Aug 1954,114 min,N/A,5.7,N/A,N/A,Warner Home Video
+21,Blood Diamond,R,08 Dec 2006,143 min,64,8.0,"$57,300,000",Nominated for 5 Oscars. Another 8 wins & 26 nominations.,Warner Bros. Pictures
+22,Half Nelson,R,22 Sep 2006,106 min,85,7.2,"$2,591,047",Nominated for 1 Oscar. Another 29 wins & 47 nominations.,ThinkFilm
+23,Venus,R,16 Feb 2007,95 min,82,7.1,"$3,261,449",Nominated for 1 Oscar. Another 4 wins & 20 nominations.,Miramax Films
+24,The Pursuit of Happyness,PG-13,15 Dec 2006,117 min,64,8.0,"$162,586,036",Nominated for 1 Oscar. Another 11 wins & 24 nominations.,Sony Pictures
+25,The Last King of Scotland,R,19 Jan 2007,123 min,74,7.7,"$17,449,410",Won 1 Oscar. Another 47 wins & 31 nominations.,Fox Searchlight
+26,Little Miss Sunshine,R,18 Aug 2006,101 min,80,7.8,"$59,831,476",Won 2 Oscars. Another 68 wins & 107 nominations.,Fox Searchlight
+27,Little Children,R,09 Feb 2007,136 min,75,7.5,"$5,307,219",Nominated for 3 Oscars. Another 20 wins & 57 nominations.,New Line Cinema
+28,Dreamgirls,PG-13,25 Dec 2006,130 min,76,6.5,"$103,300,000",Won 2 Oscars. Another 66 wins & 91 nominations.,Dreamworks
+29,The Departed,R,06 Oct 2006,151 min,85,8.5,"$132,300,000",Won 4 Oscars. Another 92 wins & 135 nominations.,Warner Bros. Pictures
+30,Volver,R,26 Jan 2007,121 min,84,7.6,"$12,830,604",Nominated for 1 Oscar. Another 60 wins & 90 nominations.,Sony Pictures Classics
+31,Notes on a Scandal,R,26 Jan 2007,92 min,73,7.4,"$17,400,000",Nominated for 4 Oscars. Another 15 wins & 68 nominations.,Fox Searchlight Pictures
+32,The Queen,PG-13,17 Nov 2006,103 min,91,7.3,"$56,222,759",Won 1 Oscar. Another 94 wins & 95 nominations.,Miramax Films
+33,The Devil Wears Prada,PG-13,30 Jun 2006,109 min,62,6.9,"$124,700,000",Nominated for 2 Oscars. Another 16 wins & 50 nominations.,20th Century Fox
+34,Babel,R,10 Nov 2006,143 min,69,7.5,"$34,237,104",Won 1 Oscar. Another 41 wins & 134 nominations.,Paramount Classics
+35,Close Encounters with Vilmos Zsigmond,N/A,16 Nov 2016,80 min,N/A,7.2,N/A,2 nominations.,N/A
+36,A Personal Journey with Martin Scorsese Through American Movies,N/A,21 May 1995,225 min,N/A,8.6,N/A,N/A,The British Film Institute
+37,...Og det var Danmark,N/A,09 Apr 2008,107 min,N/A,7.6,N/A,N/A,N/A
+38,Good Luck Algeria,N/A,30 Mar 2016,91 min,N/A,6.2,N/A,N/A,N/A
+39,Michael Clayton,R,12 Oct 2007,119 min,82,7.3,"$48,976,323",Won 1 Oscar. Another 26 wins & 110 nominations.,Warner Bros. Pictures
+40,There Will Be Blood,R,25 Jan 2008,158 min,93,8.1,"$40,133,435",Won 2 Oscars. Another 106 wins & 136 nominations.,Paramount Vantage
+41,Sweeney Todd: The Demon Barber of Fleet Street,R,21 Dec 2007,116 min,83,7.4,"$52,900,000",Won 1 Oscar. Another 33 wins & 75 nominations.,DreamWorks/Paramount Studios
+42,In the Valley of Elah,R,28 Sep 2007,121 min,65,7.2,"$6,585,535",Nominated for 1 Oscar. Another 2 wins & 17 nominations.,Warner Independent Pictures
+43,Eastern Promises,R,21 Sep 2007,100 min,82,7.7,"$17,114,882",Nominated for 1 Oscar. Another 28 wins & 70 nominations.,Focus Features
+44,The Assassination of Jesse James by the Coward Robert Ford,R,19 Oct 2007,160 min,68,7.5,"$3,900,000",Nominated for 2 Oscars. Another 25 wins & 65 nominations.,Warner Bros. Pictures
+45,No Country for Old Men,R,21 Nov 2007,122 min,91,8.1,"$74,223,625",Won 4 Oscars. Another 157 wins & 132 nominations.,Miramax Films
+46,Charlie Wilson's War,R,21 Dec 2007,102 min,69,7.1,"$66,636,385",Nominated for 1 Oscar. Another 5 wins & 22 nominations.,Universal Pictures
+47,Into the Wild,R,19 Oct 2007,148 min,73,8.1,"$18,173,360",Nominated for 2 Oscars. Another 23 wins & 99 nominations.,Paramount Vantage
+48,Elizabeth: The Golden Age,PG-13,12 Oct 2007,114 min,45,6.9,"$16,264,475",Won 1 Oscar. Another 5 wins & 29 nominations.,Universal Pictures
+49,Away from Her,PG-13,25 May 2007,110 min,88,7.6,"$15,830,046",Nominated for 2 Oscars. Another 62 wins & 38 nominations.,Lionsgate
+50,La môme aux boutons,N/A,22 Oct 1958,98 min,N/A,N/A,N/A,N/A,N/A
+51,The Savages,R,01 Feb 2008,113 min,85,7.2,"$6,426,953",Nominated for 2 Oscars. Another 17 wins & 31 nominations.,Fox Searchlight Pictures
+52,Juno,PG-13,25 Dec 2007,96 min,81,7.5,"$143,380,890",Won 1 Oscar. Another 89 wins & 95 nominations.,Fox Searchlight
+53,I'm Not There,R,07 Dec 2007,135 min,73,7.0,"$4,000,000",Nominated for 1 Oscar. Another 27 wins & 45 nominations.,The Weinstein Co.
+54,American Gangster,R,02 Nov 2007,157 min,76,7.8,"$130,127,620",Nominated for 2 Oscars. Another 12 wins & 35 nominations.,Universal Pictures
+55,Atonement,R,11 Jan 2008,123 min,85,7.8,"$50,830,581",Won 1 Oscar. Another 50 wins & 146 nominations.,Focus Features
+56,Gone Baby Gone,R,19 Oct 2007,114 min,72,7.7,"$20,300,218",Nominated for 1 Oscar. Another 34 wins & 29 nominations.,Miramax
+57,Julian Schnabel: A Private Portrait,N/A,05 May 2017,84 min,42,7.1,"$8,679",N/A,Buena Onda Srl
+58,A Christmas Eve Conversation with Quentin Tarantino & Paul Thomas Anderson,N/A,24 Dec 2015,41 min,N/A,6.8,N/A,N/A,N/A
+59,"Roman J. Israel, Esq.",PG-13,22 Nov 2017,122 min,58,6.4,"$11,887,893",Nominated for 1 Oscar. Another 1 win & 7 nominations.,Sony Pictures
+60,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,R,03 Nov 2006,84 min,89,7.3,"$128,400,000",Nominated for 1 Oscar. Another 20 wins & 33 nominations.,20th Century Fox
+61,From Russia with Love,PG,27 May 1964,115 min,85,7.5,N/A,Nominated for 1 Golden Globe. Another 3 wins & 5 nominations.,United Artists
+62,The Visitor,PG-13,23 May 2008,104 min,79,7.7,"$9,234,510",Nominated for 1 Oscar. Another 19 wins & 34 nominations.,Overture Films
+63,Frost/Nixon,R,23 Jan 2009,122 min,80,7.7,"$18,600,000",Nominated for 5 Oscars. Another 21 wins & 71 nominations.,Universal Pictures
+64,Milk,R,30 Jan 2009,128 min,84,7.6,"$31,716,847",Won 2 Oscars. Another 61 wins & 141 nominations.,Focus Features
+65,The Curious Case of Benjamin Button,PG-13,25 Dec 2008,166 min,70,7.8,"$127,490,802",Won 3 Oscars. Another 77 wins & 155 nominations.,Paramount
+66,The Wrestler,R,30 Jan 2009,109 min,81,7.9,"$26,136,413",Nominated for 2 Oscars. Another 57 wins & 86 nominations.,Fox Searchlight Pictures
+67,Tropic Thunder,R,13 Aug 2008,107 min,71,7.0,"$110,416,702",Nominated for 1 Oscar. Another 10 wins & 43 nominations.,DreamWorks/Paramount Studios
+68,Doubt,PG-13,25 Dec 2008,104 min,68,7.5,"$33,422,556",Nominated for 5 Oscars. Another 26 wins & 88 nominations.,Miramax
+69,The Dark Knight,PG-13,18 Jul 2008,152 min,84,9.0,"$533,316,061",Won 2 Oscars. Another 152 wins & 155 nominations.,Warner Bros. Pictures/Legendary
+70,Revolutionary Road,R,23 Jan 2009,119 min,69,7.3,"$22,877,808",Nominated for 3 Oscars. Another 19 wins & 67 nominations.,Paramount Vantage
+71,Rachel Getting Married,R,07 Nov 2008,113 min,82,6.7,"$12,748,504",Nominated for 1 Oscar. Another 31 wins & 63 nominations.,Sony Pictures Classics
+72,Changeling,R,31 Oct 2008,141 min,63,7.8,"$35,707,327",Nominated for 3 Oscars. Another 13 wins & 47 nominations.,Universal Pictures
+73,Frozen River,R,05 Sep 2008,97 min,82,7.2,"$2,061,019",Nominated for 2 Oscars. Another 32 wins & 37 nominations.,Sony Pictures Classics
+74,The Reader,R,30 Jan 2009,124 min,58,7.6,"$34,111,418",Won 1 Oscar. Another 25 wins & 47 nominations.,The Weinstein Co./MGM
+75,Vicky Cristina Barcelona,PG-13,15 Aug 2008,96 min,70,7.1,"$23,164,041",Won 1 Oscar. Another 31 wins & 53 nominations.,The Weinstein Co.
+76,Last Days,R,13 May 2005,97 min,67,5.8,"$356,500",1 win & 5 nominations.,Picture House
+77,Sunshine,R,27 Jul 2007,107 min,64,7.3,N/A,1 win & 18 nominations.,N/A
+78,A Christmas Carol,PG,06 Nov 2009,96 min,55,6.8,"$137,816,456",3 wins & 5 nominations.,Walt Disney Studios
+79,iCarly: iGo to Japan,TV-G,08 Nov 2008,71 min,N/A,6.4,N/A,N/A,N/A
+80,One Heart: The A.R. Rahman Concert Film,N/A,08 Sep 2017,87 min,N/A,8.9,N/A,N/A,N/A
+81,Crazy Heart,R,05 Feb 2010,112 min,83,7.3,"$38,349,555",Won 2 Oscars. Another 36 wins & 29 nominations.,Fox Searchlight Pictures
+82,Up in the Air,R,23 Dec 2009,109 min,83,7.4,"$83,775,048",Nominated for 6 Oscars. Another 76 wins & 158 nominations.,Paramount Pictures
+83,A Single Man,R,05 Feb 2010,99 min,77,7.6,"$9,098,668",Nominated for 1 Oscar. Another 36 wins & 55 nominations.,The Weinstein Company
+84,Invictus,PG-13,11 Dec 2009,134 min,74,7.3,"$37,431,431",Nominated for 2 Oscars. Another 10 wins & 33 nominations.,Warner Bros. Pictures
+85,The Hurt Locker,R,31 Jul 2009,131 min,94,7.6,"$15,700,000",Won 6 Oscars. Another 117 wins & 126 nominations.,Summit Entertainment
+86,The Messenger,R,04 Dec 2009,113 min,77,7.1,"$1,006,655",Nominated for 2 Oscars. Another 17 wins & 44 nominations.,Oscilloscope Pictures
+87,The Last Station,R,26 Feb 2010,112 min,76,7.0,"$6,500,000",Nominated for 2 Oscars. Another 3 wins & 15 nominations.,Sony Pictures Classics
+88,The Lovely Bones,PG-13,15 Jan 2010,135 min,42,6.7,"$43,982,842",Nominated for 1 Oscar. Another 10 wins & 45 nominations.,Paramount Pictures
+89,Inglourious Basterds,R,21 Aug 2009,153 min,69,8.3,"$120,523,073",Won 1 Oscar. Another 129 wins & 165 nominations.,The Weinstein Company
+90,The Blind Side,PG-13,20 Nov 2009,129 min,53,7.7,"$255,900,000",Won 1 Oscar. Another 7 wins & 30 nominations.,Warner Bros. Pictures
+91,An Education,PG-13,05 Feb 2010,100 min,85,7.3,"$12,512,069",Nominated for 3 Oscars. Another 35 wins & 91 nominations.,Sony Classics
+92,Precious,R,20 Nov 2009,110 min,79,7.3,"$47,536,959",Won 2 Oscars. Another 111 wins & 98 nominations.,Lionsgate Films
+93,Julie,APPROVED,17 Oct 1956,99 min,N/A,6.2,N/A,N/A,Warner Home Video
+94,Nine,PG-13,25 Dec 2009,118 min,49,5.8,"$19,628,665",Nominated for 4 Oscars. Another 8 wins & 56 nominations.,The Weinstein Co.
+95,Titanic: The Final Word with James Cameron,N/A,08 Apr 2012,120 min,N/A,7.7,N/A,N/A,N/A
+96,Quentin Tarantino: 20 Years of Filmmaking,N/A,20 Nov 2012,125 min,N/A,7.1,N/A,N/A,N/A
+97,The Butler,N/A,16 Mar 2017,70 min,N/A,7.6,N/A,N/A,N/A
+98,Imagining Argentina,R,16 Apr 2004,107 min,27,6.3,N/A,1 nomination.,Arenas Entertainment
+99,Hans Zimmer: Live in Prague,NOT RATED,03 Nov 2017,150 min,N/A,9.1,N/A,N/A,N/A
+100,Biutiful,R,04 Feb 2011,148 min,58,7.5,"$5,100,937",Nominated for 2 Oscars. Another 18 wins & 45 nominations.,Roadside Attractions
+101,True Grit,PG-13,22 Dec 2010,110 min,80,7.6,"$171,031,347",Nominated for 10 Oscars. Another 37 wins & 153 nominations.,Paramount Pictures
+102,The Social Network,PG-13,01 Oct 2010,120 min,95,7.7,"$96,400,000",Won 3 Oscars. Another 165 wins & 168 nominations.,Columbia Pictures
+103,The King's Speech,R,25 Dec 2010,118 min,88,8.0,"$138,300,000",Won 4 Oscars. Another 102 wins & 194 nominations.,The Weinstein Company
+104,127 Hours,R,28 Jan 2011,94 min,82,7.6,"$18,329,466",Nominated for 6 Oscars. Another 23 wins & 141 nominations.,Fox Searchlight
+105,The Fighter,R,17 Dec 2010,116 min,79,7.8,"$93,571,803",Won 2 Oscars. Another 72 wins & 116 nominations.,Paramount Pictures
+106,Winter's Bone,R,16 Jul 2010,100 min,90,7.2,"$6,200,000",Nominated for 4 Oscars. Another 63 wins & 120 nominations.,Roadside Attractions
+107,The Town,R,17 Sep 2010,125 min,74,7.6,"$92,173,235",Nominated for 1 Oscar. Another 9 wins & 45 nominations.,Warner Bros. Pictures
+108,The Kids Are All Right,R,30 Jul 2010,106 min,86,7.0,"$20,803,237",Nominated for 4 Oscars. Another 28 wins & 120 nominations.,Focus Features
+109,Rabbit Hole,PG-13,28 Jan 2011,91 min,76,7.0,"$2,221,809",Nominated for 1 Oscar. Another 7 wins & 40 nominations.,Lionsgate Films
+110,Black Swan,R,17 Dec 2010,108 min,79,8.0,"$106,952,327",Won 1 Oscar. Another 91 wins & 257 nominations.,Fox Searchlight
+111,Blue Valentine,R,28 Jan 2011,112 min,81,7.4,"$9,600,000",Nominated for 1 Oscar. Another 9 wins & 52 nominations.,Weinstein Company
+112,Animal Kingdom,R,03 Jun 2010,113 min,83,7.3,"$1,000,000",Nominated for 1 Oscar. Another 38 wins & 54 nominations.,Sony Pictures Classics
+113,A Better Life,PG-13,28 Jul 2011,98 min,64,7.2,"$1,754,319",Nominated for 1 Oscar. Another 6 wins & 8 nominations.,Summit Entertainment
+114,The Descendants,R,09 Dec 2011,115 min,84,7.3,"$78,500,000",Won 1 Oscar. Another 66 wins & 142 nominations.,Fox Searchlight Pictures
+115,The Artist,PG-13,20 Jan 2012,100 min,89,7.9,"$44,667,095",Won 5 Oscars. Another 145 wins & 188 nominations.,The Weinstein Company
+116,Tinker Tailor Soldier Spy,R,06 Jan 2012,122 min,85,7.1,"$20,200,000",Nominated for 3 Oscars. Another 35 wins & 93 nominations.,Focus Features
+117,Moneyball,PG-13,23 Sep 2011,133 min,87,7.6,"$75,605,492",Nominated for 6 Oscars. Another 29 wins & 75 nominations.,Sony Pictures
+118,My Week with Marilyn,R,23 Dec 2011,99 min,65,7.0,"$12,600,000",Nominated for 2 Oscars. Another 19 wins & 59 nominations.,The Weinstein Company
+119,Warrior,PG-13,09 Sep 2011,140 min,71,8.2,"$13,600,000",Nominated for 1 Oscar. Another 6 wins & 20 nominations.,Lionsgate
+120,Beginners,R,09 Jun 2011,105 min,81,7.2,"$5,764,842",Won 1 Oscar. Another 34 wins & 29 nominations.,Focus Features
+121,Extremely Loud & Incredibly Close,PG-13,20 Jan 2012,129 min,46,6.9,"$31,836,745",Nominated for 2 Oscars. Another 8 wins & 23 nominations.,Warner Bros. Pictures
+122,Albert Nobbs,R,22 Feb 2012,113 min,57,6.7,"$3,014,541",Nominated for 3 Oscars. Another 19 wins & 39 nominations.,Roadside Attractions
+123,The Help,PG-13,10 Aug 2011,146 min,62,8.1,"$169,705,587",Won 1 Oscar. Another 79 wins & 116 nominations.,DreamWorks Studios
+124,The Girl with the Dragon Tattoo,R,21 Dec 2011,158 min,71,7.8,"$102,515,793",Won 1 Oscar. Another 27 wins & 90 nominations.,Sony Pictures
+125,The Iron Lady,PG-13,13 Jan 2012,105 min,54,6.4,"$29,959,436",Won 2 Oscars. Another 23 wins & 47 nominations.,The Weinstein Co.
+126,Bridesmaids,R,13 May 2011,125 min,75,6.8,"$166,500,000",Nominated for 2 Oscars. Another 25 wins & 69 nominations.,Universal Studios
+127,La corrupción de Chris Miller,R,01 Sep 1975,107 min,N/A,6.5,N/A,N/A,N/A
+128,Rango,PG,04 Mar 2011,107 min,75,7.2,"$123,188,232",Won 1 Oscar. Another 45 wins & 24 nominations.,Paramount Pictures
+129,Woody Allen: A Documentary,N/A,30 May 2012,195 min,N/A,7.7,N/A,N/A,N/A
+130,Rosy-Fingered Dawn: a Film on Terrence Malick,N/A,01 Sep 2002,90 min,N/A,6.2,N/A,N/A,N/A
+131,The Living Daylights,PG,31 Jul 1987,130 min,60,6.7,N/A,3 wins & 4 nominations.,MGM Home Entertainment
+132,Silver Linings Playbook,R,25 Dec 2012,122 min,81,7.7,"$132,088,910",Won 1 Oscar. Another 88 wins & 145 nominations.,The Weinstein Company
+133,Lincoln,PG-13,16 Nov 2012,150 min,86,7.4,"$129,477,447",Won 2 Oscars. Another 108 wins & 242 nominations.,Dreamworks Pictures
+134,Les Misérables,PG-13,25 Dec 2012,158 min,63,7.6,"$148,775,460",Won 3 Oscars. Another 81 wins & 172 nominations.,Universal Pictures
+135,The Master,R,21 Sep 2012,138 min,86,7.1,"$15,800,000",Nominated for 3 Oscars. Another 76 wins & 179 nominations.,The Weinstein Company
+136,Flight,R,02 Nov 2012,138 min,76,7.3,"$89,400,000",Nominated for 2 Oscars. Another 16 wins & 42 nominations.,Paramount Pictures
+137,Argo,R,12 Oct 2012,120 min,86,7.7,"$136,019,448",Won 3 Oscars. Another 94 wins & 152 nominations.,Warner Bros. Pictures
+138,Django Unchained,R,25 Dec 2012,165 min,81,8.4,"$162,804,648",Won 2 Oscars. Another 56 wins & 151 nominations.,The Weinstein Co.
+139,Zero Dark Thirty,R,11 Jan 2013,157 min,95,7.4,"$95,720,716",Won 1 Oscar. Another 87 wins & 171 nominations.,Columbia Pictures
+140,Amour,PG-13,20 Sep 2012,127 min,94,7.9,"$6,700,000",Won 1 Oscar. Another 77 wins & 103 nominations.,Sony Pictures Classics
+141,Beasts of the Southern Wild,PG-13,05 Jul 2012,93 min,86,7.3,"$12,784,397",Nominated for 4 Oscars. Another 92 wins & 123 nominations.,Fox Searchlight
+142,Lo imposible,N/A,30 Jan 2013,N/A,N/A,7.6,N/A,N/A,N/A
+143,The Sessions,R,16 Nov 2012,95 min,79,7.2,"$5,997,134",Nominated for 1 Oscar. Another 18 wins & 63 nominations.,Fox Searchlight Pictures
+144,Corpse Bride,PG,23 Sep 2005,77 min,83,7.4,"$53,300,000",Nominated for 1 Oscar. Another 8 wins & 28 nominations.,Warner Bros. Pictures
+145,Before I Disappear,UNRATED,28 Nov 2014,93 min,47,7.2,"$2,676",16 wins & 8 nominations.,IFC Films
+146,Nebraska,R,24 Jan 2014,115 min,86,7.7,"$11,348,612",Nominated for 6 Oscars. Another 28 wins & 157 nominations.,Paramount Pictures
+147,The Wolf of Wall Street,R,25 Dec 2013,180 min,75,8.2,"$91,330,760",Nominated for 5 Oscars. Another 38 wins & 165 nominations.,Paramount Studios
+148,12 Years a Slave,R,08 Nov 2013,134 min,96,8.1,"$50,628,650",Won 3 Oscars. Another 235 wins & 326 nominations.,Fox Searchlight
+149,Dallas Buyers Club,R,22 Nov 2013,117 min,84,8.0,"$23,750,994",Won 3 Oscars. Another 81 wins & 81 nominations.,Focus Features
+150,Captain Phillips,PG-13,11 Oct 2013,134 min,83,7.8,"$107,100,855",Nominated for 6 Oscars. Another 16 wins & 144 nominations.,Sony Pictures
+151,Blue Jasmine,PG-13,23 Aug 2013,98 min,78,7.3,N/A,Won 1 Oscar. Another 54 wins & 75 nominations.,Sony Pictures Classics
+152,Gravity,PG-13,04 Oct 2013,91 min,96,7.7,"$274,084,951",Won 7 Oscars. Another 232 wins & 175 nominations.,Warner Bros. Pictures
+153,Philomena,PG-13,27 Nov 2013,98 min,77,7.6,N/A,Nominated for 4 Oscars. Another 32 wins & 76 nominations.,The Weinstein Company
+154,August: Osage County,R,10 Jan 2014,121 min,58,7.2,"$29,202,643",Nominated for 2 Oscars. Another 15 wins & 62 nominations.,The Weinstein Company
+155,Intrusion: Cambodia,R,03 Mar 1983,90 min,N/A,3.1,N/A,N/A,N/A
+156,"Palestine, Palestine",N/A,N/A,73 min,N/A,7.2,N/A,N/A,N/A
+157,Foxcatcher,R,16 Jan 2015,134 min,81,7.0,"$9,744,477",Nominated for 5 Oscars. Another 12 wins & 74 nominations.,Sony Pictures Classics
+158,American Sniper,R,16 Jan 2015,133 min,72,7.3,"$274,377,268",Won 1 Oscar. Another 23 wins & 42 nominations.,Warner Bros.
+159,The Imitation Game,PG-13,25 Dec 2014,114 min,73,8.0,N/A,Won 1 Oscar. Another 46 wins & 155 nominations.,The Weinstein Company
+160,The Theory of Everything,PG-13,26 Nov 2014,123 min,72,7.7,"$35,887,263",Won 1 Oscar. Another 24 wins & 121 nominations.,Focus Features
+161,The Judge,R,10 Oct 2014,141 min,48,7.4,"$35,631,470",Nominated for 1 Oscar. Another 3 wins & 8 nominations.,Warner Bros. Pictures
+162,Boyhood,R,15 Aug 2014,165 min,100,7.9,"$18,859,617",Won 1 Oscar. Another 171 wins & 209 nominations.,IFC Films
+163,Whiplash,R,15 Oct 2014,106 min,88,8.5,N/A,Won 3 Oscars. Another 89 wins & 136 nominations.,Sony Pictures Classics
+164,Still Alice,PG-13,20 Feb 2015,101 min,72,7.5,N/A,Won 1 Oscar. Another 30 wins & 32 nominations.,Sony Pictures Classics
+165,Gone Girl,R,03 Oct 2014,149 min,79,8.1,N/A,Nominated for 1 Oscar. Another 65 wins & 177 nominations.,20th Century Fox
+166,Wild,R,19 Dec 2014,115 min,76,7.1,"$24,673,716",Nominated for 2 Oscars. Another 11 wins & 65 nominations.,20th Century Fox
+167,Into the Woods,PG,25 Dec 2014,125 min,69,6.0,"$89,789,227",Nominated for 3 Oscars. Another 11 wins & 71 nominations.,Walt Disney Pictures
+168,21 Years: Richard Linklater,NOT RATED,07 Nov 2014,78 min,51,6.6,N/A,1 nomination.,Gravitas Ventures
+169,Trumbo,R,27 Nov 2015,124 min,60,7.5,N/A,Nominated for 1 Oscar. Another 5 wins & 41 nominations.,Bleecker Street Media
+170,The Martian,PG-13,02 Oct 2015,144 min,80,8.0,"$202,313,768",Nominated for 7 Oscars. Another 37 wins & 185 nominations.,20th Century Fox
+171,The Revenant,R,08 Jan 2016,156 min,76,8.0,N/A,Won 3 Oscars. Another 86 wins & 181 nominations.,20th Century Fox
+172,Steve Jobs,R,23 Oct 2015,122 min,82,7.2,"$12,403,169",Nominated for 2 Oscars. Another 28 wins & 109 nominations.,Universal Pictures
+173,The Danish Girl,R,22 Jan 2016,119 min,66,7.1,N/A,Won 1 Oscar. Another 30 wins & 73 nominations.,Focus Features
+174,The Big Short,R,23 Dec 2015,130 min,81,7.8,N/A,Won 1 Oscar. Another 37 wins & 79 nominations.,Paramount Pictures
+175,Spotlight,R,20 Nov 2015,129 min,93,8.1,N/A,Won 2 Oscars. Another 119 wins & 138 nominations.,Open Road Films
+176,Bridge of Spies,PG-13,16 Oct 2015,142 min,81,7.6,N/A,Won 1 Oscar. Another 30 wins & 99 nominations.,Dreamworks Pictures
+177,Creed,PG-13,25 Nov 2015,133 min,82,7.6,"$81,157,671",Nominated for 1 Oscar. Another 46 wins & 61 nominations.,Warner Bros.
+178,Carol,R,15 Jan 2016,118 min,95,7.2,"$8,518,148",Nominated for 6 Oscars. Another 75 wins & 238 nominations.,The Weinstein Company
+179,Room,R,22 Jan 2016,118 min,86,8.2,"$14,677,654",Won 1 Oscar. Another 103 wins & 136 nominations.,Element Pictures
+180,Joy,PG-13,25 Dec 2015,124 min,56,6.6,"$42,581,369",Nominated for 1 Oscar. Another 7 wins & 20 nominations.,20th Century Fox
+181,45 Years,R,28 Aug 2015,91 min,94,7.1,"$3,489,919",Nominated for 1 Oscar. Another 20 wins & 52 nominations.,Sundance Selects
+182,Brooklyn,PG-13,25 Nov 2015,117 min,87,7.5,"$30,459,009",Nominated for 3 Oscars. Another 37 wins & 152 nominations.,Fox Searchlight Pictures
+183,The Hateful Eight,R,30 Dec 2015,187 min,68,7.8,"$54,116,191",Won 1 Oscar. Another 39 wins & 113 nominations.,The Weinstein Company
+184,Puskás Hungary,N/A,12 Mar 2009,116 min,N/A,8.7,N/A,4 wins.,N/A
+185,Terrence Howard's Fright Club,N/A,24 May 2018,60 min,N/A,7.8,N/A,N/A,N/A
+186,I Am Heath Ledger,NOT RATED,19 Oct 2017,90 min,68,7.4,N/A,N/A,Fathom Events
+187,I'm Still Here,R,16 Sep 2010,108 min,48,6.2,"$408,719",1 win & 3 nominations.,Magnolia Pictures
+188,Cold Souls,PG-13,05 May 2010,101 min,69,6.5,"$700,980",4 wins & 9 nominations.,IDP/Samuel goldwyn Films
+189,Jake Gyllenhaal Challenges the Winner of the Nobel Peace Prize,N/A,05 Mar 2010,7 min,N/A,6.1,N/A,N/A,N/A
+190,Judi Dench: My Passion for Trees,N/A,20 Dec 2017,N/A,N/A,8.9,N/A,N/A,N/A
+191,Wallace,N/A,24 Apr 2014,19 min,N/A,9.3,N/A,1 win.,N/A
+192,Harry Potter and the Goblet of Fire,PG-13,18 Nov 2005,157 min,81,7.7,"$289,994,397",Nominated for 1 Oscar. Another 13 wins & 42 nominations.,Warner Bros. Pictures
+193,King Kong,PG-13,14 Dec 2005,187 min,81,7.2,"$218,100,000",Won 3 Oscars. Another 43 wins & 100 nominations.,Universal Pictures
+194,Memoirs of a Geisha,PG-13,23 Dec 2005,145 min,54,7.4,"$57,000,000",Won 3 Oscars. Another 27 wins & 44 nominations.,Sony Pictures
+195,Batman Begins,PG-13,15 Jun 2005,140 min,70,8.3,"$204,100,000",Nominated for 1 Oscar. Another 14 wins & 72 nominations.,Warner Bros. Pictures
+196,The Thinning: New World Order,N/A,17 Oct 2018,83 min,N/A,3.8,N/A,N/A,N/A
+197,Charlie and the Chocolate Factory,PG,15 Jul 2005,115 min,72,6.7,"$206,100,000",Nominated for 1 Oscar. Another 14 wins & 50 nominations.,Warner Bros. Pictures
+198,Munich,R,06 Jan 2006,164 min,74,7.6,"$47,379,090",Nominated for 5 Oscars. Another 13 wins & 65 nominations.,Universal Pictures
+199,Darwin's Nightmare,N/A,21 Jan 2005,107 min,84,7.6,N/A,Nominated for 1 Oscar. Another 16 wins & 4 nominations.,Ad Vitam
+200,Enron: The Smartest Guys in the Room,NOT RATED,20 May 2005,110 min,N/A,7.7,"$3,886,956",Nominated for 1 Oscar. Another 3 wins & 10 nominations.,Magnolia Pictures
+201,Murderball,R,05 Aug 2005,88 min,87,7.8,"$1,328,551",Nominated for 1 Oscar. Another 17 wins & 12 nominations.,ThinkFilm
+202,Street Fight,NOT RATED,23 Apr 2005,83 min,85,8.1,N/A,Nominated for 1 Oscar. Another 6 wins & 4 nominations.,Marshall Curry Productions
+203,The Death of Kevin Carter: Casualty of the Bang Bang Club,N/A,18 Sep 2004,27 min,N/A,7.4,N/A,Nominated for 1 Oscar. Another 7 wins & 2 nominations.,N/A
+204,Don't Tell Mom the Babysitter's Dead,PG-13,07 Jun 1991,102 min,35,6.1,N/A,4 nominations.,N/A
+205,Joyeux Noël,N/A,01 Jun 1994,17 min,N/A,N/A,N/A,2 wins.,N/A
+206,Paradise Now,PG-13,18 Nov 2005,90 min,71,7.5,"$1,300,000",Nominated for 1 Oscar. Another 13 wins & 15 nominations.,Warner Independent Pictures
+207,The Making of 'Sophie Scholl - Die letzten Tage',N/A,27 Feb 2005,45 min,N/A,N/A,N/A,N/A,N/A
+208,Tsotsi,R,31 Mar 2006,94 min,70,7.3,"$2,753,840",Won 1 Oscar. Another 16 wins & 13 nominations.,Miramax
+209,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",PG,09 Dec 2005,143 min,75,6.9,"$291,685,219",Won 1 Oscar. Another 14 wins & 46 nominations.,Buena Vista
+210,Star Wars: Episode III - Revenge of the Sith,PG-13,19 May 2005,140 min,68,7.6,N/A,Nominated for 1 Oscar. Another 25 wins & 56 nominations.,20th Century Fox
+211,Badgered,N/A,15 Oct 2005,7 min,N/A,6.6,N/A,Nominated for 1 Oscar. Another 2 wins & 2 nominations.,N/A
+212,The Mysterious Geographic Explorations of Jasper Morello,N/A,01 Jan 2006,26 min,N/A,7.8,N/A,Nominated for 1 Oscar. Another 7 wins & 3 nominations.,N/A
+213,9,PG-13,09 Sep 2009,79 min,60,7.1,"$31,691,649",9 nominations.,Focus Features
+214,One Man Band,G,06 Jun 2006,4 min,N/A,7.8,N/A,N/A,N/A
+215,Cashback,R,09 May 2008,102 min,54,7.2,N/A,3 wins.,Magnolia Pictures
+216,Siðasti bærinn í dalnum,N/A,11 Mar 1950,N/A,N/A,7.0,N/A,N/A,N/A
+217,Our Time Is Up,N/A,08 Oct 2004,14 min,N/A,7.5,N/A,Nominated for 1 Oscar. Another 4 wins.,N/A
+218,Six Shooter,NOT RATED,01 Feb 2005,27 min,N/A,7.6,N/A,Won 1 Oscar. Another 5 wins & 2 nominations.,N/A
+219,War of the Worlds,PG-13,29 Jun 2005,116 min,73,6.5,"$234,141,872",Nominated for 3 Oscars. Another 14 wins & 44 nominations.,Paramount Pictures
+220,Match Point,R,20 Jan 2006,124 min,72,7.6,"$23,100,000",Nominated for 1 Oscar. Another 11 wins & 30 nominations.,Dreamworks
+221,The Squid and the Whale,R,16 Dec 2005,81 min,82,7.4,"$7,073,391",Nominated for 1 Oscar. Another 23 wins & 47 nominations.,Samuel Goldwyn Films
+222,A Prairie Home Companion,PG-13,09 Jun 2006,105 min,75,6.8,N/A,5 wins & 21 nominations.,Picturehouse
+223,Eddie Murphy: Raw,R,18 Dec 1987,93 min,54,7.6,N/A,N/A,Paramount Pictures
+224,When Harry Met Sally 2 with Billy Crystal and Helen Mirren,N/A,06 Apr 2011,5 min,N/A,7.4,N/A,N/A,N/A
+225,Cars,G,09 Jun 2006,117 min,73,7.1,"$244,052,771",Nominated for 2 Oscars. Another 27 wins & 28 nominations.,Buena Vista
+226,Happy Feet,PG,17 Nov 2006,108 min,77,6.5,"$197,800,000",Won 1 Oscar. Another 18 wins & 23 nominations.,Warner Bros. Pictures
+227,Monster House,PG,21 Jul 2006,91 min,68,6.6,"$73,661,010",Nominated for 1 Oscar. Another 4 wins & 22 nominations.,Sony Pictures Releasing
+228,The Good Shepherd,R,22 Dec 2006,167 min,61,6.7,"$59,839,040",Nominated for 1 Oscar. Another 2 wins & 11 nominations.,Universal Pictures
+229,Pirates of the Caribbean: Dead Man's Chest,PG-13,07 Jul 2006,151 min,53,7.3,"$423,032,628",Won 1 Oscar. Another 42 wins & 53 nominations.,Buena Vista
+230,The Prestige,PG-13,20 Oct 2006,130 min,66,8.5,"$53,100,000",Nominated for 2 Oscars. Another 5 wins & 37 nominations.,Buena Vista Pictures
+231,The Black Dahlia,R,15 Sep 2006,121 min,49,5.6,"$22,518,325",Nominated for 1 Oscar. Another 4 wins & 12 nominations.,Universal Pictures
+232,Children of Men,R,05 Jan 2007,109 min,84,7.9,"$35,100,000",Nominated for 3 Oscars. Another 48 wins & 76 nominations.,Universal Pictures
+233,The Illusionist,PG-13,01 Sep 2006,110 min,68,7.6,"$39,680,302",Nominated for 1 Oscar. Another 10 wins & 10 nominations.,Yari Film Group
+234,Marie Antoinette,PG-13,20 Oct 2006,123 min,65,6.4,"$15,962,471",Won 1 Oscar. Another 18 wins & 23 nominations.,Sony Pictures
+235,Letters from Iwo Jima,R,02 Feb 2007,141 min,89,7.9,"$13,600,000",Won 1 Oscar. Another 23 wins & 37 nominations.,Warner Bros. Pictures
+236,United 93,R,28 Apr 2006,111 min,90,7.6,"$31,500,000",Nominated for 2 Oscars. Another 28 wins & 54 nominations.,Universal Pictures
+237,Deliver Us from Evil,R,02 Jul 2014,118 min,40,6.2,"$18,871,466",2 wins & 4 nominations.,Sony Pictures
+238,An Inconvenient Truth,PG,30 Jun 2006,96 min,75,7.5,"$23,727,472",Won 2 Oscars. Another 31 wins & 11 nominations.,Paramount Classics
+239,Iraq in Fragments,N/A,19 Jan 2007,94 min,84,7.3,N/A,Nominated for 1 Oscar. Another 12 wins & 7 nominations.,Typecast
+240,Jesus Camp,PG-13,18 Apr 2007,87 min,62,7.5,"$900,000",Nominated for 1 Oscar. Another 6 wins & 6 nominations.,Magnolia Pictures
+241,"My Country, No More",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+242,The Blood of Yingzhou District,N/A,14 Jun 2006,38 min,N/A,7.5,N/A,Won 1 Oscar. Another 8 wins & 3 nominations.,HBO Documentary Films
+243,Recycled Life,N/A,01 Jun 2006,38 min,N/A,8.1,N/A,N/A,Leslie Iwerks Productions
+244,Two Hands,R,29 Jul 1999,103 min,N/A,7.2,N/A,15 wins & 12 nominations.,Australian Film Finance Corporation
+245,Indigènes: Sur les traces d'indigène,N/A,01 Nov 2006,52 min,N/A,N/A,N/A,N/A,N/A
+246,The Shape of Water,R,22 Dec 2017,123 min,87,7.4,"$57,393,976",Won 4 Oscars. Another 101 wins & 293 nominations.,Fox Searchlight Pictures
+247,Apocalypto,R,08 Dec 2006,139 min,68,7.8,"$50,772,724",Nominated for 3 Oscars. Another 9 wins & 20 nominations.,Buena Vista
+248,Click,PG-13,23 Jun 2006,107 min,45,6.4,"$137,340,146",Nominated for 1 Oscar. Another 3 wins & 11 nominations.,Sony Pictures Releasing
+249,The Good German,R,19 Jan 2007,105 min,49,6.1,"$891,721",Nominated for 1 Oscar. Another 3 wins & 4 nominations.,Warner Bros. Pictures
+250,The Danish Poet,N/A,01 Oct 2006,15 min,N/A,7.6,N/A,Won 1 Oscar. Another 8 wins & 2 nominations.,N/A
+251,Lifted,G,29 Jun 2007,5 min,N/A,7.9,N/A,N/A,N/A
+252,The Little Matchgirl,G,07 Sep 2006,7 min,N/A,7.9,N/A,Nominated for 1 Oscar. Another 1 nomination.,N/A
+253,Maestro,N/A,N/A,5 min,N/A,7.6,N/A,Nominated for 1 Oscar. Another 5 wins & 1 nomination.,N/A
+254,No Time for Nuts,G,14 Sep 2006,7 min,N/A,7.6,N/A,Nominated for 1 Oscar. Another 1 win.,Fox
+255,The Stig-Helmer Story,N/A,25 Dec 2011,100 min,N/A,4.4,N/A,1 nomination.,N/A
+256,Sultan: The Saviour,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+257,West Bank Story,N/A,20 Jan 2005,21 min,N/A,7.4,N/A,Won 1 Oscar. Another 7 wins & 1 nomination.,N/A
+258,Flags of our Fathers,R,20 Oct 2006,135 min,79,7.1,"$33,600,000",Nominated for 2 Oscars. Another 15 wins & 24 nominations.,Paramount
+259,Poseidon,PG-13,12 May 2006,98 min,50,5.6,"$60,600,000",Nominated for 1 Oscar. Another 6 nominations.,Warner Bros. Pictures
+260,Superman Returns,PG-13,28 Jun 2006,154 min,72,6.1,"$200,100,000",Nominated for 1 Oscar. Another 12 wins & 40 nominations.,Warner Bros. Pictures
+261,Tilda Swinton: The Love Factory,N/A,10 Oct 2002,35 min,N/A,4.1,N/A,N/A,N/A
+262,Persepolis,PG-13,22 Feb 2008,96 min,90,8.1,"$4,400,000",Nominated for 1 Oscar. Another 28 wins & 54 nominations.,Sony Pictures Classics
+263,Ratatouille,G,29 Jun 2007,111 min,96,8.0,"$112,408,657",Won 1 Oscar. Another 64 wins & 42 nominations.,Disney/Pixar
+264,Surf's Up,PG,08 Jun 2007,85 min,64,6.7,"$58,867,694",Nominated for 1 Oscar. Another 2 wins & 17 nominations.,Sony Pictures
+265,The Golden Compass,PG-13,07 Dec 2007,113 min,51,6.1,"$70,100,000",Won 1 Oscar. Another 6 wins & 32 nominations.,New Line Cinema
+266,Across the Universe,PG-13,12 Oct 2007,133 min,56,7.4,"$24,343,673",Nominated for 1 Oscar. Another 2 wins & 16 nominations.,Sony
+267,No End in Sight,NOT RATED,22 Jan 2007,102 min,89,8.3,"$1,250,100",Nominated for 1 Oscar. Another 12 wins & 18 nominations.,Magnolia Pictures
+268,Operation Homecoming: Writing the Wartime Experience,N/A,09 Feb 2007,81 min,N/A,7.2,N/A,Nominated for 1 Oscar. Another 3 wins & 5 nominations.,SnagFilms
+269,Sicko,PG-13,03 Jul 2007,123 min,74,8.0,"$24,333,911",Nominated for 1 Oscar. Another 14 wins & 14 nominations.,The Weinstein Company
+270,Taxi to the Dark Side,R,23 Jan 2009,106 min,82,7.5,N/A,Won 1 Oscar. Another 10 wins & 4 nominations.,ThinkFilm
+271,War Dance,PG-13,01 Nov 2008,105 min,68,7.9,N/A,Nominated for 1 Oscar. Another 10 wins & 3 nominations.,ThinkFilm
+272,Freeheld,PG-13,05 Nov 2015,103 min,50,6.5,N/A,1 win & 10 nominations.,Summit Entertainment
+273,The Bourne Ultimatum,PG-13,03 Aug 2007,115 min,85,8.0,"$227,400,000",Won 3 Oscars. Another 26 wins & 39 nominations.,Universal Pictures
+274,The Counterfeiters,R,18 Apr 2008,98 min,78,7.6,N/A,Won 1 Oscar. Another 6 wins & 10 nominations.,Sony Pictures Classics
+275,Katyn,N/A,21 Sep 2007,121 min,81,7.1,N/A,Nominated for 1 Oscar. Another 14 wins & 12 nominations.,Artificial Eye
+276,12,PG-13,20 Sep 2007,159 min,72,7.7,N/A,Nominated for 1 Oscar. Another 9 wins & 7 nominations.,Sony Pictures Classics
+277,Norbit,PG-13,09 Feb 2007,102 min,27,4.0,"$95,323,496",Nominated for 1 Oscar. Another 8 wins & 8 nominations.,Dreamworks Distribution LLC
+278,Pirates of the Caribbean: At World's End,PG-13,25 May 2007,169 min,50,7.1,"$309,404,152",Nominated for 2 Oscars. Another 20 wins & 44 nominations.,Buena Vista
+279,The Kite Runner,PG-13,11 Jan 2008,128 min,61,7.6,"$15,690,103",Nominated for 1 Oscar. Another 6 wins & 22 nominations.,Paramount Vantage
+280,3:10 to Yuma,R,07 Sep 2007,122 min,76,7.7,"$53,574,088",Nominated for 2 Oscars. Another 3 wins & 30 nominations.,Lionsgate Films
+281,I Met the Walrus,N/A,15 Feb 2008,5 min,N/A,7.0,N/A,Nominated for 1 Oscar. Another 3 wins & 1 nomination.,N/A
+282,Madame Tutli-Putli,N/A,15 Feb 2008,17 min,N/A,7.3,N/A,Nominated for 1 Oscar. Another 12 wins & 5 nominations.,N/A
+283,Peter Pan,G,05 Feb 1953,77 min,76,7.3,N/A,2 nominations.,Walt Disney
+284,Night at the Museum,PG,22 Dec 2006,108 min,48,6.4,"$249,300,000",2 wins & 8 nominations.,20th Century Fox
+285,Transformers,PG-13,03 Jul 2007,144 min,61,7.1,"$319,014,499",Nominated for 3 Oscars. Another 20 wins & 41 nominations.,Dreamworks
+286,Lars and the Real Girl,PG-13,02 Nov 2007,106 min,70,7.3,"$5,802,820",Nominated for 1 Oscar. Another 7 wins & 32 nominations.,MGM/Sidney Kimmel Entertainment
+287,Michael Shannon Michael Shannon John,N/A,03 Mar 2016,80 min,N/A,6.4,N/A,N/A,N/A
+288,One Day,PG-13,19 Aug 2011,107 min,48,7.0,"$13,766,014",1 win & 2 nominations.,Focus Features
+289,Bolt,PG,21 Nov 2008,96 min,67,6.9,"$114,053,579",Nominated for 1 Oscar. Another 1 win & 30 nominations.,Walt Disney Pictures
+290,Kung Fu Panda,PG,06 Jun 2008,92 min,73,7.6,"$215,395,021",Nominated for 1 Oscar. Another 14 wins & 37 nominations.,Paramount Pictures
+291,Wall Street,R,11 Dec 1987,126 min,56,7.4,N/A,Won 1 Oscar. Another 9 wins & 4 nominations.,20th Century Fox
+292,The Duchess,PG-13,10 Oct 2008,110 min,62,6.9,"$13,800,000",Won 1 Oscar. Another 7 wins & 21 nominations.,Paramount Vantage
+293,Slumdog Millionaire,R,25 Dec 2008,120 min,86,8.0,"$141,243,551",Won 8 Oscars. Another 144 wins & 126 nominations.,Fox Searchlight Pictures
+294,Australia,PG-13,26 Nov 2008,165 min,53,6.6,"$49,420,849",Nominated for 1 Oscar. Another 11 wins & 35 nominations.,20th Century Fox
+295,The Betrayal - Nerakhoon,N/A,21 Nov 2008,96 min,78,7.3,N/A,Nominated for 1 Oscar. Another 2 wins & 4 nominations.,The Cinema Guild
+296,Encounters at the End of the World,G,18 Jul 2008,99 min,80,7.8,"$723,966",Nominated for 1 Oscar. Another 2 wins & 14 nominations.,ThinkFilm
+297,The Secret Garden,G,13 Aug 1993,101 min,N/A,7.3,N/A,Nominated for 1 BAFTA Film Award. Another 3 wins & 5 nominations.,WARNER BROTHERS PICTURES
+298,Man on Wire,PG-13,29 Aug 2008,94 min,89,7.8,"$2,600,296",Won 1 Oscar. Another 45 wins & 11 nominations.,Magnolia Pictures
+299,Trouble the Water,UNRATED,05 Dec 2008,93 min,83,7.4,"$146,384",Nominated for 1 Oscar. Another 7 wins & 13 nominations.,Zeitgeist Films
+300,The Conscience of Nhem En,N/A,22 Aug 2008,34 min,N/A,7.9,N/A,N/A,N/A
+301,Smile Pinki,N/A,17 Jun 2008,39 min,N/A,8.1,N/A,Won 1 Oscar. Another 4 nominations.,Principe
+302,Front of the Class,PG,07 Dec 2008,95 min,N/A,8.2,N/A,N/A,N/A
+303,Departures,PG-13,19 Jun 2009,130 min,68,8.1,"$1,500,000",Won 1 Oscar. Another 33 wins & 8 nominations.,Regent Releasing
+304,Revanche,NOT RATED,16 May 2008,121 min,84,7.6,N/A,Nominated for 1 Oscar. Another 13 wins & 7 nominations.,Janus Films
+305,Hellboy II: The Golden Army,PG-13,11 Jul 2008,120 min,78,7.0,"$75,754,670",Nominated for 1 Oscar. Another 5 wins & 28 nominations.,Universal Pictures
+306,Defiance,R,16 Jan 2009,137 min,58,7.2,"$28,622,873",Nominated for 1 Oscar. Another 2 wins & 4 nominations.,Paramount Vantage
+307,Oktapodi,N/A,07 Oct 2015,3 min,N/A,7.3,N/A,Nominated for 1 Oscar. Another 5 wins & 1 nomination.,N/A
+308,Presto,G,27 Jun 2008,5 min,N/A,8.4,N/A,Nominated for 1 Oscar. Another 1 nomination.,Pixar Animation Studios
+309,This Way Up,TV-G,N/A,9 min,N/A,7.0,N/A,Nominated for 1 Oscar. Another 5 wins & 2 nominations.,N/A
+310,The Only Living Boy in New York,R,11 Aug 2017,89 min,33,6.3,"$622,999",N/A,Amazon Studios/Roadside Attractions
+311,Babe: Pig in the City,G,25 Nov 1998,97 min,68,5.8,N/A,Nominated for 1 Oscar. Another 1 win & 16 nominations.,Universal Studios
+312,Iron Man,PG-13,02 May 2008,126 min,79,7.9,"$318,298,180",Nominated for 2 Oscars. Another 20 wins & 65 nominations.,Paramount Pictures
+313,Wanted,R,27 Jun 2008,110 min,64,6.7,"$134,294,280",Nominated for 2 Oscars. Another 4 wins & 20 nominations.,Universal Pictures
+314,Happy-Go-Lucky,R,21 Nov 2008,118 min,84,7.0,"$3,494,485",Nominated for 1 Oscar. Another 39 wins & 59 nominations.,Miramax Films
+315,In Bruges,R,29 Feb 2008,107 min,67,7.9,"$7,550,836",Nominated for 1 Oscar. Another 24 wins & 53 nominations.,Focus Features
+316,The Nutty Professor,PG-13,28 Jun 1996,95 min,62,5.6,N/A,Won 1 Oscar. Another 9 wins & 12 nominations.,Universal Pictures
+317,Meeting Matt Damon,N/A,28 Sep 2015,9 min,N/A,N/A,N/A,N/A,N/A
+318,Premonition,PG-13,16 Mar 2007,96 min,29,5.9,"$47,852,604",2 nominations.,Sony
+319,Coraline,PG,06 Feb 2009,100 min,80,7.7,"$75,169,351",Nominated for 1 Oscar. Another 7 wins & 43 nominations.,Focus Features
+320,Fantastic Mr. Fox,PG,25 Nov 2009,87 min,83,7.8,"$21,000,000",Nominated for 2 Oscars. Another 32 wins & 60 nominations.,20th Century Fox
+321,The Princess and the Frog,G,11 Dec 2009,97 min,73,7.1,"$104,374,107",Nominated for 3 Oscars. Another 11 wins & 38 nominations.,Walt Disney Pictures
+322,The Secret of Kells,NOT RATED,22 Jun 2016,75 min,81,7.7,"$686,383",Nominated for 1 Oscar. Another 7 wins & 5 nominations.,GKIDS
+323,Up,PG,29 May 2009,96 min,88,8.3,"$292,979,556",Won 2 Oscars. Another 74 wins & 81 nominations.,Walt Disney Pictures
+324,Avatar,PG-13,18 Dec 2009,162 min,83,7.8,"$749,700,000",Won 3 Oscars. Another 85 wins & 128 nominations.,20th Century Fox
+325,The Imaginarium of Doctor Parnassus,PG-13,08 Jan 2010,123 min,65,6.8,"$7,504,196",Nominated for 2 Oscars. Another 5 wins & 21 nominations.,Sony Pictures Classics
+326,Sherlock Holmes,PG-13,25 Dec 2009,128 min,57,7.6,"$208,711,166",Nominated for 2 Oscars. Another 10 wins & 27 nominations.,Warner Bros. Pictures/Village Roadshow
+327,The Young Victoria,PG,08 Jan 2010,105 min,64,7.3,"$10,900,000",Won 1 Oscar. Another 12 wins & 17 nominations.,Apparition
+328,Harry Potter and the Half-Blood Prince,PG,15 Jul 2009,153 min,78,7.6,"$301,920,409",Nominated for 1 Oscar. Another 8 wins & 35 nominations.,Warner Bros. Pictures
+329,Bright Star,PG,09 Oct 2009,119 min,81,7.0,"$4,341,275",Nominated for 1 Oscar. Another 16 wins & 52 nominations.,Apparition Films
+330,The Cove,PG-13,07 Aug 2009,92 min,84,8.5,"$619,467",Won 1 Oscar. Another 39 wins & 17 nominations.,Roadside Attractions
+331,"Food, Inc.",PG,31 Jul 2009,94 min,80,7.8,"$4,238,694",Nominated for 1 Oscar. Another 7 wins & 19 nominations.,Magnolia Pictures
+332,The Most Dangerous Man in America: Daniel Ellsberg and the Pentagon Papers,N/A,17 Oct 2009,92 min,75,7.8,"$453,483",Nominated for 1 Oscar. Another 5 wins & 2 nominations.,First Run Features
+333,Which Way Home,N/A,31 Jan 2009,90 min,N/A,7.9,N/A,Nominated for 1 Oscar. Another 3 wins & 4 nominations.,HBO Films
+334,China's Unnatural Disaster: The Tears of Sichuan Province,N/A,21 Jan 2010,38 min,N/A,7.5,N/A,Nominated for 1 Oscar. Another 2 wins & 1 nomination.,HBO
+335,The Last Truck: Closing of a GM Plant,NOT RATED,29 Nov 2012,40 min,N/A,7.0,N/A,Nominated for 1 Oscar. Another 1 win & 2 nominations.,HBO
+336,Music by Prudence,N/A,12 May 2010,32 min,N/A,7.5,N/A,Won 1 Oscar. Another 1 nomination.,HBO Films
+337,District 9,R,14 Aug 2009,112 min,81,7.9,"$115,646,235",Nominated for 4 Oscars. Another 30 wins & 110 nominations.,Sony Pictures/Screen Gems
+338,Ajami,NOT RATED,17 Sep 2009,124 min,82,7.4,"$500,000",Nominated for 1 Oscar. Another 15 wins & 9 nominations.,Kino International
+339,Il Divo,NOT RATED,28 May 2008,110 min,81,7.3,"$200,000",Nominated for 1 Oscar. Another 30 wins & 36 nominations.,Music Box Films
+340,Star Trek,PG-13,08 May 2009,127 min,82,8.0,"$257,704,099",Won 1 Oscar. Another 23 wins & 92 nominations.,IMAX
+341,A Serious Man,R,06 Nov 2009,106 min,79,7.0,"$9,190,525",Nominated for 2 Oscars. Another 17 wins & 72 nominations.,Focus Features
+342,French Roast,TV-PG,19 Feb 2010,8 min,N/A,7.1,N/A,Nominated for 1 Oscar. Another 9 wins & 7 nominations.,N/A
+343,Granny O'Grimm's Sleeping Beauty,NOT RATED,31 May 2008,6 min,N/A,6.4,N/A,Nominated for 1 Oscar. Another 1 win.,N/A
+344,The Lady and the Reaper (La dama y la muerte),TV-G,19 Feb 2010,8 min,N/A,7.2,N/A,N/A,N/A
+345,Logorama,R,05 Oct 2011,16 min,N/A,7.6,N/A,Won 1 Oscar. Another 8 wins & 5 nominations.,N/A
+346,A Matter of Loaf and Death,N/A,01 Jan 2010,30 min,N/A,7.6,N/A,Nominated for 1 Oscar. Another 2 wins & 4 nominations.,LionsGate Entertainment
+347,The Girl Next Door,R,09 Apr 2004,109 min,47,6.7,"$14,544,008",2 wins & 4 nominations.,20th Century Fox
+348,Instead of Abracadabra,N/A,12 Mar 2010,22 min,N/A,7.3,N/A,Nominated for 1 Oscar. Another 2 wins & 2 nominations.,N/A
+349,Miracle Fish,TV-PG,12 Mar 2010,17 min,N/A,7.2,N/A,Nominated for 1 Oscar. Another 12 wins.,Blue-Tongue Films
+350,The New Tenants,TV-14,06 Mar 2010,21 min,N/A,6.7,N/A,Won 1 Oscar. Another 3 nominations.,Park Pictures
+351,Transformers: Revenge of the Fallen,PG-13,24 Jun 2009,150 min,35,6.0,"$402,076,689",Nominated for 1 Oscar. Another 15 wins & 27 nominations.,Paramount/Dreamworks
+352,In the Loop,NOT RATED,04 Sep 2009,106 min,83,7.5,"$2,251,324",Nominated for 1 Oscar. Another 16 wins & 41 nominations.,IFC
+353,Roger Corman: Hollywood's Wild Angel,N/A,07 Apr 1978,60 min,N/A,6.7,N/A,1 nomination.,N/A
+354,Comedy Central Roast of James Franco,TV-MA,02 Sep 2013,70 min,N/A,7.8,N/A,N/A,N/A
+355,Natalie Portman: Starting Young,N/A,11 Jan 2005,14 min,N/A,7.4,N/A,N/A,N/A
+356,How to Train Your Dragon,PG,26 Mar 2010,98 min,74,8.1,"$216,900,000",Nominated for 2 Oscars. Another 25 wins & 60 nominations.,Paramount/DWA
+357,Toy Story 3,G,18 Jun 2010,103 min,92,8.3,"$414,984,497",Won 2 Oscars. Another 58 wins & 91 nominations.,Walt Disney Pictures
+358,Alice in Wonderland,PG,05 Mar 2010,108 min,53,6.5,"$319,323,000",Won 2 Oscars. Another 31 wins & 62 nominations.,Walt Disney Pictures
+359,Harry Potter and the Deathly Hallows: Part 1,PG-13,19 Nov 2010,146 min,65,7.7,"$294,980,434",Nominated for 2 Oscars. Another 15 wins & 53 nominations.,Warner Bros. Pictures
+360,Inception,PG-13,16 Jul 2010,148 min,74,8.8,"$292,568,851",Won 4 Oscars. Another 152 wins & 204 nominations.,Warner Bros. Pictures
+361,The Tempest,PG-13,07 Jan 2011,110 min,43,5.4,"$277,515",Nominated for 1 Oscar. Another 2 wins & 3 nominations.,Touchstone Pictures/Miramax Films
+362,Exit Through the Gift Shop,R,14 May 2010,87 min,85,8.0,"$3,288,699",Nominated for 1 Oscar. Another 24 wins & 28 nominations.,Abarorama
+363,GasLand,NOT RATED,17 Jan 2011,107 min,N/A,7.7,"$30,846",Nominated for 1 Oscar. Another 7 wins & 6 nominations.,Independent Pictures
+364,Inside Job,PG-13,12 Nov 2010,109 min,88,8.3,"$4,311,834",Won 1 Oscar. Another 7 wins & 26 nominations.,Sony Pictures Classics
+365,Restrepo,R,06 Aug 2010,93 min,85,7.5,"$1,330,894",Nominated for 1 Oscar. Another 10 wins & 19 nominations.,National Geographic
+366,Waste Land,NOT RATED,21 Jan 2011,99 min,78,7.9,"$100,000",Nominated for 1 Oscar. Another 27 wins & 10 nominations.,Arthouse Films
+367,Strangers No More,N/A,27 Feb 2011,40 min,N/A,7.5,N/A,N/A,Simon & Goodman Picture Company
+368,Hævnen,N/A,17 Jul 1909,N/A,N/A,N/A,N/A,N/A,N/A
+369,Incendies,R,12 Jan 2011,131 min,80,8.2,"$6,857,096",Nominated for 1 Oscar. Another 39 wins & 15 nominations.,Sony Pictures Classics
+370,Bandits en automobile - Épisode 2: Hors-la-loi,N/A,N/A,N/A,N/A,6.3,N/A,N/A,N/A
+371,Barney's Version,R,18 Feb 2011,134 min,67,7.3,"$7,501,404",Nominated for 1 Oscar. Another 18 wins & 18 nominations.,Sony Classics
+372,The Way Way Back,PG-13,26 Jul 2013,103 min,68,7.4,"$21,501,098",5 wins & 30 nominations.,Fox Searchlight
+373,The Wolfman,R,12 Feb 2010,103 min,43,5.8,"$61,937,495",Won 1 Oscar. Another 3 wins & 8 nominations.,Universal Pictures
+374,Groundhog Day,PG,12 Feb 1993,101 min,72,8.0,N/A,Won 1 BAFTA Film Award. Another 6 wins & 17 nominations.,Columbia Pictures
+375,The Gruffalo,NOT RATED,09 Dec 2010,27 min,N/A,7.5,N/A,Nominated for 1 Oscar. Another 7 wins & 3 nominations.,Phase 4 Films
+376,The Lost Thing,NOT RATED,11 Feb 2011,15 min,N/A,7.4,N/A,Won 1 Oscar. Another 8 wins & 2 nominations.,N/A
+377,The Crush,R,02 Apr 1993,89 min,N/A,5.8,N/A,2 wins & 3 nominations.,Warner Home Video
+378,"Eros, O Deus do Amor",N/A,N/A,107 min,N/A,6.3,N/A,5 wins.,N/A
+379,Na Wewe,N/A,11 Feb 2011,19 min,N/A,6.9,N/A,Nominated for 1 Oscar. Another 1 win.,Radio Télévision Belge Francophone
+380,Wish 143,N/A,11 Feb 2011,24 min,N/A,7.3,N/A,Nominated for 1 Oscar. Another 3 wins.,N/A
+381,TRON: Legacy,PG,17 Dec 2010,125 min,49,6.8,"$172,051,787",Nominated for 1 Oscar. Another 10 wins & 49 nominations.,Walt Disney Pictures
+382,Unstoppable,PG-13,12 Nov 2010,98 min,69,6.8,"$81,557,479",Nominated for 1 Oscar. Another 1 win & 13 nominations.,20th Century Fox
+383,Salt,PG-13,23 Jul 2010,100 min,65,6.4,"$118,311,368",Nominated for 1 Oscar. Another 4 wins & 15 nominations.,Sony Pictures
+384,Hereafter,PG-13,22 Oct 2010,129 min,56,6.5,"$32,741,596",Nominated for 1 Oscar. Another 4 wins & 13 nominations.,Warner Bros. Pictures
+385,Iron Man 2,PG-13,07 May 2010,124 min,57,7.0,"$312,057,433",Nominated for 1 Oscar. Another 7 wins & 42 nominations.,Paramount Studios
+386,Another Year,PG-13,04 Feb 2011,129 min,80,7.3,"$3,200,000",Nominated for 1 Oscar. Another 22 wins & 53 nominations.,Sony Classics
+387,Jean-Luc Cinema Godard,N/A,01 Oct 2009,24 min,N/A,6.8,N/A,N/A,N/A
+388,Hearts of Darkness: A Filmmaker's Apocalypse,R,06 Dec 1991,96 min,N/A,8.2,N/A,Won 2 Primetime Emmys. Another 6 wins & 5 nominations.,Showtime Network
+389,Nick Nolte: No Exit,N/A,06 Jul 2008,74 min,N/A,6.7,N/A,N/A,N/A
+390,Max Von Sydow: Dialogues with The Renter,N/A,27 Mar 2012,44 min,N/A,6.9,N/A,N/A,N/A
+391,Une vie de chat,N/A,09 Sep 2004,180 min,N/A,N/A,N/A,N/A,N/A
+392,Chico,N/A,17 Jan 2002,112 min,N/A,7.1,N/A,5 wins & 3 nominations.,N/A
+393,Kung Fu Panda 2,PG,26 May 2011,90 min,67,7.2,"$165,230,261",Nominated for 1 Oscar. Another 5 wins & 46 nominations.,Paramount Studios/Dreamworks
+394,Puss in Boots,PG,28 Oct 2011,90 min,65,6.6,"$149,234,747",Nominated for 1 Oscar. Another 9 wins & 42 nominations.,Paramount/Dreamworks
+395,Harry Potter and the Deathly Hallows: Part 2,PG-13,15 Jul 2011,130 min,87,8.1,"$381,000,185",Nominated for 3 Oscars. Another 45 wins & 91 nominations.,Warner Bros. Pictures
+396,Hugo,PG,23 Nov 2011,126 min,83,7.5,"$73,820,094",Won 5 Oscars. Another 57 wins & 186 nominations.,Paramount Studios
+397,Midnight in Paris,PG-13,10 Jun 2011,94 min,81,7.7,"$55,400,000",Won 1 Oscar. Another 24 wins & 101 nominations.,Sony Pictures Classics
+398,War Horse,PG-13,25 Dec 2011,146 min,72,7.2,"$79,883,359",Nominated for 6 Oscars. Another 15 wins & 70 nominations.,Walt Disney Pictures
+399,The Tree of Life,PG-13,17 May 2011,139 min,85,6.8,"$13,303,319",Nominated for 3 Oscars. Another 111 wins & 117 nominations.,Fox Searchlight
+400,Anonymous,PG-13,28 Oct 2011,130 min,50,6.9,"$4,463,292",Nominated for 1 Oscar. Another 7 wins & 8 nominations.,Sony Pictures
+401,Jane Eyre,PG-13,22 Apr 2011,120 min,76,7.4,N/A,Nominated for 1 Oscar. Another 10 wins & 14 nominations.,Focus Features
+402,W.E.,R,20 Jan 2012,119 min,37,6.3,"$582,075",Nominated for 1 Oscar. Another 4 wins & 4 nominations.,The Weinstein Company
+403,Hell and Back Again,NOT RATED,05 Oct 2011,88 min,81,6.5,"$37,539",Nominated for 1 Oscar. Another 4 wins & 8 nominations.,Docurama Films
+404,If a Tree Falls: A Story of the Earth Liberation Front,UNRATED,01 Jan 2011,85 min,65,7.2,"$61,153",Nominated for 1 Oscar. Another 6 wins & 3 nominations.,Oscilloscope
+405,Paradise Lost 3: Purgatory,NOT RATED,13 Oct 2012,121 min,85,8.1,N/A,Nominated for 1 Oscar. Another 5 wins & 5 nominations.,@radical.media
+406,Pina,PG,24 Feb 2011,103 min,83,7.7,"$3,520,458",Nominated for 1 Oscar. Another 10 wins & 24 nominations.,IFC Films
+407,Undefeated,PG-13,03 Aug 2012,113 min,71,7.8,"$561,054",Won 1 Oscar. Another 3 wins & 8 nominations.,The Weinstein Company
+408,The Barber of Birmingham: Foot Soldier of the Civil Rights Movement,N/A,N/A,25 min,N/A,7.2,N/A,Nominated for 1 Oscar. Another 2 wins & 1 nomination.,N/A
+409,God Is the Bigger Elvis,N/A,01 Apr 2012,37 min,N/A,7.1,N/A,Nominated for 1 Oscar. Another 1 win & 2 nominations.,HBO Documentary Films
+410,Incident in New Baghdad,N/A,24 Apr 2011,22 min,N/A,6.6,N/A,Nominated for 1 Oscar. Another 4 wins.,Morninglight Films
+411,Saving Face,R,24 Jun 2005,91 min,65,7.5,"$1,000,385",3 wins & 3 nominations.,Sony Pictures Classics
+412,The Tsunami and the Cherry Blossom,N/A,20 Jan 2012,39 min,N/A,7.8,N/A,Nominated for 1 Oscar. Another 2 wins & 3 nominations.,N/A
+413,In Darkness,R,05 Jan 2012,145 min,74,7.3,"$1,038,733",Nominated for 1 Oscar. Another 10 wins & 17 nominations.,Sony Pictures
+414,Monsieur Lazhar,PG-13,07 Mar 2012,94 min,82,7.5,"$2,009,041",Nominated for 1 Oscar. Another 30 wins & 12 nominations.,Music Box Films
+415,The Adventures of Tintin,PG,21 Dec 2011,107 min,68,7.3,"$75,300,000",Nominated for 1 Oscar. Another 21 wins & 60 nominations.,Paramount
+416,Any Given Sunday,R,22 Dec 1999,162 min,52,6.9,N/A,3 wins & 9 nominations.,Warner Bros. Pictures
+417,The Fantastic Flying Books of Mr. Morris Lessmore,TV-G,24 Sep 2014,15 min,N/A,8.0,N/A,Won 1 Oscar. Another 6 wins & 1 nomination.,N/A
+418,La Luna,G,22 Jun 2012,7 min,N/A,8.0,N/A,Nominated for 1 Oscar. Another 1 nomination.,Disney Pixar
+419,Pentecost,N/A,04 Mar 2011,11 min,N/A,6.7,N/A,Nominated for 1 Oscar. Another 1 nomination.,EMU Productions
+420,Raju Gadu,N/A,01 Jun 2018,N/A,N/A,N/A,N/A,N/A,N/A
+421,Love at the Shore,TV-G,29 Jul 2017,84 min,N/A,6.5,N/A,N/A,Crown Media Productions
+422,Time Freak,N/A,09 Nov 2018,104 min,N/A,5.8,N/A,N/A,Lionsgate
+423,Tuba Atlantic,N/A,01 Jun 2010,25 min,N/A,7.5,N/A,Nominated for 1 Oscar. Another 5 wins.,The Norwegian Film School
+424,Drive,R,16 Sep 2011,100 min,78,7.8,"$34,300,000",Nominated for 1 Oscar. Another 77 wins & 170 nominations.,FilmDistrict
+425,Transformers: Dark of the Moon,PG-13,29 Jun 2011,154 min,42,6.3,"$352,358,779",Nominated for 3 Oscars. Another 10 wins & 39 nominations.,Paramount Studios
+426,Real Steel,PG-13,07 Oct 2011,127 min,56,7.1,"$85,463,309",Nominated for 1 Oscar. Another 2 wins & 5 nominations.,Walt Disney Pictures
+427,Rise of the Planet of the Apes,PG-13,05 Aug 2011,105 min,68,7.6,"$175,300,000",Nominated for 1 Oscar. Another 21 wins & 42 nominations.,20th Century Fox
+428,The Ides of March,R,07 Oct 2011,101 min,67,7.1,"$40,962,534",Nominated for 1 Oscar. Another 9 wins & 33 nominations.,Sony Pictures
+429,Margin Call,R,29 Sep 2011,107 min,76,7.1,"$600,000",Nominated for 1 Oscar. Another 8 wins & 23 nominations.,Roadside Attractions
+430,Mitch Albom's For One More Day,N/A,09 Dec 2007,120 min,N/A,5.8,N/A,Nominated for 1 Primetime Emmy. Another 1 win & 9 nominations.,Harpo Films
+431,Alles wegen Robert De Niro,N/A,04 Dec 1996,90 min,N/A,8.3,N/A,N/A,N/A
+432,Brave,PG,22 Jun 2012,93 min,69,7.1,"$237,282,182",Won 1 Oscar. Another 18 wins & 48 nominations.,Walt Disney Pictures
+433,Frankenweenie,PG,05 Oct 2012,87 min,74,7.0,"$35,287,788",Nominated for 1 Oscar. Another 11 wins & 49 nominations.,Walt Disney Pictures
+434,ParaNorman,PG,17 Aug 2012,92 min,72,7.0,"$55,994,557",Nominated for 1 Oscar. Another 19 wins & 45 nominations.,Focus Features
+435,Wreck-It Ralph,PG,02 Nov 2012,101 min,72,7.7,"$189,412,677",Nominated for 1 Oscar. Another 33 wins & 41 nominations.,Walt Disney Pictures
+436,Anna Karenina,R,07 Sep 2012,129 min,63,6.6,"$12,802,907",Won 1 Oscar. Another 31 wins & 51 nominations.,Focus Features
+437,Life of Pi,PG,21 Nov 2012,127 min,79,7.9,"$103,500,000",Won 4 Oscars. Another 78 wins & 129 nominations.,20th Century Fox
+438,Skyfall,PG-13,09 Nov 2012,143 min,81,7.8,"$299,300,000",Won 2 Oscars. Another 65 wins & 119 nominations.,MGM
+439,Mirror Mirror,PG,30 Mar 2012,106 min,46,5.6,"$64,933,670",Nominated for 1 Oscar. Another 2 wins & 8 nominations.,Relativity Media
+440,Snow White and the Huntsman,PG-13,01 Jun 2012,127 min,57,6.1,"$155,081,785",Nominated for 2 Oscars. Another 13 wins & 31 nominations.,Universal Pictures
+441,Five Broken Cameras,NOT RATED,N/A,94 min,78,8.0,"$108,541",Nominated for 1 Oscar. Another 18 wins & 6 nominations.,Kino Lorber Films
+442,The Gatekeepers,PG-13,14 Mar 2013,101 min,91,7.6,"$2,408,553",Nominated for 1 Oscar. Another 7 wins & 10 nominations.,Sony Pictures Classics
+443,How to Survive a Plague,NOT RATED,08 Nov 2013,110 min,86,7.6,"$122,665",Nominated for 1 Oscar. Another 13 wins & 19 nominations.,Sundance Selects
+444,The Invisible War,NOT RATED,20 Jan 2012,93 min,75,7.6,"$66,167",Nominated for 1 Oscar. Another 10 wins & 13 nominations.,Cinedigm
+445,Searching for Sugar Man,PG-13,26 Jul 2012,86 min,79,8.2,"$3,100,000",Won 1 Oscar. Another 39 wins & 30 nominations.,Sony Pictures Classics
+446,Born Innocent,NOT RATED,10 Sep 1974,98 min,N/A,6.6,N/A,1 nomination.,Tomorrow Entertainment
+447,The Shawshank Redemption,R,14 Oct 1994,142 min,80,9.3,N/A,Nominated for 7 Oscars. Another 19 wins & 32 nominations.,Columbia Pictures
+448,Kon-Tiki,PG-13,26 Apr 2013,118 min,62,7.2,"$1,511,798",Nominated for 1 Oscar. Another 12 wins & 13 nominations.,The Weinstein Company
+449,Dr. No,PG,07 Oct 1962,110 min,78,7.3,N/A,Won 1 Golden Globe. Another 1 win & 4 nominations.,United Artists
+450,Rebelle,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+451,Hitchcock,PG-13,14 Dec 2012,98 min,55,6.8,"$6,002,708",Nominated for 1 Oscar. Another 4 wins & 28 nominations.,Fox Searchlight Pictures
+452,The Hobbit: An Unexpected Journey,PG-13,14 Dec 2012,169 min,58,7.9,"$303,001,229",Nominated for 3 Oscars. Another 10 wins & 72 nominations.,Warner Bros.
+453,Adam and Dog,TV-PG,06 Nov 2012,16 min,N/A,6.9,N/A,Nominated for 1 Oscar. Another 1 win.,N/A
+454,Fresh Guacamole,N/A,02 Mar 2012,2 min,N/A,7.4,N/A,Nominated for 1 Oscar. Another 1 nomination.,N/A
+455,Head Over Heels,PG-13,02 Feb 2001,86 min,27,5.4,"$9,892,550",N/A,Universal Pictures
+456,Paperman,G,02 Nov 2012,7 min,N/A,8.3,N/A,Won 1 Oscar. Another 2 wins & 2 nominations.,Walt Disney Pictures
+457,Curfew,PG-13,04 Oct 2012,19 min,N/A,7.9,N/A,Won 1 Oscar. Another 20 wins & 3 nominations.,Fuzzy Logic Pictures
+458,Hardcore Henry,R,08 Apr 2016,96 min,51,6.7,N/A,1 win & 1 nomination.,N/A
+459,The Avengers,PG-13,04 May 2012,143 min,69,8.1,"$623,279,547",Nominated for 1 Oscar. Another 38 wins & 79 nominations.,Walt Disney Pictures
+460,Prometheus,R,08 Jun 2012,124 min,64,7.0,"$126,464,904",Nominated for 1 Oscar. Another 6 wins & 46 nominations.,20th Century Fox
+461,Moonrise Kingdom,PG-13,29 Jun 2012,94 min,84,7.8,"$45,507,865",Nominated for 1 Oscar. Another 38 wins & 118 nominations.,Focus Features
+462,Jill Drew and D.A. Pennebaker,N/A,20 Apr 2016,26 min,N/A,N/A,N/A,N/A,N/A
+463,George Stevens Jr. On 'Woman of the Year',N/A,18 Apr 2017,6 min,N/A,N/A,N/A,N/A,N/A
+464,The Croods,PG,22 Mar 2013,98 min,55,7.2,"$187,165,546",Nominated for 1 Oscar. Another 5 wins & 44 nominations.,20th Century Fox
+465,Despicable Me 2,PG,03 Jul 2013,98 min,62,7.4,"$368,049,635",Nominated for 2 Oscars. Another 12 wins & 65 nominations.,Universal Pictures
+466,Frozen,PG,27 Nov 2013,102 min,74,7.5,"$400,736,600",Won 2 Oscars. Another 77 wins & 57 nominations.,Walt Disney Pictures
+467,Inside Llewyn Davis,R,10 Jan 2014,104 min,93,7.5,"$9,666,762",Nominated for 2 Oscars. Another 47 wins & 169 nominations.,CBS Films
+468,Prisoners,R,20 Sep 2013,153 min,74,8.1,"$60,962,878",Nominated for 1 Oscar. Another 10 wins & 35 nominations.,Warner Bros.
+469,The Great Gatsby,PG-13,10 May 2013,143 min,55,7.3,"$144,812,796",Won 2 Oscars. Another 47 wins & 83 nominations.,Warner Bros. Pictures
+470,The Invisible Woman,R,21 Feb 2014,111 min,75,6.2,"$1,200,000",Nominated for 1 Oscar. Another 1 win & 7 nominations.,Sony Pictures Classics
+471,Jagal Bhaag Hamar,N/A,01 Jan 1978,N/A,N/A,N/A,N/A,N/A,N/A
+472,Cutie and the Boxer,R,01 Nov 2013,82 min,83,7.2,"$199,274",Nominated for 1 Oscar. Another 8 wins & 13 nominations.,Radius
+473,Dirty Wars,NOT RATED,18 Oct 2013,87 min,76,7.5,"$365,604",Nominated for 1 Oscar. Another 10 wins & 6 nominations.,IFC Films
+474,The Square,R,25 Aug 2017,151 min,73,7.3,"$1,284,672",Nominated for 1 Oscar. Another 27 wins & 36 nominations.,Magnolia Pictures
+475,20 Feet from Stardom,PG-13,26 Jul 2013,91 min,83,7.4,N/A,Won 1 Oscar. Another 20 wins & 26 nominations.,Radius-TWC
+476,Cavedigger,TV-G,12 Jan 2013,39 min,N/A,7.2,N/A,Nominated for 1 Oscar. Another 1 nomination.,KAROFFilms
+477,Karama Has No Walls,N/A,01 Mar 2012,26 min,N/A,7.7,N/A,Nominated for 1 Oscar. Another 1 win.,N/A
+478,The Broken Circle Breakdown,NOT RATED,10 Oct 2012,111 min,70,7.8,N/A,Nominated for 1 Oscar. Another 33 wins & 24 nominations.,Tribeca Film
+479,The Great American Beauty Contest,UNRATED,13 Feb 1973,74 min,N/A,6.2,N/A,N/A,N/A
+480,Hunt for the Wilderpeople,PG-13,31 Mar 2016,101 min,81,7.9,"$5,202,582",20 wins & 25 nominations.,Piki Films
+481,The Lone Ranger,PG-13,03 Jul 2013,150 min,37,6.4,"$89,289,910",Nominated for 2 Oscars. Another 4 wins & 17 nominations.,Walt Disney Pictures
+482,The Book Thief,PG-13,27 Nov 2013,131 min,53,7.6,N/A,Nominated for 1 Oscar. Another 8 wins & 14 nominations.,20th Century Fox
+483,Her,R,10 Jan 2014,126 min,90,8.0,"$17,901,029",Won 1 Oscar. Another 82 wins & 181 nominations.,Warner Bros. Pictures
+484,Saving Mr. Banks,PG-13,20 Dec 2013,125 min,65,7.5,"$53,260,198",Nominated for 1 Oscar. Another 13 wins & 72 nominations.,Walt Disney Pictures
+485,Feral,N/A,25 May 2018,90 min,41,4.1,N/A,N/A,N/A
+486,Get a Horse!,G,27 Nov 2013,6 min,N/A,7.6,N/A,Nominated for 1 Oscar. Another 2 wins & 1 nomination.,Walt Disney Pictures
+487,Mr Hublot,N/A,26 Feb 2014,11 min,N/A,7.2,N/A,Won 1 Oscar. Another 4 wins & 2 nominations.,N/A
+488,Ava's Possessions,R,04 Mar 2016,89 min,53,5.6,N/A,1 nomination.,Off Hollywood Pictures
+489,Room on the Broom,NOT RATED,30 Oct 2013,25 min,N/A,7.5,N/A,Nominated for 1 Oscar. Another 2 wins & 3 nominations.,Magic Light Pictures
+490,Helium,NOT RATED,31 Jan 2014,23 min,N/A,7.3,N/A,Won 1 Oscar. Another 5 wins & 2 nominations.,N/A
+491,The Voorman Problem,TV-PG,25 Apr 2013,13 min,N/A,7.3,N/A,Nominated for 1 Oscar. Another 2 wins & 4 nominations.,Honlodge Productions
+492,All Is Lost,PG-13,07 Nov 2013,106 min,87,6.9,"$4,300,353",Nominated for 1 Oscar. Another 3 wins & 48 nominations.,Lionsgate/Roadside Attractions
+493,The Hobbit: The Desolation of Smaug,PG-13,13 Dec 2013,161 min,66,7.8,"$180,443,783",Nominated for 3 Oscars. Another 16 wins & 86 nominations.,Warner Bros.
+494,Lone Survivor,R,10 Jan 2014,121 min,60,7.5,"$97,665,254",Nominated for 2 Oscars. Another 5 wins & 14 nominations.,Universal Studios
+495,Iron Man 3,PG-13,03 May 2013,130 min,62,7.2,"$408,992,272",Nominated for 1 Oscar. Another 17 wins & 61 nominations.,Walt Disney Pictures
+496,Star Trek: Into Darkness,PG-13,16 May 2013,132 min,72,7.7,"$228,756,232",Nominated for 1 Oscar. Another 6 wins & 56 nominations.,Paramount
+497,Before Midnight,R,14 Jun 2013,109 min,94,7.9,"$8,114,507",Nominated for 1 Oscar. Another 21 wins & 59 nominations.,Drafthouse Recommends
+498,They All Laughed 25 Years Later: Director to Director - A Conversation with Peter Bogdanovich and Wes Anderson,N/A,17 Oct 2006,27 min,N/A,N/A,N/A,N/A,N/A
+499,Big Hero 6,PG,07 Nov 2014,102 min,74,7.8,N/A,Won 1 Oscar. Another 16 wins & 57 nominations.,Walt Disney Pictures
+500,The Boxtrolls,PG,26 Sep 2014,96 min,61,6.8,"$52,098,992",Nominated for 1 Oscar. Another 8 wins & 59 nominations.,Focus Features
+501,How to Train Your Dragon 2,PG,13 Jun 2014,102 min,76,7.8,"$147,065,544",Nominated for 1 Oscar. Another 14 wins & 60 nominations.,20th Century Fox
+502,Song of the Sea,PG,20 Nov 2015,93 min,85,8.1,N/A,Nominated for 1 Oscar. Another 11 wins & 23 nominations.,GKIDS
+503,The Grand Budapest Hotel,R,28 Mar 2014,99 min,88,8.1,"$56,939,515",Won 4 Oscars. Another 127 wins & 218 nominations.,Fox Searchlight
+504,Ida,PG-13,25 Oct 2013,82 min,91,7.4,N/A,Won 1 Oscar. Another 66 wins & 83 nominations.,Music Box Films
+505,Mr. Turner,R,31 Oct 2014,150 min,94,6.8,N/A,Nominated for 4 Oscars. Another 19 wins & 62 nominations.,Sony Pictures Classics
+506,Unbroken,PG-13,25 Dec 2014,137 min,59,7.2,"$70,500,647",Nominated for 3 Oscars. Another 14 wins & 29 nominations.,Universal Pictures
+507,Inherent Vice,R,09 Jan 2015,148 min,81,6.7,"$6,100,613",Nominated for 2 Oscars. Another 16 wins & 93 nominations.,Warner Bros. Pictures
+508,Maleficent,PG,30 May 2014,97 min,56,7.0,"$190,871,149",Nominated for 1 Oscar. Another 10 wins & 42 nominations.,Walt Disney Pictures
+509,Citizenfour,R,28 Nov 2014,114 min,88,8.1,N/A,Won 1 Oscar. Another 43 wins & 35 nominations.,Radius-TWC
+510,Finding Vivian Maier,NOT RATED,17 Apr 2014,83 min,75,7.7,N/A,Nominated for 1 Oscar. Another 11 wins & 21 nominations.,IFC Films
+511,Last Days in Vietnam,NOT RATED,17 Jan 2014,98 min,86,7.6,"$408,651",Nominated for 1 Oscar. Another 4 wins & 10 nominations.,American Experience/PBS Films
+512,Salt of the Earth,NOT RATED,14 Mar 1954,94 min,N/A,7.5,N/A,3 wins.,The Film Detective
+513,Virunga,NOT RATED,07 Nov 2014,100 min,95,8.2,N/A,Nominated for 1 Oscar. Another 18 wins & 24 nominations.,Netflix
+514,Crisis Hotline: Veterans Press 1,TV-14,11 Nov 2013,40 min,N/A,7.5,N/A,Won 1 Oscar. Another 1 nomination.,HBO Documentary
+515,Joanna,N/A,26 Nov 2010,110 min,N/A,6.9,N/A,6 wins & 6 nominations.,N/A
+516,White Earth,N/A,18 Jan 2014,20 min,N/A,6.2,N/A,Nominated for 1 Oscar. Another 1 win & 1 nomination.,N/A
+517,Leviathan,R,05 Feb 2015,140 min,92,7.6,"$754,393",Nominated for 1 Oscar. Another 33 wins & 44 nominations.,Sony Pictures Classics
+518,Timbuktu,PG-13,10 Dec 2014,97 min,92,7.2,"$696,436",Nominated for 1 Oscar. Another 28 wins & 19 nominations.,Cohen Media Group
+519,Guardians of the Galaxy,PG-13,01 Aug 2014,121 min,76,8.1,"$270,592,504",Nominated for 2 Oscars. Another 52 wins & 99 nominations.,Walt Disney Pictures
+520,Interstellar,PG-13,07 Nov 2014,169 min,74,8.6,"$158,737,441",Won 1 Oscar. Another 43 wins & 143 nominations.,Paramount Pictures
+521,Selma,PG-13,09 Jan 2015,128 min,89,7.5,N/A,Won 1 Oscar. Another 58 wins & 88 nominations.,Paramount Pictures
+522,The Bigger Picture,N/A,11 Oct 2014,8 min,N/A,6.7,N/A,Nominated for 1 Oscar. Another 6 wins & 5 nominations.,N/A
+523,The Dam Keeper,TV-G,11 Oct 2014,18 min,N/A,8.0,N/A,Nominated for 1 Oscar. Another 6 wins & 2 nominations.,N/A
+524,Feast,R,18 Jan 2007,95 min,43,6.3,N/A,1 win.,The Weinstein Company
+525,A Single Life,TV-PG,01 Sep 2014,3 min,N/A,7.4,N/A,Nominated for 1 Oscar. Another 1 win & 1 nomination.,NB Thrilling Films
+526,Boogaloo and Graham,TV-PG,01 Aug 2014,14 min,N/A,7.3,N/A,Nominated for 1 Oscar. Another 2 wins & 5 nominations.,Out of Orbit Films
+527,Parvaneh,TV-G,01 Nov 2012,25 min,N/A,6.8,N/A,Nominated for 1 Oscar. Another 1 nomination.,Zurich University of Arts
+528,The Phone Call,TV-14,20 Feb 2015,22 min,N/A,7.2,N/A,Won 1 Oscar. Another 7 wins & 3 nominations.,N/A
+529,The Hobbit: The Battle of the Five Armies,PG-13,17 Dec 2014,144 min,59,7.4,"$187,747,747",Nominated for 1 Oscar. Another 7 wins & 51 nominations.,Warner Bros.
+530,Captain America: The Winter Soldier,PG-13,04 Apr 2014,136 min,70,7.8,"$228,636,083",Nominated for 1 Oscar. Another 5 wins & 50 nominations.,Walt Disney Pictures
+531,Dawn of the Planet of the Apes,PG-13,11 Jul 2014,130 min,79,7.6,"$183,278,877",Nominated for 1 Oscar. Another 16 wins & 47 nominations.,20th Century Fox
+532,X-Men: Days of Future Past,PG-13,23 May 2014,132 min,75,8.0,"$199,305,306",Nominated for 1 Oscar. Another 15 wins & 47 nominations.,20th Century Fox
+533,Nightcrawler,R,31 Oct 2014,117 min,76,7.9,N/A,Nominated for 1 Oscar. Another 43 wins & 120 nominations.,Open Road Films
+534,Sing Your Song,NOT RATED,14 Apr 2012,103 min,73,7.5,"$47,718",3 wins & 2 nominations.,S2BN Films
+535,Busy Bodies,APPROVED,07 Oct 1933,19 min,N/A,7.9,N/A,N/A,Hal Roach Studios
+536,Driven,PG-13,27 Apr 2001,116 min,29,4.6,N/A,1 win & 10 nominations.,Warner Bros. Pictures
+537,Anomalisa,R,11 Mar 2016,90 min,88,7.3,N/A,Nominated for 1 Oscar. Another 24 wins & 72 nominations.,Starburns Industries
+538,Inside Out,PG,19 Jun 2015,95 min,94,8.2,"$264,317,903",Won 1 Oscar. Another 93 wins & 112 nominations.,Disney/Pixar
+539,Shaun the Sheep Movie,PG,05 Aug 2015,85 min,81,7.4,N/A,Nominated for 1 Oscar. Another 4 wins & 48 nominations.,Lionsgate
+540,Mad Max: Fury Road,R,15 May 2015,120 min,90,8.1,"$129,483,877",Won 6 Oscars. Another 232 wins & 219 nominations.,Warner Bros.
+541,Sicario,R,02 Oct 2015,121 min,82,7.6,N/A,Nominated for 3 Oscars. Another 15 wins & 150 nominations.,Lionsgate
+542,Cinderella,PG,13 Mar 2015,105 min,67,6.9,"$183,327,144",Nominated for 1 Oscar. Another 8 wins & 35 nominations.,Walt Disney Pictures
+543,Amy,R,03 Jul 2015,128 min,85,7.8,"$7,851,076",Won 1 Oscar. Another 50 wins & 44 nominations.,A24 Films
+544,Cartel Land,R,03 Jul 2015,100 min,76,7.4,N/A,Nominated for 1 Oscar. Another 18 wins & 35 nominations.,The Orchard
+545,The Look of Silence,PG-13,17 Jul 2015,103 min,92,8.3,"$48,097",Nominated for 1 Oscar. Another 47 wins & 40 nominations.,Drafthouse Films
+546,"What Happened, Miss Simone?",NOT RATED,24 Jun 2015,101 min,75,7.6,N/A,Nominated for 1 Oscar. Another 6 wins & 18 nominations.,Netflix
+547,Winter on Fire: Ukraine's Fight for Freedom,NOT RATED,09 Oct 2015,102 min,79,8.4,N/A,Nominated for 1 Oscar. Another 2 wins & 4 nominations.,N/A
+548,Body Team 12,N/A,19 Apr 2015,13 min,N/A,7.3,N/A,Nominated for 1 Oscar. Another 2 wins & 2 nominations.,RYOT Films
+549,"Chau, Beyond the Lines",N/A,21 Aug 2015,34 min,N/A,7.1,N/A,Nominated for 1 Oscar. Another 5 wins & 1 nomination.,Cynasty Films
+550,A Girl in the River: The Price of Forgiveness,TV-PG,28 Oct 2015,40 min,N/A,7.9,N/A,Won 1 Oscar. Another 1 win.,HBO Documentary Films
+551,Last Day of Freedom,N/A,11 Apr 2015,32 min,N/A,7.6,N/A,Nominated for 1 Oscar. Another 5 wins.,N/A
+552,Star Wars: The Force Awakens,PG-13,18 Dec 2015,136 min,81,8.0,"$936,658,640",Nominated for 5 Oscars. Another 57 wins & 123 nominations.,Walt Disney Pictures
+553,Mustang,PG-13,17 Jun 2015,97 min,83,7.6,"$560,778",Nominated for 1 Oscar. Another 42 wins & 58 nominations.,CG Cinéma
+554,Theeb,NOT RATED,19 Mar 2015,100 min,80,7.2,"$128,430",Nominated for 1 Oscar. Another 10 wins & 14 nominations.,Noor Pictures
+555,A Private War,N/A,16 Nov 2018,106 min,76,7.0,N/A,N/A,Aviron Pictures
+556,The Bath Song & More Kids Songs: Super Simple Songs,N/A,10 Jul 2017,40 min,N/A,N/A,N/A,N/A,N/A
+557,Prologue,N/A,23 Feb 2016,6 min,N/A,6.3,N/A,Nominated for 1 Oscar. Another 1 nomination.,Animation Masterclass
+558,Sanjay's Super Team,PG,25 Nov 2015,7 min,N/A,6.9,N/A,Nominated for 1 Oscar. Another 2 nominations.,Pixar
+559,World of Tomorrow,G,31 Mar 2015,17 min,N/A,8.2,N/A,Nominated for 1 Oscar. Another 27 wins & 3 nominations.,N/A
+560,Ave Maria,N/A,21 Jun 2015,15 min,N/A,6.5,N/A,Nominated for 1 Oscar. Another 10 wins & 21 nominations.,Incognito Films
+561,Shok,N/A,23 Feb 2016,21 min,N/A,8.2,N/A,Nominated for 1 Oscar. Another 14 wins & 4 nominations.,N/A
+562,Stutterer,N/A,09 Sep 2015,12 min,N/A,7.7,N/A,Won 1 Oscar. Another 5 wins & 1 nomination.,Bare Golly Films
+563,Ex Machina,R,24 Apr 2015,108 min,78,7.7,"$19,012,798",Won 1 Oscar. Another 70 wins & 153 nominations.,A24 Films
+564,Straight Outta Compton,R,14 Aug 2015,147 min,72,7.9,"$129,402,415",Nominated for 1 Oscar. Another 27 wins & 40 nominations.,Universal Pictures
+565,Bright Lights: Starring Carrie Fisher and Debbie Reynolds,TV-14,07 Jan 2017,95 min,78,8.0,N/A,Nominated for 2 Primetime Emmys. Another 1 win & 4 nominations.,HBO Films
+566,He Got Game,R,01 May 1998,136 min,63,6.9,N/A,10 nominations.,Buena Vista
