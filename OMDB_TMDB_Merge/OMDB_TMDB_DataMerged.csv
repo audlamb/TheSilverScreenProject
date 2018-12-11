@@ -1,0 +1,568 @@
+,Movie,Release Date_x,Release Date_y,Budget,Revenue,Box Office,Genres,Rating,Runtime,Metascore,IMDb Rating,Awards,Production Company
+0,Capote,2005-09-30,03 Feb 2006,7000000.0,49084830.0,28337516.0,Crime,R,114.0,88.0,7.4,Won 1 Oscar. Another 58 wins & 86 nominations.,Sony Pictures Classics
+1,American Hustle,2013-12-12,20 Dec 2013,40000000.0,251171807.0,99165609.0,Drama,R,138.0,90.0,7.3,Nominated for 10 Oscars. Another 70 wins & 208 nominations.,Sony Pictures
+2,Brokeback Mountain,2005-09-10,13 Jan 2006,14000000.0,178043761.0,82970165.0,Drama,R,134.0,87.0,7.7,Won 3 Oscars. Another 138 wins & 128 nominations.,Focus Features
+3,Walk the Line,2005-09-13,18 Nov 2005,28000000.0,186438883.0,119317827.0,Drama,PG-13,136.0,72.0,7.9,Won 1 Oscar. Another 44 wins & 46 nominations.,20th Century Fox
+4,"Good Night, and Good Luck.",2005-09-16,04 Nov 2005,7000000.0,54600000.0,31500000.0,Drama,PG,93.0,80.0,7.5,Nominated for 6 Oscars. Another 38 wins & 121 nominations.,Warner Independent Pictures
+5,Syriana,2005-11-23,09 Dec 2005,50000000.0,93974620.0,50800000.0,Drama,R,128.0,76.0,6.9,Won 1 Oscar. Another 13 wins & 28 nominations.,Warner Bros. Pictures
+6,Crash,2005-05-06,06 May 2005,6500000.0,98410061.0,55382847.0,Drama,R,112.0,69.0,7.8,Won 3 Oscars. Another 64 wins & 111 nominations.,Lions Gate Films
+7,Cinderella Man,2005-06-02,03 Jun 2005,88000000.0,108539911.0,61600000.0,Romance,PG-13,144.0,69.0,8.0,Nominated for 3 Oscars. Another 16 wins & 41 nominations.,Universal Pictures
+8,A History of Violence,2005-09-23,30 Sep 2005,32000000.0,60740827.0,31500000.0,Drama,R,96.0,81.0,7.5,Nominated for 2 Oscars. Another 37 wins & 78 nominations.,New Line Cinema
+9,Mrs Henderson Presents,2005-09-08,17 Feb 2006,0.0,0.0,10965943.0,Comedy,R,103.0,71.0,7.1,Nominated for 2 Oscars. Another 6 wins & 31 nominations.,Weinstein Company
+10,Transamerica,2005-12-23,03 Mar 2006,1000000.0,13350369.0,8713873.0,Drama,R,103.0,66.0,7.4,Nominated for 2 Oscars. Another 32 wins & 23 nominations.,Weinstein Company
+11,Pride,2014-09-12,12 Sep 2014,0.0,7523634.0,0.0,Drama,R,119.0,79.0,7.8,Nominated for 1 Golden Globe. Another 9 wins & 17 nominations.,CBS Films
+12,North Country,2005-02-12,21 Oct 2005,35000000.0,25224242.0,18324242.0,Drama,R,126.0,68.0,7.3,Nominated for 2 Oscars. Another 6 wins & 17 nominations.,Warner Bros. Pictures
+13,Junebug,2005-08-03,16 Sep 2005,1000000.0,0.0,2416555.0,Comedy,R,106.0,80.0,7.0,Nominated for 1 Oscar. Another 21 wins & 27 nominations.,Sony Pictures Classics
+14,The Constant Gardener,2005-08-31,31 Aug 2005,25000000.0,82466670.0,33565375.0,Drama,R,129.0,82.0,7.4,Won 1 Oscar. Another 35 wins & 68 nominations.,Focus Features
+15,Being George Clooney,2016-02-06,15 Oct 2016,0.0,0.0,0.0,Documentary,,88.0,,6.7,1 nomination.,
+16,Little Italy,2018-08-24,21 Sep 2018,0.0,0.0,0.0,Comedy,,102.0,28.0,5.7,,Lionsgate
+17,Made in France,2015-10-27,23 Sep 2016,0.0,0.0,0.0,Drama,R,89.0,,6.2,,
+18,A John Williams Celebration,2015-06-15,30 Jun 2015,0.0,0.0,0.0,Music,NOT RATED,103.0,,8.5,,
+19,Blood Diamond,2006-12-07,08 Dec 2006,100000000.0,170877916.0,57300000.0,Drama,R,143.0,64.0,8.0,Nominated for 5 Oscars. Another 8 wins & 26 nominations.,Warner Bros. Pictures
+20,Half Nelson,2006-08-11,22 Sep 2006,700000.0,4911725.0,2591047.0,Drama,R,106.0,85.0,7.2,Nominated for 1 Oscar. Another 29 wins & 47 nominations.,ThinkFilm
+21,Venus,2006-09-02,16 Feb 2007,0.0,0.0,3261449.0,Comedy,R,95.0,82.0,7.1,Nominated for 1 Oscar. Another 4 wins & 20 nominations.,Miramax Films
+22,The Pursuit of Happyness,2006-12-14,15 Dec 2006,55000000.0,307077295.0,162586036.0,Drama,PG-13,117.0,64.0,8.0,Nominated for 1 Oscar. Another 11 wins & 24 nominations.,Sony Pictures
+23,The Last King of Scotland,2006-09-01,19 Jan 2007,6000000.0,48027970.0,17449410.0,Drama,R,123.0,74.0,7.7,Won 1 Oscar. Another 47 wins & 31 nominations.,Fox Searchlight
+24,Little Miss Sunshine,2006-07-26,18 Aug 2006,8000000.0,100523181.0,59831476.0,Comedy,R,101.0,80.0,7.8,Won 2 Oscars. Another 68 wins & 107 nominations.,Fox Searchlight
+25,Little Children,2006-10-06,09 Feb 2007,26000000.0,14821658.0,5307219.0,Romance,R,136.0,75.0,7.5,Nominated for 3 Oscars. Another 20 wins & 57 nominations.,New Line Cinema
+26,Dreamgirls,2006-12-25,25 Dec 2006,70000000.0,154937680.0,103300000.0,Drama,PG-13,130.0,76.0,6.5,Won 2 Oscars. Another 66 wins & 91 nominations.,Dreamworks
+27,The Departed,2006-10-05,06 Oct 2006,90000000.0,289847354.0,132300000.0,Drama,R,151.0,85.0,8.5,Won 4 Oscars. Another 92 wins & 135 nominations.,Warner Bros. Pictures
+28,Volver,2006-03-16,26 Jan 2007,12899867.0,85582407.0,12830604.0,Comedy,R,121.0,84.0,7.6,Nominated for 1 Oscar. Another 60 wins & 90 nominations.,Sony Pictures Classics
+29,Notes on a Scandal,2006-12-25,26 Jan 2007,15000000.0,49469904.0,17400000.0,Drama,R,92.0,73.0,7.4,Nominated for 4 Oscars. Another 15 wins & 68 nominations.,Fox Searchlight Pictures
+30,The Queen,2006-09-15,17 Nov 2006,15000000.0,123384128.0,56222759.0,Drama,PG-13,103.0,91.0,7.3,Won 1 Oscar. Another 94 wins & 95 nominations.,Miramax Films
+31,The Devil Wears Prada,2006-06-30,30 Jun 2006,35000000.0,326551094.0,124700000.0,Comedy,PG-13,109.0,62.0,6.9,Nominated for 2 Oscars. Another 16 wins & 50 nominations.,20th Century Fox
+32,Babel,2006-09-08,10 Nov 2006,25000000.0,135330182.0,34237104.0,Drama,R,143.0,69.0,7.5,Won 1 Oscar. Another 41 wins & 134 nominations.,Paramount Classics
+33,Close Encounters with Vilmos Zsigmond,2016-05-13,16 Nov 2016,0.0,0.0,0.0,Documentary,,80.0,,7.2,2 nominations.,
+34,A Personal Journey with Martin Scorsese Through American Movies,1995-05-21,21 May 1995,0.0,0.0,0.0,Documentary,,225.0,,8.6,,The British Film Institute
+35,Good Luck Algeria,2016-03-30,30 Mar 2016,0.0,0.0,0.0,Comedy,,91.0,,6.2,,
+36,Michael Clayton,2007-09-28,12 Oct 2007,25000000.0,92991835.0,48976323.0,Drama,R,119.0,82.0,7.3,Won 1 Oscar. Another 26 wins & 110 nominations.,Warner Bros. Pictures
+37,There Will Be Blood,2007-12-28,25 Jan 2008,25000000.0,77208711.0,40133435.0,Drama,R,158.0,93.0,8.1,Won 2 Oscars. Another 106 wins & 136 nominations.,Paramount Vantage
+38,Sweeney Todd: The Demon Barber of Fleet Street,2007-12-20,21 Dec 2007,50000000.0,152000000.0,52900000.0,Drama,R,116.0,83.0,7.4,Won 1 Oscar. Another 33 wins & 75 nominations.,DreamWorks/Paramount Studios
+39,In the Valley of Elah,2007-08-31,28 Sep 2007,23000000.0,29541790.0,6585535.0,History,R,121.0,65.0,7.2,Nominated for 1 Oscar. Another 2 wins & 17 nominations.,Warner Independent Pictures
+40,Eastern Promises,2007-09-14,21 Sep 2007,51500000.0,55112356.0,17114882.0,Thriller,R,100.0,82.0,7.7,Nominated for 1 Oscar. Another 28 wins & 70 nominations.,Focus Features
+41,The Assassination of Jesse James by the Coward Robert Ford,2007-09-02,19 Oct 2007,30000000.0,14711793.0,3900000.0,Action,R,160.0,68.0,7.5,Nominated for 2 Oscars. Another 25 wins & 65 nominations.,Warner Bros. Pictures
+42,No Country for Old Men,2007-11-08,21 Nov 2007,25000000.0,171627166.0,74223625.0,Crime,R,122.0,91.0,8.1,Won 4 Oscars. Another 157 wins & 132 nominations.,Miramax Films
+43,Charlie Wilson's War,2007-12-19,21 Dec 2007,75000000.0,119000410.0,66636385.0,Comedy,R,102.0,69.0,7.1,Nominated for 1 Oscar. Another 5 wins & 22 nominations.,Universal Pictures
+44,Into the Wild,2007-09-11,19 Oct 2007,15000000.0,56255142.0,18173360.0,Adventure,R,148.0,73.0,8.1,Nominated for 2 Oscars. Another 23 wins & 99 nominations.,Paramount Vantage
+45,Elizabeth: The Golden Age,2007-09-09,12 Oct 2007,55000000.0,74237563.0,16264475.0,Drama,PG-13,114.0,45.0,6.9,Won 1 Oscar. Another 5 wins & 29 nominations.,Universal Pictures
+46,Away from Her,2006-09-11,25 May 2007,0.0,0.0,15830046.0,Drama,PG-13,110.0,88.0,7.6,Nominated for 2 Oscars. Another 62 wins & 38 nominations.,Lionsgate
+47,The Savages,2007-01-19,01 Feb 2008,0.0,0.0,6426953.0,Drama,R,113.0,85.0,7.2,Nominated for 2 Oscars. Another 17 wins & 31 nominations.,Fox Searchlight Pictures
+48,Juno,2007-12-05,25 Dec 2007,7500000.0,231411584.0,143380890.0,Comedy,PG-13,96.0,81.0,7.5,Won 1 Oscar. Another 89 wins & 95 nominations.,Fox Searchlight
+49,American Gangster,2007-11-02,02 Nov 2007,100000000.0,266465037.0,130127620.0,Drama,R,157.0,76.0,7.8,Nominated for 2 Oscars. Another 12 wins & 35 nominations.,Universal Pictures
+50,Atonement,2007-08-29,11 Jan 2008,30000000.0,129266061.0,50830581.0,Drama,R,123.0,85.0,7.8,Won 1 Oscar. Another 50 wins & 146 nominations.,Focus Features
+51,Gone Baby Gone,2007-10-19,19 Oct 2007,19000000.0,34619699.0,20300218.0,Crime,R,114.0,72.0,7.7,Nominated for 1 Oscar. Another 34 wins & 29 nominations.,Miramax
+52,Julian Schnabel: A Private Portrait,2017-05-05,05 May 2017,0.0,0.0,8679.0,Documentary,,84.0,42.0,7.1,,Buena Onda Srl
+53,"Roman J. Israel, Esq.",2017-11-17,22 Nov 2017,22000000.0,11942780.0,11887893.0,Crime,PG-13,122.0,58.0,6.4,Nominated for 1 Oscar. Another 1 win & 7 nominations.,Sony Pictures
+54,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,2006-11-01,03 Nov 2006,18000000.0,261572744.0,128400000.0,Comedy,R,84.0,89.0,7.3,Nominated for 1 Oscar. Another 20 wins & 33 nominations.,20th Century Fox
+55,From Russia with Love,1963-10-11,27 May 1964,2000000.0,78898765.0,0.0,Action,PG,115.0,85.0,7.5,Nominated for 1 Golden Globe. Another 3 wins & 5 nominations.,United Artists
+56,The Visitor,2007-09-07,23 May 2008,0.0,9234510.0,9234510.0,Crime,PG-13,104.0,79.0,7.7,Nominated for 1 Oscar. Another 19 wins & 34 nominations.,Overture Films
+57,Frost/Nixon,2008-10-15,23 Jan 2009,25000000.0,18593156.0,18600000.0,Drama,R,122.0,80.0,7.7,Nominated for 5 Oscars. Another 21 wins & 71 nominations.,Universal Pictures
+58,Milk,2008-11-26,30 Jan 2009,20000000.0,54586584.0,31716847.0,History,R,128.0,84.0,7.6,Won 2 Oscars. Another 61 wins & 141 nominations.,Focus Features
+59,The Curious Case of Benjamin Button,2008-12-25,25 Dec 2008,150000000.0,333932083.0,127490802.0,Fantasy,PG-13,166.0,70.0,7.8,Won 3 Oscars. Another 77 wins & 155 nominations.,Paramount
+60,The Wrestler,2008-09-07,30 Jan 2009,6000000.0,44703995.0,26136413.0,Drama,R,109.0,81.0,7.9,Nominated for 2 Oscars. Another 57 wins & 86 nominations.,Fox Searchlight Pictures
+61,Tropic Thunder,2008-08-09,13 Aug 2008,92000000.0,188072649.0,110416702.0,Action,R,107.0,71.0,7.0,Nominated for 1 Oscar. Another 10 wins & 43 nominations.,DreamWorks/Paramount Studios
+62,Doubt,2008-11-27,25 Dec 2008,20000000.0,50907234.0,33422556.0,Drama,PG-13,104.0,68.0,7.5,Nominated for 5 Oscars. Another 26 wins & 88 nominations.,Miramax
+63,The Dark Knight,2008-07-16,18 Jul 2008,185000000.0,1004558444.0,533316061.0,Drama,PG-13,152.0,84.0,9.0,Won 2 Oscars. Another 152 wins & 155 nominations.,Warner Bros. Pictures/Legendary
+64,Revolutionary Road,2008-12-19,23 Jan 2009,35000000.0,75225693.0,22877808.0,Drama,R,119.0,69.0,7.3,Nominated for 3 Oscars. Another 19 wins & 67 nominations.,Paramount Vantage
+65,Rachel Getting Married,2008-10-03,07 Nov 2008,0.0,0.0,12748504.0,Drama,R,113.0,82.0,6.7,Nominated for 1 Oscar. Another 31 wins & 63 nominations.,Sony Pictures Classics
+66,Changeling,2008-01-30,31 Oct 2008,55000000.0,113020255.0,35707327.0,Crime,R,141.0,63.0,7.8,Nominated for 3 Oscars. Another 13 wins & 47 nominations.,Universal Pictures
+67,Frozen River,2008-08-01,05 Sep 2008,0.0,0.0,2061019.0,Drama,R,97.0,82.0,7.2,Nominated for 2 Oscars. Another 32 wins & 37 nominations.,Sony Pictures Classics
+68,The Reader,2008-12-10,30 Jan 2009,32000000.0,113019290.0,34111418.0,Drama,R,124.0,58.0,7.6,Won 1 Oscar. Another 25 wins & 47 nominations.,The Weinstein Co./MGM
+69,Vicky Cristina Barcelona,2008-08-15,15 Aug 2008,15000000.0,96408652.0,23164041.0,Drama,PG-13,96.0,70.0,7.1,Won 1 Oscar. Another 31 wins & 53 nominations.,The Weinstein Co.
+70,Last Days,2005-05-13,13 May 2005,0.0,1928985.0,356500.0,Drama,R,97.0,67.0,5.8,1 win & 5 nominations.,Picture House
+71,Sunshine,2007-04-05,27 Jul 2007,50000000.0,32017803.0,0.0,Science Fiction,R,107.0,64.0,7.3,1 win & 18 nominations.,
+72,A Christmas Carol,1938-12-16,06 Nov 2009,0.0,0.0,137816456.0,Drama,PG,96.0,55.0,6.8,3 wins & 5 nominations.,Walt Disney Studios
+73,iCarly: iGo to Japan,2008-11-08,08 Nov 2008,0.0,0.0,0.0,Comedy,TV-G,71.0,,6.4,,
+74,One Heart: The A.R. Rahman Concert Film,2017-09-01,08 Sep 2017,0.0,0.0,0.0,Music,,87.0,,8.9,,
+75,Crazy Heart,2009-12-16,05 Feb 2010,7000000.0,47405566.0,38349555.0,Drama,R,112.0,83.0,7.3,Won 2 Oscars. Another 36 wins & 29 nominations.,Fox Searchlight Pictures
+76,Up in the Air,2009-09-05,23 Dec 2009,25000000.0,163670000.0,83775048.0,Drama,R,109.0,83.0,7.4,Nominated for 6 Oscars. Another 76 wins & 158 nominations.,Paramount Pictures
+77,A Single Man,2009-10-19,05 Feb 2010,7000000.0,24964890.0,9098668.0,Romance,R,99.0,77.0,7.6,Nominated for 1 Oscar. Another 36 wins & 55 nominations.,The Weinstein Company
+78,Invictus,2009-12-10,11 Dec 2009,60000000.0,122233971.0,37431431.0,Drama,PG-13,134.0,74.0,7.3,Nominated for 2 Oscars. Another 10 wins & 33 nominations.,Warner Bros. Pictures
+79,The Hurt Locker,2008-10-10,31 Jul 2009,15000000.0,42000000.0,15700000.0,Drama,R,131.0,94.0,7.6,Won 6 Oscars. Another 117 wins & 126 nominations.,Summit Entertainment
+80,The Messenger,2009-11-13,04 Dec 2009,6500000.0,1521261.0,1006655.0,Drama,R,113.0,77.0,7.1,Nominated for 2 Oscars. Another 17 wins & 44 nominations.,Oscilloscope Pictures
+81,The Last Station,2009-09-04,26 Feb 2010,0.0,0.0,6500000.0,Drama,R,112.0,76.0,7.0,Nominated for 2 Oscars. Another 3 wins & 15 nominations.,Sony Pictures Classics
+82,The Lovely Bones,2009-12-26,15 Jan 2010,65000000.0,93525586.0,43982842.0,Fantasy,PG-13,135.0,42.0,6.7,Nominated for 1 Oscar. Another 10 wins & 45 nominations.,Paramount Pictures
+83,Inglourious Basterds,2009-08-18,21 Aug 2009,70000000.0,319131050.0,120523073.0,Drama,R,153.0,69.0,8.3,Won 1 Oscar. Another 129 wins & 165 nominations.,The Weinstein Company
+84,The Blind Side,2009-11-20,20 Nov 2009,29000000.0,309208309.0,255900000.0,Drama,PG-13,129.0,53.0,7.7,Won 1 Oscar. Another 7 wins & 30 nominations.,Warner Bros. Pictures
+85,An Education,2009-10-29,05 Feb 2010,7500000.0,26096852.0,12512069.0,Drama,PG-13,100.0,85.0,7.3,Nominated for 3 Oscars. Another 35 wins & 91 nominations.,Sony Classics
+86,Precious,2009-11-06,20 Nov 2009,10000000.0,47536959.0,47536959.0,Drama,R,110.0,79.0,7.3,Won 2 Oscars. Another 111 wins & 98 nominations.,Lionsgate Films
+87,Nine,2009-12-03,25 Dec 2009,80000000.0,53825515.0,19628665.0,Drama,PG-13,118.0,49.0,5.8,Nominated for 4 Oscars. Another 8 wins & 56 nominations.,The Weinstein Co.
+88,Titanic: The Final Word with James Cameron,2012-04-08,08 Apr 2012,0.0,0.0,0.0,Documentary,,120.0,,7.7,,
+89,Quentin Tarantino: 20 Years of Filmmaking,2012-11-20,20 Nov 2012,0.0,0.0,0.0,Documentary,,125.0,,7.1,,
+90,The Butler,2013-08-16,16 Mar 2017,25000000.0,115922175.0,0.0,Drama,,70.0,,7.6,,
+91,Imagining Argentina,2003-09-13,16 Apr 2004,0.0,0.0,0.0,Drama,R,107.0,27.0,6.3,1 nomination.,Arenas Entertainment
+92,Hans Zimmer: Live in Prague,2017-10-01,03 Nov 2017,0.0,0.0,0.0,Music,NOT RATED,150.0,,9.1,,
+93,Biutiful,2010-10-20,04 Feb 2011,0.0,25147786.0,5100937.0,Drama,R,148.0,58.0,7.5,Nominated for 2 Oscars. Another 18 wins & 45 nominations.,Roadside Attractions
+94,True Grit,2010-12-22,22 Dec 2010,38000000.0,252276927.0,171031347.0,Drama,PG-13,110.0,80.0,7.6,Nominated for 10 Oscars. Another 37 wins & 153 nominations.,Paramount Pictures
+95,The Social Network,2010-10-01,01 Oct 2010,40000000.0,224920315.0,96400000.0,Drama,PG-13,120.0,95.0,7.7,Won 3 Oscars. Another 165 wins & 168 nominations.,Columbia Pictures
+96,The King's Speech,2010-09-06,25 Dec 2010,15000000.0,414211549.0,138300000.0,Drama,R,118.0,88.0,8.0,Won 4 Oscars. Another 102 wins & 194 nominations.,The Weinstein Company
+97,127 Hours,2010-11-05,28 Jan 2011,18000000.0,35692920.0,18329466.0,Adventure,R,94.0,82.0,7.6,Nominated for 6 Oscars. Another 23 wins & 141 nominations.,Fox Searchlight
+98,The Fighter,2010-12-17,17 Dec 2010,25000000.0,93617009.0,93571803.0,Drama,R,116.0,79.0,7.8,Won 2 Oscars. Another 72 wins & 116 nominations.,Paramount Pictures
+99,Winter's Bone,2010-06-11,16 Jul 2010,2000000.0,13831503.0,6200000.0,Drama,R,100.0,90.0,7.2,Nominated for 4 Oscars. Another 63 wins & 120 nominations.,Roadside Attractions
+100,The Town,2010-09-15,17 Sep 2010,37000000.0,154026136.0,92173235.0,Crime,R,125.0,74.0,7.6,Nominated for 1 Oscar. Another 9 wins & 45 nominations.,Warner Bros. Pictures
+101,The Kids Are All Right,2010-07-09,30 Jul 2010,3500000.0,34705850.0,20803237.0,Comedy,R,106.0,86.0,7.0,Nominated for 4 Oscars. Another 28 wins & 120 nominations.,Focus Features
+102,Rabbit Hole,2010-12-16,28 Jan 2011,5000000.0,5129058.0,2221809.0,Drama,PG-13,91.0,76.0,7.0,Nominated for 1 Oscar. Another 7 wins & 40 nominations.,Lionsgate Films
+103,Black Swan,2010-12-03,17 Dec 2010,13000000.0,327803731.0,106952327.0,Drama,R,108.0,79.0,8.0,Won 1 Oscar. Another 91 wins & 257 nominations.,Fox Searchlight
+104,Blue Valentine,2010-12-27,28 Jan 2011,3500000.0,16566240.0,9600000.0,Drama,R,112.0,81.0,7.4,Nominated for 1 Oscar. Another 9 wins & 52 nominations.,Weinstein Company
+105,Animal Kingdom,2010-06-03,03 Jun 2010,5000000.0,1000000.0,1000000.0,Drama,R,113.0,83.0,7.3,Nominated for 1 Oscar. Another 38 wins & 54 nominations.,Sony Pictures Classics
+106,A Better Life,2011-06-24,28 Jul 2011,10000000.0,1759252.0,1754319.0,Drama,PG-13,98.0,64.0,7.2,Nominated for 1 Oscar. Another 6 wins & 8 nominations.,Summit Entertainment
+107,The Descendants,2011-09-09,09 Dec 2011,20000000.0,177243185.0,78500000.0,Comedy,R,115.0,84.0,7.3,Won 1 Oscar. Another 66 wins & 142 nominations.,Fox Searchlight Pictures
+108,The Artist,2011-06-26,20 Jan 2012,15000000.0,133432856.0,44667095.0,Drama,PG-13,100.0,89.0,7.9,Won 5 Oscars. Another 145 wins & 188 nominations.,The Weinstein Company
+109,Tinker Tailor Soldier Spy,2011-09-16,06 Jan 2012,30000000.0,80630608.0,20200000.0,Drama,R,122.0,85.0,7.1,Nominated for 3 Oscars. Another 35 wins & 93 nominations.,Focus Features
+110,Moneyball,2011-09-22,23 Sep 2011,50000000.0,110206216.0,75605492.0,Drama,PG-13,133.0,87.0,7.6,Nominated for 6 Oscars. Another 29 wins & 75 nominations.,Sony Pictures
+111,My Week with Marilyn,2011-11-23,23 Dec 2011,6400000.0,35057696.0,12600000.0,Drama,R,99.0,65.0,7.0,Nominated for 2 Oscars. Another 19 wins & 59 nominations.,The Weinstein Company
+112,Warrior,2011-09-09,09 Sep 2011,25000000.0,23057115.0,13600000.0,Action,PG-13,140.0,71.0,8.2,Nominated for 1 Oscar. Another 6 wins & 20 nominations.,Lionsgate
+113,Beginners,2011-06-09,09 Jun 2011,3200000.0,14311701.0,5764842.0,Drama,R,105.0,81.0,7.2,Won 1 Oscar. Another 34 wins & 29 nominations.,Focus Features
+114,Extremely Loud & Incredibly Close,2011-12-24,20 Jan 2012,40000000.0,55247881.0,31836745.0,Drama,PG-13,129.0,46.0,6.9,Nominated for 2 Oscars. Another 8 wins & 23 nominations.,Warner Bros. Pictures
+115,Albert Nobbs,2011-12-21,22 Feb 2012,8000000.0,5634828.0,3014541.0,Drama,R,113.0,57.0,6.7,Nominated for 3 Oscars. Another 19 wins & 39 nominations.,Roadside Attractions
+116,The Help,2011-08-09,10 Aug 2011,25000000.0,124272124.0,169705587.0,Drama,PG-13,146.0,62.0,8.1,Won 1 Oscar. Another 79 wins & 116 nominations.,DreamWorks Studios
+117,The Girl with the Dragon Tattoo,2011-12-14,21 Dec 2011,90000000.0,232617430.0,102515793.0,Thriller,R,158.0,71.0,7.8,Won 1 Oscar. Another 27 wins & 90 nominations.,Sony Pictures
+118,The Iron Lady,2011-12-30,13 Jan 2012,13000000.0,114956699.0,29959436.0,History,PG-13,105.0,54.0,6.4,Won 2 Oscars. Another 23 wins & 47 nominations.,The Weinstein Co.
+119,Bridesmaids,2011-05-13,13 May 2011,32500000.0,288383523.0,166500000.0,Comedy,R,125.0,75.0,6.8,Nominated for 2 Oscars. Another 25 wins & 69 nominations.,Universal Studios
+120,La corrupción de Chris Miller,1973-05-17,01 Sep 1975,0.0,0.0,0.0,Drama,R,107.0,,6.5,,
+121,Rango,2011-03-02,04 Mar 2011,10000000.0,0.0,123188232.0,Animation,PG,107.0,75.0,7.2,Won 1 Oscar. Another 45 wins & 24 nominations.,Paramount Pictures
+122,Woody Allen: A Documentary,2011-11-20,30 May 2012,0.0,0.0,0.0,Documentary,,195.0,,7.7,,
+123,The Living Daylights,1987-06-29,31 Jul 1987,40000000.0,191185897.0,0.0,Action,PG,130.0,60.0,6.7,3 wins & 4 nominations.,MGM Home Entertainment
+124,Silver Linings Playbook,2012-09-08,25 Dec 2012,21000000.0,236412453.0,132088910.0,Drama,R,122.0,81.0,7.7,Won 1 Oscar. Another 88 wins & 145 nominations.,The Weinstein Company
+125,Lincoln,2012-11-09,16 Nov 2012,65000000.0,275293450.0,129477447.0,History,PG-13,150.0,86.0,7.4,Won 2 Oscars. Another 108 wins & 242 nominations.,Dreamworks Pictures
+126,Les Misérables,2012-12-18,25 Dec 2012,61000000.0,441809770.0,148775460.0,History,PG-13,158.0,63.0,7.6,Won 3 Oscars. Another 81 wins & 172 nominations.,Universal Pictures
+127,The Master,2012-09-07,21 Sep 2012,32000000.0,28258060.0,15800000.0,Drama,R,138.0,86.0,7.1,Nominated for 3 Oscars. Another 76 wins & 179 nominations.,The Weinstein Company
+128,Flight,2012-11-02,02 Nov 2012,31000000.0,161772375.0,89400000.0,Drama,R,138.0,76.0,7.3,Nominated for 2 Oscars. Another 16 wins & 42 nominations.,Paramount Pictures
+129,Argo,2012-10-11,12 Oct 2012,44500000.0,232324128.0,136019448.0,Drama,R,120.0,86.0,7.7,Won 3 Oscars. Another 94 wins & 152 nominations.,Warner Bros. Pictures
+130,Django Unchained,2012-12-25,25 Dec 2012,100000000.0,425368238.0,162804648.0,Drama,R,165.0,81.0,8.4,Won 2 Oscars. Another 56 wins & 151 nominations.,The Weinstein Co.
+131,Zero Dark Thirty,2012-12-19,11 Jan 2013,40000000.0,132820716.0,95720716.0,Thriller,R,157.0,95.0,7.4,Won 1 Oscar. Another 87 wins & 171 nominations.,Columbia Pictures
+132,Amour,2012-07-01,20 Sep 2012,8900000.0,29844753.0,6700000.0,Drama,PG-13,127.0,94.0,7.9,Won 1 Oscar. Another 77 wins & 103 nominations.,Sony Pictures Classics
+133,Beasts of the Southern Wild,2012-06-29,05 Jul 2012,1800000.0,21107746.0,12784397.0,Drama,PG-13,93.0,86.0,7.3,Nominated for 4 Oscars. Another 92 wins & 123 nominations.,Fox Searchlight
+134,Lo imposible,2012-09-09,30 Jan 2013,42000000.0,180274123.0,0.0,Thriller,,0.0,,7.6,,
+135,The Sessions,2012-05-02,16 Nov 2012,1000000.0,9138338.0,5997134.0,Drama,R,95.0,79.0,7.2,Nominated for 1 Oscar. Another 18 wins & 63 nominations.,Fox Searchlight Pictures
+136,Corpse Bride,2005-09-12,23 Sep 2005,40000000.0,117195061.0,53300000.0,Romance,PG,77.0,83.0,7.4,Nominated for 1 Oscar. Another 8 wins & 28 nominations.,Warner Bros. Pictures
+137,Before I Disappear,2014-10-11,28 Nov 2014,0.0,8251.0,2676.0,Drama,UNRATED,93.0,47.0,7.2,16 wins & 8 nominations.,IFC Films
+138,Nebraska,2013-09-21,24 Jan 2014,12000000.0,17654912.0,11348612.0,Drama,R,115.0,86.0,7.7,Nominated for 6 Oscars. Another 28 wins & 157 nominations.,Paramount Pictures
+139,The Wolf of Wall Street,2013-12-25,25 Dec 2013,100000000.0,392000694.0,91330760.0,Crime,R,180.0,75.0,8.2,Nominated for 5 Oscars. Another 38 wins & 165 nominations.,Paramount Studios
+140,12 Years a Slave,2013-10-18,08 Nov 2013,20000000.0,187000000.0,50628650.0,Drama,R,134.0,96.0,8.1,Won 3 Oscars. Another 235 wins & 326 nominations.,Fox Searchlight
+141,Dallas Buyers Club,2013-11-17,22 Nov 2013,5000000.0,55198285.0,23750994.0,Drama,R,117.0,84.0,8.0,Won 3 Oscars. Another 81 wins & 81 nominations.,Focus Features
+142,Captain Phillips,2013-10-10,11 Oct 2013,55000000.0,95000000.0,107100855.0,Action,PG-13,134.0,83.0,7.8,Nominated for 6 Oscars. Another 16 wins & 144 nominations.,Sony Pictures
+143,Blue Jasmine,2013-07-25,23 Aug 2013,18000000.0,99206215.0,0.0,Comedy,PG-13,98.0,78.0,7.3,Won 1 Oscar. Another 54 wins & 75 nominations.,Sony Pictures Classics
+144,Gravity,2013-10-03,04 Oct 2013,105000000.0,716392705.0,274084951.0,Science Fiction,PG-13,91.0,96.0,7.7,Won 7 Oscars. Another 232 wins & 175 nominations.,Warner Bros. Pictures
+145,Philomena,2013-11-01,27 Nov 2013,12000000.0,100129872.0,0.0,Drama,PG-13,98.0,77.0,7.6,Nominated for 4 Oscars. Another 32 wins & 76 nominations.,The Weinstein Company
+146,August: Osage County,2013-12-26,10 Jan 2014,25000000.0,74188937.0,29202643.0,Comedy,R,121.0,58.0,7.2,Nominated for 2 Oscars. Another 15 wins & 62 nominations.,The Weinstein Company
+147,Intrusion: Cambodia,1983-03-03,03 Mar 1983,0.0,0.0,0.0,Action,R,90.0,,3.1,,
+148,"Palestine, Palestine",2002-07-03,,0.0,0.0,0.0,Documentary,,73.0,,7.2,,
+149,Foxcatcher,2014-05-19,16 Jan 2015,24000000.0,12096300.0,9744477.0,Drama,R,134.0,81.0,7.0,Nominated for 5 Oscars. Another 12 wins & 74 nominations.,Sony Pictures Classics
+150,American Sniper,2014-12-11,16 Jan 2015,58800000.0,542307423.0,274377268.0,War,R,133.0,72.0,7.3,Won 1 Oscar. Another 23 wins & 42 nominations.,Warner Bros.
+151,The Imitation Game,2014-11-14,25 Dec 2014,14000000.0,233555708.0,0.0,History,PG-13,114.0,73.0,8.0,Won 1 Oscar. Another 46 wins & 155 nominations.,The Weinstein Company
+152,The Theory of Everything,2014-11-26,26 Nov 2014,15000000.0,123726688.0,35887263.0,Drama,PG-13,123.0,72.0,7.7,Won 1 Oscar. Another 24 wins & 121 nominations.,Focus Features
+153,The Judge,2014-10-08,10 Oct 2014,50000000.0,83719388.0,35631470.0,Drama,R,141.0,48.0,7.4,Nominated for 1 Oscar. Another 3 wins & 8 nominations.,Warner Bros. Pictures
+154,Boyhood,2014-06-05,15 Aug 2014,4000000.0,44349000.0,18859617.0,Drama,R,165.0,100.0,7.9,Won 1 Oscar. Another 171 wins & 209 nominations.,IFC Films
+155,Whiplash,2014-10-10,15 Oct 2014,3300000.0,13092000.0,0.0,Drama,R,106.0,88.0,8.5,Won 3 Oscars. Another 89 wins & 136 nominations.,Sony Pictures Classics
+156,Still Alice,2014-12-05,20 Feb 2015,5000000.0,43884652.0,0.0,Drama,PG-13,101.0,72.0,7.5,Won 1 Oscar. Another 30 wins & 32 nominations.,Sony Pictures Classics
+157,Gone Girl,2014-10-01,03 Oct 2014,61000000.0,369330363.0,0.0,Mystery,R,149.0,79.0,8.1,Nominated for 1 Oscar. Another 65 wins & 177 nominations.,20th Century Fox
+158,Wild,2014-12-05,19 Dec 2014,15000000.0,52501541.0,24673716.0,Drama,R,115.0,76.0,7.1,Nominated for 2 Oscars. Another 11 wins & 65 nominations.,20th Century Fox
+159,Into the Woods,2014-12-25,25 Dec 2014,50000000.0,212902372.0,89789227.0,Fantasy,PG,125.0,69.0,6.0,Nominated for 3 Oscars. Another 11 wins & 71 nominations.,Walt Disney Pictures
+160,21 Years: Richard Linklater,2014-11-07,07 Nov 2014,0.0,0.0,0.0,Documentary,NOT RATED,78.0,51.0,6.6,1 nomination.,Gravitas Ventures
+161,Trumbo,2015-10-27,27 Nov 2015,15000000.0,8235661.0,0.0,Drama,R,124.0,60.0,7.5,Nominated for 1 Oscar. Another 5 wins & 41 nominations.,Bleecker Street Media
+162,The Martian,2015-09-30,02 Oct 2015,108000000.0,630161890.0,202313768.0,Drama,PG-13,144.0,80.0,8.0,Nominated for 7 Oscars. Another 37 wins & 185 nominations.,20th Century Fox
+163,The Revenant,2015-12-25,08 Jan 2016,135000000.0,532950503.0,0.0,Western,R,156.0,76.0,8.0,Won 3 Oscars. Another 86 wins & 181 nominations.,20th Century Fox
+164,Steve Jobs,2015-10-09,23 Oct 2015,30000000.0,34441873.0,12403169.0,Drama,R,122.0,82.0,7.2,Nominated for 2 Oscars. Another 28 wins & 109 nominations.,Universal Pictures
+165,The Danish Girl,2015-11-27,22 Jan 2016,15000000.0,64191523.0,0.0,Drama,R,119.0,66.0,7.1,Won 1 Oscar. Another 30 wins & 73 nominations.,Focus Features
+166,The Big Short,2015-12-11,23 Dec 2015,28000000.0,133346506.0,0.0,Comedy,R,130.0,81.0,7.8,Won 1 Oscar. Another 37 wins & 79 nominations.,Paramount Pictures
+167,Spotlight,2015-11-06,20 Nov 2015,20000000.0,88346473.0,0.0,Drama,R,129.0,93.0,8.1,Won 2 Oscars. Another 119 wins & 138 nominations.,Open Road Films
+168,Bridge of Spies,2015-10-15,16 Oct 2015,40000000.0,165478348.0,0.0,Thriller,PG-13,142.0,81.0,7.6,Won 1 Oscar. Another 30 wins & 99 nominations.,Dreamworks Pictures
+169,Creed,2015-11-25,25 Nov 2015,37000000.0,173567581.0,81157671.0,Drama,PG-13,133.0,82.0,7.6,Nominated for 1 Oscar. Another 46 wins & 61 nominations.,Warner Bros.
+170,Carol,2015-11-20,15 Jan 2016,0.0,40272135.0,8518148.0,Romance,R,118.0,95.0,7.2,Nominated for 6 Oscars. Another 75 wins & 238 nominations.,The Weinstein Company
+171,Room,2015-10-16,22 Jan 2016,6000000.0,35401758.0,14677654.0,Drama,R,118.0,86.0,8.2,Won 1 Oscar. Another 103 wins & 136 nominations.,Element Pictures
+172,Joy,2015-12-24,25 Dec 2015,60000000.0,101134059.0,42581369.0,Drama,PG-13,124.0,56.0,6.6,Nominated for 1 Oscar. Another 7 wins & 20 nominations.,20th Century Fox
+173,45 Years,2015-08-28,28 Aug 2015,0.0,4250507.0,3489919.0,Drama,R,91.0,94.0,7.1,Nominated for 1 Oscar. Another 20 wins & 52 nominations.,Sundance Selects
+174,Brooklyn,2015-10-20,25 Nov 2015,11000000.0,62076141.0,30459009.0,Drama,PG-13,117.0,87.0,7.5,Nominated for 3 Oscars. Another 37 wins & 152 nominations.,Fox Searchlight Pictures
+175,The Hateful Eight,2015-12-25,30 Dec 2015,44000000.0,155760117.0,54116191.0,Crime,R,187.0,68.0,7.8,Won 1 Oscar. Another 39 wins & 113 nominations.,The Weinstein Company
+176,Puskás Hungary,2009-03-12,12 Mar 2009,0.0,0.0,0.0,Documentary,,116.0,,8.7,4 wins.,
+177,Terrence Howard's Fright Club,2018-05-24,24 May 2018,0.0,0.0,0.0,Comedy,,60.0,,7.8,,
+178,I Am Heath Ledger,2017-04-23,19 Oct 2017,0.0,0.0,0.0,Documentary,NOT RATED,90.0,68.0,7.4,,Fathom Events
+179,I'm Still Here,2010-09-10,16 Sep 2010,0.0,0.0,408719.0,Music,R,108.0,48.0,6.2,1 win & 3 nominations.,Magnolia Pictures
+180,Cold Souls,2009-08-07,05 May 2010,0.0,0.0,700980.0,Comedy,PG-13,101.0,69.0,6.5,4 wins & 9 nominations.,IDP/Samuel goldwyn Films
+181,Jake Gyllenhaal Challenges the Winner of the Nobel Peace Prize,2010-01-01,05 Mar 2010,0.0,0.0,0.0,Comedy,,7.0,,6.1,,
+182,Judi Dench: My Passion for Trees,2017-12-20,20 Dec 2017,0.0,0.0,0.0,Documentary,,0.0,,8.9,,
+183,Harry Potter and the Goblet of Fire,2005-11-16,18 Nov 2005,150000000.0,895921036.0,289994397.0,Adventure,PG-13,157.0,81.0,7.7,Nominated for 1 Oscar. Another 13 wins & 42 nominations.,Warner Bros. Pictures
+184,King Kong,2005-12-12,14 Dec 2005,207000000.0,550517357.0,218100000.0,Adventure,PG-13,187.0,81.0,7.2,Won 3 Oscars. Another 43 wins & 100 nominations.,Universal Pictures
+185,Memoirs of a Geisha,2005-12-06,23 Dec 2005,85000000.0,162242962.0,57000000.0,Drama,PG-13,145.0,54.0,7.4,Won 3 Oscars. Another 27 wins & 44 nominations.,Sony Pictures
+186,Batman Begins,2005-06-10,15 Jun 2005,150000000.0,374218673.0,204100000.0,Action,PG-13,140.0,70.0,8.3,Nominated for 1 Oscar. Another 14 wins & 72 nominations.,Warner Bros. Pictures
+187,The Thinning: New World Order,2018-10-17,17 Oct 2018,0.0,0.0,0.0,Action,,83.0,,3.8,,
+188,Charlie and the Chocolate Factory,2005-07-13,15 Jul 2005,150000000.0,474968763.0,206100000.0,Adventure,PG,115.0,72.0,6.7,Nominated for 1 Oscar. Another 14 wins & 50 nominations.,Warner Bros. Pictures
+189,Munich,2005-12-23,06 Jan 2006,70000000.0,130358911.0,47379090.0,Drama,R,164.0,74.0,7.6,Nominated for 5 Oscars. Another 13 wins & 65 nominations.,Universal Pictures
+190,Darwin's Nightmare,2004-09-01,21 Jan 2005,0.0,0.0,0.0,Documentary,,107.0,84.0,7.6,Nominated for 1 Oscar. Another 16 wins & 4 nominations.,Ad Vitam
+191,Enron: The Smartest Guys in the Room,2005-04-22,20 May 2005,0.0,0.0,3886956.0,Documentary,NOT RATED,110.0,,7.7,Nominated for 1 Oscar. Another 3 wins & 10 nominations.,Magnolia Pictures
+192,Murderball,2005-07-22,05 Aug 2005,300000.0,1750211.0,1328551.0,Documentary,R,88.0,87.0,7.8,Nominated for 1 Oscar. Another 17 wins & 12 nominations.,ThinkFilm
+193,Street Fight,2005-01-01,23 Apr 2005,0.0,0.0,0.0,Documentary,NOT RATED,83.0,85.0,8.1,Nominated for 1 Oscar. Another 6 wins & 4 nominations.,Marshall Curry Productions
+194,The Death of Kevin Carter: Casualty of the Bang Bang Club,2004-09-17,18 Sep 2004,11000.0,0.0,0.0,Documentary,,27.0,,7.4,Nominated for 1 Oscar. Another 7 wins & 2 nominations.,
+195,Joyeux Noël,2005-11-09,01 Jun 1994,22000000.0,17709155.0,0.0,Romance,,17.0,,,2 wins.,
+196,Paradise Now,2005-02-14,18 Nov 2005,0.0,3357075.0,1300000.0,Thriller,PG-13,90.0,71.0,7.5,Nominated for 1 Oscar. Another 13 wins & 15 nominations.,Warner Independent Pictures
+197,Tsotsi,2005-08-18,31 Mar 2006,3000000.0,9879971.0,2753840.0,Crime,R,94.0,70.0,7.3,Won 1 Oscar. Another 16 wins & 13 nominations.,Miramax
+198,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005-12-07,09 Dec 2005,180000000.0,748806957.0,291685219.0,Adventure,PG,143.0,75.0,6.9,Won 1 Oscar. Another 14 wins & 46 nominations.,Buena Vista
+199,Star Wars: Episode III - Revenge of the Sith,2005-05-17,19 May 2005,113000000.0,850000000.0,0.0,Science Fiction,PG-13,140.0,68.0,7.6,Nominated for 1 Oscar. Another 25 wins & 56 nominations.,20th Century Fox
+200,Badgered,2005-02-23,15 Oct 2005,0.0,0.0,0.0,Animation,,7.0,,6.6,Nominated for 1 Oscar. Another 2 wins & 2 nominations.,
+201,The Mysterious Geographic Explorations of Jasper Morello,2005-01-19,01 Jan 2006,0.0,0.0,0.0,Adventure,,26.0,,7.8,Nominated for 1 Oscar. Another 7 wins & 3 nominations.,
+202,9,2009-08-19,09 Sep 2009,30000000.0,48428063.0,31691649.0,Action,PG-13,79.0,60.0,7.1,9 nominations.,Focus Features
+203,One Man Band,2005-06-21,06 Jun 2006,0.0,0.0,0.0,Animation,G,4.0,,7.8,,
+204,Cashback,2006-09-10,09 May 2008,0.0,2294291.0,0.0,Drama,R,102.0,54.0,7.2,3 wins.,Magnolia Pictures
+205,Our Time Is Up,2004-01-01,08 Oct 2004,0.0,0.0,0.0,Comedy,,14.0,,7.5,Nominated for 1 Oscar. Another 4 wins.,
+206,Six Shooter,2004-01-01,01 Feb 2005,200000.0,0.0,0.0,Comedy,NOT RATED,27.0,,7.6,Won 1 Oscar. Another 5 wins & 2 nominations.,
+207,War of the Worlds,2005-06-28,29 Jun 2005,132000000.0,591739379.0,234141872.0,Adventure,PG-13,116.0,73.0,6.5,Nominated for 3 Oscars. Another 14 wins & 44 nominations.,Paramount Pictures
+208,Match Point,2005-10-26,20 Jan 2006,15000000.0,85306374.0,23100000.0,Drama,R,124.0,72.0,7.6,Nominated for 1 Oscar. Another 11 wins & 30 nominations.,Dreamworks
+209,The Squid and the Whale,2005-10-05,16 Dec 2005,1500000.0,11098131.0,7073391.0,Comedy,R,81.0,82.0,7.4,Nominated for 1 Oscar. Another 23 wins & 47 nominations.,Samuel Goldwyn Films
+210,A Prairie Home Companion,2006-06-09,09 Jun 2006,10000000.0,0.0,0.0,Drama,PG-13,105.0,75.0,6.8,5 wins & 21 nominations.,Picturehouse
+211,When Harry Met Sally 2 with Billy Crystal and Helen Mirren,2011-04-06,06 Apr 2011,0.0,0.0,0.0,Comedy,,5.0,,7.4,,
+212,Cars,2006-06-08,09 Jun 2006,120000000.0,461983149.0,244052771.0,Animation,G,117.0,73.0,7.1,Nominated for 2 Oscars. Another 27 wins & 28 nominations.,Buena Vista
+213,Happy Feet,2006-11-16,17 Nov 2006,100000000.0,384335608.0,197800000.0,Animation,PG,108.0,77.0,6.5,Won 1 Oscar. Another 18 wins & 23 nominations.,Warner Bros. Pictures
+214,Monster House,2006-07-21,21 Jul 2006,75000000.0,140175006.0,73661010.0,Animation,PG,91.0,68.0,6.6,Nominated for 1 Oscar. Another 4 wins & 22 nominations.,Sony Pictures Releasing
+215,The Good Shepherd,2006-12-11,22 Dec 2006,85000000.0,59908565.0,59839040.0,Drama,R,167.0,61.0,6.7,Nominated for 1 Oscar. Another 2 wins & 11 nominations.,Universal Pictures
+216,Pirates of the Caribbean: Dead Man's Chest,2006-06-20,07 Jul 2006,200000000.0,1065659812.0,423032628.0,Adventure,PG-13,151.0,53.0,7.3,Won 1 Oscar. Another 42 wins & 53 nominations.,Buena Vista
+217,The Prestige,2006-10-19,20 Oct 2006,40000000.0,109676311.0,53100000.0,Drama,PG-13,130.0,66.0,8.5,Nominated for 2 Oscars. Another 5 wins & 37 nominations.,Buena Vista Pictures
+218,The Black Dahlia,2006-09-15,15 Sep 2006,50000000.0,49111202.0,22518325.0,Drama,R,121.0,49.0,5.6,Nominated for 1 Oscar. Another 4 wins & 12 nominations.,Universal Pictures
+219,Children of Men,2006-09-22,05 Jan 2007,76000000.0,69959751.0,35100000.0,Drama,R,109.0,84.0,7.9,Nominated for 3 Oscars. Another 48 wins & 76 nominations.,Universal Pictures
+220,The Illusionist,2006-08-18,01 Sep 2006,40000000.0,86915017.0,39680302.0,Fantasy,PG-13,110.0,68.0,7.6,Nominated for 1 Oscar. Another 10 wins & 10 nominations.,Yari Film Group
+221,Marie Antoinette,2006-05-24,20 Oct 2006,40000000.0,60474340.0,15962471.0,Drama,PG-13,123.0,65.0,6.4,Won 1 Oscar. Another 18 wins & 23 nominations.,Sony Pictures
+222,Letters from Iwo Jima,2006-12-19,02 Feb 2007,19000000.0,68673228.0,13600000.0,Action,R,141.0,89.0,7.9,Won 1 Oscar. Another 23 wins & 37 nominations.,Warner Bros. Pictures
+223,United 93,2006-04-28,28 Apr 2006,15000000.0,76286096.0,31500000.0,Drama,R,111.0,90.0,7.6,Nominated for 2 Oscars. Another 28 wins & 54 nominations.,Universal Pictures
+224,Deliver Us from Evil,2014-07-01,02 Jul 2014,30000000.0,0.0,18871466.0,Thriller,R,118.0,40.0,6.2,2 wins & 4 nominations.,Sony Pictures
+225,An Inconvenient Truth,2006-01-24,30 Jun 2006,1000000.0,46243000.0,23727472.0,Documentary,PG,96.0,75.0,7.5,Won 2 Oscars. Another 31 wins & 11 nominations.,Paramount Classics
+226,Iraq in Fragments,2006-01-21,19 Jan 2007,0.0,202000.0,0.0,Documentary,,94.0,84.0,7.3,Nominated for 1 Oscar. Another 12 wins & 7 nominations.,Typecast
+227,Jesus Camp,2006-09-15,18 Apr 2007,0.0,1013596.0,900000.0,Documentary,PG-13,87.0,62.0,7.5,Nominated for 1 Oscar. Another 6 wins & 6 nominations.,Magnolia Pictures
+228,The Blood of Yingzhou District,2006-06-13,14 Jun 2006,0.0,0.0,0.0,Documentary,,38.0,,7.5,Won 1 Oscar. Another 8 wins & 3 nominations.,HBO Documentary Films
+229,Recycled Life,2006-01-01,01 Jun 2006,150000.0,0.0,0.0,Documentary,,38.0,,8.1,,Leslie Iwerks Productions
+230,Two Hands,1999-07-29,29 Jul 1999,0.0,0.0,0.0,Comedy,R,103.0,,7.2,15 wins & 12 nominations.,Australian Film Finance Corporation
+231,The Shape of Water,2017-12-01,22 Dec 2017,19500000.0,194989655.0,57393976.0,Drama,R,123.0,87.0,7.4,Won 4 Oscars. Another 101 wins & 293 nominations.,Fox Searchlight Pictures
+232,Apocalypto,2006-12-07,08 Dec 2006,40000000.0,120175290.0,50772724.0,Action,R,139.0,68.0,7.8,Nominated for 3 Oscars. Another 9 wins & 20 nominations.,Buena Vista
+233,Click,2006-06-22,23 Jun 2006,82500000.0,237681299.0,137340146.0,Comedy,PG-13,107.0,45.0,6.4,Nominated for 1 Oscar. Another 3 wins & 11 nominations.,Sony Pictures Releasing
+234,The Good German,2006-12-08,19 Jan 2007,32000000.0,5914908.0,891721.0,Drama,R,105.0,49.0,6.1,Nominated for 1 Oscar. Another 3 wins & 4 nominations.,Warner Bros. Pictures
+235,The Danish Poet,2006-02-15,01 Oct 2006,0.0,0.0,0.0,Animation,,15.0,,7.6,Won 1 Oscar. Another 8 wins & 2 nominations.,
+236,Lifted,2006-12-28,29 Jun 2007,0.0,0.0,0.0,Family,G,5.0,,7.9,,
+237,The Little Matchgirl,2006-09-07,07 Sep 2006,0.0,0.0,0.0,Drama,G,7.0,,7.9,Nominated for 1 Oscar. Another 1 nomination.,
+238,Maestro,2014-07-23,,0.0,0.0,0.0,Drama,,5.0,,7.6,Nominated for 1 Oscar. Another 5 wins & 1 nomination.,
+239,No Time for Nuts,2006-10-23,14 Sep 2006,0.0,0.0,0.0,Adventure,G,7.0,,7.6,Nominated for 1 Oscar. Another 1 win.,Fox
+240,Sultan: The Saviour,2018-06-15,,0.0,0.0,0.0,Thriller,,0.0,,,,
+241,West Bank Story,2005-01-01,20 Jan 2005,0.0,0.0,0.0,Comedy,,21.0,,7.4,Won 1 Oscar. Another 7 wins & 1 nomination.,
+242,Poseidon,2006-05-12,12 May 2006,160000000.0,181674817.0,60600000.0,Adventure,PG-13,98.0,50.0,5.6,Nominated for 1 Oscar. Another 6 nominations.,Warner Bros. Pictures
+243,Superman Returns,2006-06-28,28 Jun 2006,270000000.0,391081192.0,200100000.0,Adventure,PG-13,154.0,72.0,6.1,Nominated for 1 Oscar. Another 12 wins & 40 nominations.,Warner Bros. Pictures
+244,Tilda Swinton: The Love Factory,2002-10-10,10 Oct 2002,0.0,0.0,0.0,Documentary,,35.0,,4.1,,
+245,Persepolis,2007-05-23,22 Feb 2008,7300000.0,0.0,4400000.0,Animation,PG-13,96.0,90.0,8.1,Nominated for 1 Oscar. Another 28 wins & 54 nominations.,Sony Pictures Classics
+246,Ratatouille,2007-06-22,29 Jun 2007,150000000.0,623722818.0,112408657.0,Animation,G,111.0,96.0,8.0,Won 1 Oscar. Another 64 wins & 42 nominations.,Disney/Pixar
+247,Surf's Up,2007-06-08,08 Jun 2007,85000000.0,149044513.0,58867694.0,Animation,PG,85.0,64.0,6.7,Nominated for 1 Oscar. Another 2 wins & 17 nominations.,Sony Pictures
+248,The Golden Compass,2007-12-04,07 Dec 2007,180000000.0,372234864.0,70100000.0,Adventure,PG-13,113.0,51.0,6.1,Won 1 Oscar. Another 6 wins & 32 nominations.,New Line Cinema
+249,Across the Universe,2007-09-14,12 Oct 2007,0.0,0.0,24343673.0,Adventure,PG-13,133.0,56.0,7.4,Nominated for 1 Oscar. Another 2 wins & 16 nominations.,Sony
+250,No End in Sight,2007-07-27,22 Jan 2007,2000000.0,1431623.0,1250100.0,Documentary,NOT RATED,102.0,89.0,8.3,Nominated for 1 Oscar. Another 12 wins & 18 nominations.,Magnolia Pictures
+251,Operation Homecoming: Writing the Wartime Experience,2007-02-09,09 Feb 2007,0.0,0.0,0.0,Documentary,,81.0,,7.2,Nominated for 1 Oscar. Another 3 wins & 5 nominations.,SnagFilms
+252,Sicko,2007-05-18,03 Jul 2007,9000000.0,24538513.0,24333911.0,Documentary,PG-13,123.0,74.0,8.0,Nominated for 1 Oscar. Another 14 wins & 14 nominations.,The Weinstein Company
+253,Taxi to the Dark Side,2007-04-30,23 Jan 2009,1000000.0,274661.0,0.0,Documentary,R,106.0,82.0,7.5,Won 1 Oscar. Another 10 wins & 4 nominations.,ThinkFilm
+254,War Dance,2007-11-09,01 Nov 2008,0.0,0.0,0.0,Documentary,PG-13,105.0,68.0,7.9,Nominated for 1 Oscar. Another 10 wins & 3 nominations.,ThinkFilm
+255,Freeheld,2015-10-02,05 Nov 2015,7000000.0,573335.0,0.0,Romance,PG-13,103.0,50.0,6.5,1 win & 10 nominations.,Summit Entertainment
+256,The Bourne Ultimatum,2007-08-03,03 Aug 2007,70000000.0,442824138.0,227400000.0,Action,PG-13,115.0,85.0,8.0,Won 3 Oscars. Another 26 wins & 39 nominations.,Universal Pictures
+257,The Counterfeiters,1948-05-28,18 Apr 2008,0.0,0.0,0.0,Action,R,98.0,78.0,7.6,Won 1 Oscar. Another 6 wins & 10 nominations.,Sony Pictures Classics
+258,12,2007-06-06,20 Sep 2007,4000000.0,7537453.0,0.0,Crime,PG-13,159.0,72.0,7.7,Nominated for 1 Oscar. Another 9 wins & 7 nominations.,Sony Pictures Classics
+259,Norbit,2007-02-08,09 Feb 2007,10000000.0,0.0,95323496.0,Comedy,PG-13,102.0,27.0,4.0,Nominated for 1 Oscar. Another 8 wins & 8 nominations.,Dreamworks Distribution LLC
+260,Pirates of the Caribbean: At World's End,2007-05-19,25 May 2007,300000000.0,961000000.0,309404152.0,Adventure,PG-13,169.0,50.0,7.1,Nominated for 2 Oscars. Another 20 wins & 44 nominations.,Buena Vista
+261,The Kite Runner,2007-10-14,11 Jan 2008,20000000.0,73276047.0,15690103.0,Drama,PG-13,128.0,61.0,7.6,Nominated for 1 Oscar. Another 6 wins & 22 nominations.,Paramount Vantage
+262,3:10 to Yuma,2007-09-06,07 Sep 2007,55000000.0,70016220.0,53574088.0,Western,R,122.0,76.0,7.7,Nominated for 2 Oscars. Another 3 wins & 30 nominations.,Lionsgate Films
+263,I Met the Walrus,2007-06-13,15 Feb 2008,0.0,0.0,0.0,Documentary,,5.0,,7.0,Nominated for 1 Oscar. Another 3 wins & 1 nomination.,
+264,Madame Tutli-Putli,2007-05-19,15 Feb 2008,0.0,0.0,0.0,Animation,,17.0,,7.3,Nominated for 1 Oscar. Another 12 wins & 5 nominations.,
+265,Peter Pan,1953-02-05,05 Feb 1953,4000000.0,87404651.0,0.0,Animation,G,77.0,76.0,7.3,2 nominations.,Walt Disney
+266,Night at the Museum,2006-10-20,22 Dec 2006,110000000.0,574480841.0,249300000.0,Action,PG,108.0,48.0,6.4,2 wins & 8 nominations.,20th Century Fox
+267,Transformers,2007-06-27,03 Jul 2007,150000000.0,709709780.0,319014499.0,Adventure,PG-13,144.0,61.0,7.1,Nominated for 3 Oscars. Another 20 wins & 41 nominations.,Dreamworks
+268,Lars and the Real Girl,2007-10-12,02 Nov 2007,12000000.0,11293663.0,5802820.0,Comedy,PG-13,106.0,70.0,7.3,Nominated for 1 Oscar. Another 7 wins & 32 nominations.,MGM/Sidney Kimmel Entertainment
+269,Michael Shannon Michael Shannon John,2015-09-26,03 Mar 2016,0.0,0.0,0.0,Documentary,,80.0,,6.4,,
+270,One Day,2011-03-02,19 Aug 2011,15000000.0,59389433.0,13766014.0,Drama,PG-13,107.0,48.0,7.0,1 win & 2 nominations.,Focus Features
+271,Bolt,2008-01-29,21 Nov 2008,150000000.0,309979994.0,114053579.0,Animation,PG,96.0,67.0,6.9,Nominated for 1 Oscar. Another 1 win & 30 nominations.,Walt Disney Pictures
+272,Kung Fu Panda,2008-06-04,06 Jun 2008,130000000.0,631744560.0,215395021.0,Adventure,PG,92.0,73.0,7.6,Nominated for 1 Oscar. Another 14 wins & 37 nominations.,Paramount Pictures
+273,Wall Street,1987-12-10,11 Dec 1987,15000000.0,43848069.0,0.0,Crime,R,126.0,56.0,7.4,Won 1 Oscar. Another 9 wins & 4 nominations.,20th Century Fox
+274,The Duchess,2008-09-05,10 Oct 2008,17759769.0,43306325.0,13800000.0,Drama,PG-13,110.0,62.0,6.9,Won 1 Oscar. Another 7 wins & 21 nominations.,Paramount Vantage
+275,Slumdog Millionaire,2008-05-12,25 Dec 2008,15000000.0,377910544.0,141243551.0,Drama,R,120.0,86.0,8.0,Won 8 Oscars. Another 144 wins & 126 nominations.,Fox Searchlight Pictures
+276,Australia,2008-11-18,26 Nov 2008,130000000.0,49554002.0,49420849.0,Adventure,PG-13,165.0,53.0,6.6,Nominated for 1 Oscar. Another 11 wins & 35 nominations.,20th Century Fox
+277,Encounters at the End of the World,2007-09-01,18 Jul 2008,0.0,0.0,723966.0,Documentary,G,99.0,80.0,7.8,Nominated for 1 Oscar. Another 2 wins & 14 nominations.,ThinkFilm
+278,The Secret Garden,1993-08-13,13 Aug 1993,0.0,0.0,0.0,Drama,G,101.0,,7.3,Nominated for 1 BAFTA Film Award. Another 3 wins & 5 nominations.,WARNER BROTHERS PICTURES
+279,Man on Wire,2008-07-25,29 Aug 2008,0.0,2957978.0,2600296.0,Thriller,PG-13,94.0,89.0,7.8,Won 1 Oscar. Another 45 wins & 11 nominations.,Magnolia Pictures
+280,Trouble the Water,2008-01-20,05 Dec 2008,0.0,0.0,146384.0,Documentary,UNRATED,93.0,83.0,7.4,Nominated for 1 Oscar. Another 7 wins & 13 nominations.,Zeitgeist Films
+281,The Conscience of Nhem En,2008-08-22,22 Aug 2008,0.0,0.0,0.0,Documentary,,34.0,,7.9,,
+282,Smile Pinki,2008-12-31,17 Jun 2008,0.0,0.0,0.0,Documentary,,39.0,,8.1,Won 1 Oscar. Another 4 nominations.,Principe
+283,Front of the Class,2008-01-01,07 Dec 2008,0.0,0.0,0.0,Drama,PG,95.0,,8.2,,
+284,Departures,2018-12-31,19 Jun 2009,0.0,0.0,1500000.0,Drama,PG-13,130.0,68.0,8.1,Won 1 Oscar. Another 33 wins & 8 nominations.,Regent Releasing
+285,Revanche,2008-05-16,16 May 2008,0.0,0.0,0.0,Crime,NOT RATED,121.0,84.0,7.6,Nominated for 1 Oscar. Another 13 wins & 7 nominations.,Janus Films
+286,Hellboy II: The Golden Army,2008-07-11,11 Jul 2008,85000000.0,160388063.0,75754670.0,Adventure,PG-13,120.0,78.0,7.0,Nominated for 1 Oscar. Another 5 wins & 28 nominations.,Universal Pictures
+287,Defiance,2008-12-31,16 Jan 2009,32000000.0,51155219.0,28622873.0,Action,R,137.0,58.0,7.2,Nominated for 1 Oscar. Another 2 wins & 4 nominations.,Paramount Vantage
+288,Oktapodi,2007-01-01,07 Oct 2015,0.0,0.0,0.0,Animation,,3.0,,7.3,Nominated for 1 Oscar. Another 5 wins & 1 nomination.,
+289,Presto,2008-06-18,27 Jun 2008,0.0,0.0,0.0,Animation,G,5.0,,8.4,Nominated for 1 Oscar. Another 1 nomination.,Pixar Animation Studios
+290,This Way Up,2008-04-24,,0.0,0.0,0.0,Comedy,TV-G,9.0,,7.0,Nominated for 1 Oscar. Another 5 wins & 2 nominations.,
+291,The Only Living Boy in New York,2017-07-27,11 Aug 2017,0.0,0.0,622999.0,Drama,R,89.0,33.0,6.3,,Amazon Studios/Roadside Attractions
+292,Babe: Pig in the City,1998-11-25,25 Nov 1998,90000000.0,69131860.0,0.0,Adventure,G,97.0,68.0,5.8,Nominated for 1 Oscar. Another 1 win & 16 nominations.,Universal Studios
+293,Iron Man,2008-04-30,02 May 2008,140000000.0,585174222.0,318298180.0,Action,PG-13,126.0,79.0,7.9,Nominated for 2 Oscars. Another 20 wins & 65 nominations.,Paramount Pictures
+294,Wanted,2008-06-19,27 Jun 2008,75000000.0,258270008.0,134294280.0,Action,R,110.0,64.0,6.7,Nominated for 2 Oscars. Another 4 wins & 20 nominations.,Universal Pictures
+295,Happy-Go-Lucky,2008-04-18,21 Nov 2008,0.0,18130888.0,3494485.0,Drama,R,118.0,84.0,7.0,Nominated for 1 Oscar. Another 39 wins & 59 nominations.,Miramax Films
+296,In Bruges,2008-02-08,29 Feb 2008,15000000.0,34533783.0,7550836.0,Comedy,R,107.0,67.0,7.9,Nominated for 1 Oscar. Another 24 wins & 53 nominations.,Focus Features
+297,The Nutty Professor,1963-06-04,28 Jun 1996,0.0,0.0,0.0,Comedy,PG-13,95.0,62.0,5.6,Won 1 Oscar. Another 9 wins & 12 nominations.,Universal Pictures
+298,Meeting Matt Damon,2015-09-28,28 Sep 2015,0.0,0.0,0.0,Comedy,,9.0,,,,
+299,Premonition,2007-02-08,16 Mar 2007,20000000.0,84146832.0,47852604.0,Thriller,PG-13,96.0,29.0,5.9,2 nominations.,Sony
+300,Coraline,2009-02-05,06 Feb 2009,60000000.0,124596398.0,75169351.0,Animation,PG,100.0,80.0,7.7,Nominated for 1 Oscar. Another 7 wins & 43 nominations.,Focus Features
+301,Fantastic Mr. Fox,2009-10-23,25 Nov 2009,40000000.0,46471023.0,21000000.0,Adventure,PG,87.0,83.0,7.8,Nominated for 2 Oscars. Another 32 wins & 60 nominations.,20th Century Fox
+302,The Princess and the Frog,2009-12-08,11 Dec 2009,105000000.0,270997378.0,104374107.0,Romance,G,97.0,73.0,7.1,Nominated for 3 Oscars. Another 11 wins & 38 nominations.,Walt Disney Pictures
+303,The Secret of Kells,2009-02-09,22 Jun 2016,0.0,0.0,686383.0,Animation,NOT RATED,75.0,81.0,7.7,Nominated for 1 Oscar. Another 7 wins & 5 nominations.,GKIDS
+304,Up,2009-05-28,29 May 2009,175000000.0,735099082.0,292979556.0,Animation,PG,96.0,88.0,8.3,Won 2 Oscars. Another 74 wins & 81 nominations.,Walt Disney Pictures
+305,Avatar,2009-12-10,18 Dec 2009,237000000.0,2787965087.0,749700000.0,Action,PG-13,162.0,83.0,7.8,Won 3 Oscars. Another 85 wins & 128 nominations.,20th Century Fox
+306,The Imaginarium of Doctor Parnassus,2009-10-01,08 Jan 2010,30000000.0,64352607.0,7504196.0,Adventure,PG-13,123.0,65.0,6.8,Nominated for 2 Oscars. Another 5 wins & 21 nominations.,Sony Pictures Classics
+307,Sherlock Holmes,2009-12-23,25 Dec 2009,90000000.0,524028679.0,208711166.0,Action,PG-13,128.0,57.0,7.6,Nominated for 2 Oscars. Another 10 wins & 27 nominations.,Warner Bros. Pictures/Village Roadshow
+308,The Young Victoria,2009-03-04,08 Jan 2010,35000000.0,31878891.0,10900000.0,Drama,PG,105.0,64.0,7.3,Won 1 Oscar. Another 12 wins & 17 nominations.,Apparition
+309,Harry Potter and the Half-Blood Prince,2009-07-07,15 Jul 2009,250000000.0,933959197.0,301920409.0,Adventure,PG,153.0,78.0,7.6,Nominated for 1 Oscar. Another 8 wins & 35 nominations.,Warner Bros. Pictures
+310,Bright Star,2009-11-05,09 Oct 2009,10000000.0,0.0,4341275.0,Drama,PG,119.0,81.0,7.0,Nominated for 1 Oscar. Another 16 wins & 52 nominations.,Apparition Films
+311,The Cove,2009-07-31,07 Aug 2009,0.0,1162422.0,619467.0,Documentary,PG-13,92.0,84.0,8.5,Won 1 Oscar. Another 39 wins & 17 nominations.,Roadside Attractions
+312,"Food, Inc.",2008-09-07,31 Jul 2009,0.0,0.0,4238694.0,Documentary,PG,94.0,80.0,7.8,Nominated for 1 Oscar. Another 7 wins & 19 nominations.,Magnolia Pictures
+313,The Most Dangerous Man in America: Daniel Ellsberg and the Pentagon Papers,2009-10-16,17 Oct 2009,0.0,0.0,453483.0,Documentary,,92.0,75.0,7.8,Nominated for 1 Oscar. Another 5 wins & 2 nominations.,First Run Features
+314,Which Way Home,2009-01-31,31 Jan 2009,0.0,0.0,0.0,Documentary,,90.0,,7.9,Nominated for 1 Oscar. Another 3 wins & 4 nominations.,HBO Films
+315,China's Unnatural Disaster: The Tears of Sichuan Province,2009-05-07,21 Jan 2010,0.0,0.0,0.0,Documentary,,38.0,,7.5,Nominated for 1 Oscar. Another 2 wins & 1 nomination.,HBO
+316,The Last Truck: Closing of a GM Plant,2009-09-07,29 Nov 2012,0.0,0.0,0.0,Documentary,NOT RATED,40.0,,7.0,Nominated for 1 Oscar. Another 1 win & 2 nominations.,HBO
+317,Music by Prudence,2010-04-01,12 May 2010,0.0,0.0,0.0,Documentary,,32.0,,7.5,Won 1 Oscar. Another 1 nomination.,HBO Films
+318,District 9,2009-08-05,14 Aug 2009,30000000.0,210819611.0,115646235.0,Science Fiction,R,112.0,81.0,7.9,Nominated for 4 Oscars. Another 30 wins & 110 nominations.,Sony Pictures/Screen Gems
+319,Ajami,2009-09-17,17 Sep 2009,0.0,0.0,500000.0,Crime,NOT RATED,124.0,82.0,7.4,Nominated for 1 Oscar. Another 15 wins & 9 nominations.,Kino International
+320,Il Divo,2008-05-28,28 May 2008,7275000.0,11260366.0,200000.0,Drama,NOT RATED,110.0,81.0,7.3,Nominated for 1 Oscar. Another 30 wins & 36 nominations.,Music Box Films
+321,Star Trek,2009-05-06,08 May 2009,150000000.0,385680446.0,257704099.0,Science Fiction,PG-13,127.0,82.0,8.0,Won 1 Oscar. Another 23 wins & 92 nominations.,IMAX
+322,A Serious Man,2009-10-02,06 Nov 2009,7000000.0,31430334.0,9190525.0,Comedy,R,106.0,79.0,7.0,Nominated for 2 Oscars. Another 17 wins & 72 nominations.,Focus Features
+323,French Roast,2008-09-30,19 Feb 2010,0.0,0.0,0.0,Animation,TV-PG,8.0,,7.1,Nominated for 1 Oscar. Another 9 wins & 7 nominations.,
+324,Granny O'Grimm's Sleeping Beauty,2008-01-01,31 May 2008,0.0,0.0,0.0,Animation,NOT RATED,6.0,,6.4,Nominated for 1 Oscar. Another 1 win.,
+325,Logorama,2009-01-01,05 Oct 2011,0.0,0.0,0.0,Animation,R,16.0,,7.6,Won 1 Oscar. Another 8 wins & 5 nominations.,
+326,A Matter of Loaf and Death,2008-12-03,01 Jan 2010,0.0,0.0,0.0,Animation,,30.0,,7.6,Nominated for 1 Oscar. Another 2 wins & 4 nominations.,LionsGate Entertainment
+327,The Girl Next Door,2004-04-09,09 Apr 2004,0.0,31635150.0,14544008.0,Comedy,R,109.0,47.0,6.7,2 wins & 4 nominations.,20th Century Fox
+328,Instead of Abracadabra,2008-01-23,12 Mar 2010,0.0,0.0,0.0,Action,,22.0,,7.3,Nominated for 1 Oscar. Another 2 wins & 2 nominations.,
+329,Miracle Fish,2009-01-16,12 Mar 2010,0.0,0.0,0.0,Drama,TV-PG,17.0,,7.2,Nominated for 1 Oscar. Another 12 wins.,Blue-Tongue Films
+330,The New Tenants,2009-01-01,06 Mar 2010,0.0,0.0,0.0,Comedy,TV-14,21.0,,6.7,Won 1 Oscar. Another 3 nominations.,Park Pictures
+331,Transformers: Revenge of the Fallen,2009-06-19,24 Jun 2009,150000000.0,836297228.0,402076689.0,Science Fiction,PG-13,150.0,35.0,6.0,Nominated for 1 Oscar. Another 15 wins & 27 nominations.,Paramount/Dreamworks
+332,In the Loop,2009-01-22,04 Sep 2009,0.0,6149791.0,2251324.0,Comedy,NOT RATED,106.0,83.0,7.5,Nominated for 1 Oscar. Another 16 wins & 41 nominations.,IFC
+333,Roger Corman: Hollywood's Wild Angel,1978-04-06,07 Apr 1978,0.0,0.0,0.0,Documentary,,60.0,,6.7,1 nomination.,
+334,Comedy Central Roast of James Franco,2013-09-02,02 Sep 2013,0.0,0.0,0.0,Comedy,TV-MA,70.0,,7.8,,
+335,Natalie Portman: Starting Young,2005-01-11,11 Jan 2005,0.0,0.0,0.0,Documentary,,14.0,,7.4,,
+336,How to Train Your Dragon,2010-03-05,26 Mar 2010,165000000.0,494878759.0,216900000.0,Fantasy,PG,98.0,74.0,8.1,Nominated for 2 Oscars. Another 25 wins & 60 nominations.,Paramount/DWA
+337,Toy Story 3,2010-06-16,18 Jun 2010,200000000.0,1066969703.0,414984497.0,Animation,G,103.0,92.0,8.3,Won 2 Oscars. Another 58 wins & 91 nominations.,Walt Disney Pictures
+338,Alice in Wonderland,2010-03-03,05 Mar 2010,200000000.0,1025491110.0,319323000.0,Family,PG,108.0,53.0,6.5,Won 2 Oscars. Another 31 wins & 62 nominations.,Walt Disney Pictures
+339,Harry Potter and the Deathly Hallows: Part 1,2010-10-17,19 Nov 2010,250000000.0,954305868.0,294980434.0,Adventure,PG-13,146.0,65.0,7.7,Nominated for 2 Oscars. Another 15 wins & 53 nominations.,Warner Bros. Pictures
+340,Inception,2010-07-15,16 Jul 2010,160000000.0,825532764.0,292568851.0,Action,PG-13,148.0,74.0,8.8,Won 4 Oscars. Another 152 wins & 204 nominations.,Warner Bros. Pictures
+341,The Tempest,2010-12-10,07 Jan 2011,20000000.0,346594.0,277515.0,Drama,PG-13,110.0,43.0,5.4,Nominated for 1 Oscar. Another 2 wins & 3 nominations.,Touchstone Pictures/Miramax Films
+342,Exit Through the Gift Shop,2010-01-24,14 May 2010,0.0,4790751.0,3288699.0,Documentary,R,87.0,85.0,8.0,Nominated for 1 Oscar. Another 24 wins & 28 nominations.,Abarorama
+343,Inside Job,2010-10-08,12 Nov 2010,2000000.0,7871522.0,4311834.0,Documentary,PG-13,109.0,88.0,8.3,Won 1 Oscar. Another 7 wins & 26 nominations.,Sony Pictures Classics
+344,Restrepo,2010-06-25,06 Aug 2010,0.0,1422910.0,1330894.0,Documentary,R,93.0,85.0,7.5,Nominated for 1 Oscar. Another 10 wins & 19 nominations.,National Geographic
+345,Waste Land,2010-01-24,21 Jan 2011,1500000.0,187716.0,100000.0,Documentary,NOT RATED,99.0,78.0,7.9,Nominated for 1 Oscar. Another 27 wins & 10 nominations.,Arthouse Films
+346,Strangers No More,2010-01-01,27 Feb 2011,0.0,0.0,0.0,Documentary,,40.0,,7.5,,Simon & Goodman Picture Company
+347,Hævnen,2010-08-26,17 Jul 1909,15000000.0,13004198.0,0.0,Drama,,0.0,,,,
+348,Incendies,2010-09-04,12 Jan 2011,10000000.0,0.0,6857096.0,Drama,R,131.0,80.0,8.2,Nominated for 1 Oscar. Another 39 wins & 15 nominations.,Sony Pictures Classics
+349,Barney's Version,2010-10-26,18 Feb 2011,30000000.0,8454301.0,7501404.0,Comedy,R,134.0,67.0,7.3,Nominated for 1 Oscar. Another 18 wins & 18 nominations.,Sony Classics
+350,The Way Way Back,2013-06-06,26 Jul 2013,4600000.0,23198652.0,21501098.0,Comedy,PG-13,103.0,68.0,7.4,5 wins & 30 nominations.,Fox Searchlight
+351,The Wolfman,2010-02-11,12 Feb 2010,150000000.0,0.0,61937495.0,Drama,R,103.0,43.0,5.8,Won 1 Oscar. Another 3 wins & 8 nominations.,Universal Pictures
+352,Groundhog Day,1993-02-11,12 Feb 1993,14600000.0,70906973.0,0.0,Romance,PG,101.0,72.0,8.0,Won 1 BAFTA Film Award. Another 6 wins & 17 nominations.,Columbia Pictures
+353,The Gruffalo,2009-12-25,09 Dec 2010,0.0,0.0,0.0,Animation,NOT RATED,27.0,,7.5,Nominated for 1 Oscar. Another 7 wins & 3 nominations.,Phase 4 Films
+354,The Lost Thing,2010-06-03,11 Feb 2011,0.0,0.0,0.0,Animation,NOT RATED,15.0,,7.4,Won 1 Oscar. Another 8 wins & 2 nominations.,
+355,The Crush,1993-04-02,02 Apr 1993,6000000.0,13609396.0,0.0,Drama,R,89.0,,5.8,2 wins & 3 nominations.,Warner Home Video
+356,Na Wewe,2010-04-25,11 Feb 2011,0.0,0.0,0.0,Comedy,,19.0,,6.9,Nominated for 1 Oscar. Another 1 win.,Radio Télévision Belge Francophone
+357,Wish 143,2009-11-19,11 Feb 2011,0.0,0.0,0.0,Drama,,24.0,,7.3,Nominated for 1 Oscar. Another 3 wins.,
+358,TRON: Legacy,2010-12-10,17 Dec 2010,170000000.0,400062763.0,172051787.0,Adventure,PG,125.0,49.0,6.8,Nominated for 1 Oscar. Another 10 wins & 49 nominations.,Walt Disney Pictures
+359,Unstoppable,2010-11-04,12 Nov 2010,100000000.0,167805466.0,81557479.0,Action,PG-13,98.0,69.0,6.8,Nominated for 1 Oscar. Another 1 win & 13 nominations.,20th Century Fox
+360,Salt,2010-07-21,23 Jul 2010,110000000.0,293329073.0,118311368.0,Action,PG-13,100.0,65.0,6.4,Nominated for 1 Oscar. Another 4 wins & 15 nominations.,Sony Pictures
+361,Hereafter,2010-10-22,22 Oct 2010,50000000.0,105197635.0,32741596.0,Drama,PG-13,129.0,56.0,6.5,Nominated for 1 Oscar. Another 4 wins & 13 nominations.,Warner Bros. Pictures
+362,Iron Man 2,2010-04-28,07 May 2010,200000000.0,623933331.0,312057433.0,Adventure,PG-13,124.0,57.0,7.0,Nominated for 1 Oscar. Another 7 wins & 42 nominations.,Paramount Studios
+363,Another Year,2010-11-05,04 Feb 2011,8000000.0,18124262.0,3200000.0,Comedy,PG-13,129.0,80.0,7.3,Nominated for 1 Oscar. Another 22 wins & 53 nominations.,Sony Classics
+364,Jean-Luc Cinema Godard,2009-09-30,01 Oct 2009,0.0,0.0,0.0,Documentary,,24.0,,6.8,,
+365,Hearts of Darkness: A Filmmaker's Apocalypse,1991-09-06,06 Dec 1991,0.0,0.0,0.0,Documentary,R,96.0,,8.2,Won 2 Primetime Emmys. Another 6 wins & 5 nominations.,Showtime Network
+366,Nick Nolte: No Exit,2008-01-01,06 Jul 2008,0.0,0.0,0.0,Documentary,,74.0,,6.7,,
+367,Max Von Sydow: Dialogues with The Renter,2012-03-27,27 Mar 2012,0.0,0.0,0.0,Documentary,,44.0,,6.9,,
+368,Une vie de chat,2010-12-13,09 Sep 2004,0.0,309973.0,0.0,Animation,,180.0,,,,
+369,Kung Fu Panda 2,2011-05-25,26 May 2011,150000000.0,665692281.0,165230261.0,Animation,PG,90.0,67.0,7.2,Nominated for 1 Oscar. Another 5 wins & 46 nominations.,Paramount Studios/Dreamworks
+370,Puss in Boots,2011-10-28,28 Oct 2011,130000000.0,554987477.0,149234747.0,Action,PG,90.0,65.0,6.6,Nominated for 1 Oscar. Another 9 wins & 42 nominations.,Paramount/Dreamworks
+371,Harry Potter and the Deathly Hallows: Part 2,2011-07-07,15 Jul 2011,125000000.0,1342000000.0,381000185.0,Family,PG-13,130.0,87.0,8.1,Nominated for 3 Oscars. Another 45 wins & 91 nominations.,Warner Bros. Pictures
+372,Hugo,2011-11-22,23 Nov 2011,170000000.0,185770160.0,73820094.0,Adventure,PG,126.0,83.0,7.5,Won 5 Oscars. Another 57 wins & 186 nominations.,Paramount Studios
+373,Midnight in Paris,2011-05-11,10 Jun 2011,30000000.0,151119219.0,55400000.0,Fantasy,PG-13,94.0,81.0,7.7,Won 1 Oscar. Another 24 wins & 101 nominations.,Sony Pictures Classics
+374,War Horse,2011-12-25,25 Dec 2011,66000000.0,177584879.0,79883359.0,Drama,PG-13,146.0,72.0,7.2,Nominated for 6 Oscars. Another 15 wins & 70 nominations.,Walt Disney Pictures
+375,The Tree of Life,2011-05-18,17 May 2011,32000000.0,54674226.0,13303319.0,Drama,PG-13,139.0,85.0,6.8,Nominated for 3 Oscars. Another 111 wins & 117 nominations.,Fox Searchlight
+376,Anonymous,2011-10-21,28 Oct 2011,30000000.0,15395087.0,4463292.0,Drama,PG-13,130.0,50.0,6.9,Nominated for 1 Oscar. Another 7 wins & 8 nominations.,Sony Pictures
+377,Jane Eyre,2011-03-11,22 Apr 2011,0.0,34710627.0,0.0,Drama,PG-13,120.0,76.0,7.4,Nominated for 1 Oscar. Another 10 wins & 14 nominations.,Focus Features
+378,W.E.,2011-09-01,20 Jan 2012,15000000.0,868439.0,582075.0,Drama,R,119.0,37.0,6.3,Nominated for 1 Oscar. Another 4 wins & 4 nominations.,The Weinstein Company
+379,Hell and Back Again,2011-10-04,05 Oct 2011,0.0,0.0,37539.0,Documentary,NOT RATED,88.0,81.0,6.5,Nominated for 1 Oscar. Another 4 wins & 8 nominations.,Docurama Films
+380,If a Tree Falls: A Story of the Earth Liberation Front,2011-06-22,01 Jan 2011,0.0,0.0,61153.0,Documentary,UNRATED,85.0,65.0,7.2,Nominated for 1 Oscar. Another 6 wins & 3 nominations.,Oscilloscope
+381,Paradise Lost 3: Purgatory,2011-10-10,13 Oct 2012,0.0,0.0,0.0,Documentary,NOT RATED,121.0,85.0,8.1,Nominated for 1 Oscar. Another 5 wins & 5 nominations.,@radical.media
+382,Pina,2011-02-24,24 Feb 2011,4317946.0,14624826.0,3520458.0,Documentary,PG,103.0,83.0,7.7,Nominated for 1 Oscar. Another 10 wins & 24 nominations.,IFC Films
+383,Undefeated,2011-03-13,03 Aug 2012,0.0,0.0,561054.0,Documentary,PG-13,113.0,71.0,7.8,Won 1 Oscar. Another 3 wins & 8 nominations.,The Weinstein Company
+384,The Barber of Birmingham: Foot Soldier of the Civil Rights Movement,2011-01-01,,0.0,0.0,0.0,Documentary,,25.0,,7.2,Nominated for 1 Oscar. Another 2 wins & 1 nomination.,
+385,Incident in New Baghdad,2011-04-24,24 Apr 2011,0.0,0.0,0.0,Documentary,,22.0,,6.6,Nominated for 1 Oscar. Another 4 wins.,Morninglight Films
+386,Saving Face,2004-09-12,24 Jun 2005,0.0,0.0,1000385.0,Comedy,R,91.0,65.0,7.5,3 wins & 3 nominations.,Sony Pictures Classics
+387,The Tsunami and the Cherry Blossom,2011-09-12,20 Jan 2012,0.0,0.0,0.0,Documentary,,39.0,,7.8,Nominated for 1 Oscar. Another 2 wins & 3 nominations.,
+388,In Darkness,2018-05-25,05 Jan 2012,0.0,0.0,1038733.0,Thriller,R,145.0,74.0,7.3,Nominated for 1 Oscar. Another 10 wins & 17 nominations.,Sony Pictures
+389,Monsieur Lazhar,2011-09-10,07 Mar 2012,0.0,6581915.0,2009041.0,Drama,PG-13,94.0,82.0,7.5,Nominated for 1 Oscar. Another 30 wins & 12 nominations.,Music Box Films
+390,The Adventures of Tintin,2011-10-25,21 Dec 2011,130000000.0,371940071.0,75300000.0,Adventure,PG,107.0,68.0,7.3,Nominated for 1 Oscar. Another 21 wins & 60 nominations.,Paramount
+391,Any Given Sunday,1999-12-16,22 Dec 1999,55000000.0,100230832.0,0.0,Drama,R,162.0,52.0,6.9,3 wins & 9 nominations.,Warner Bros. Pictures
+392,La Luna,1979-08-29,22 Jun 2012,0.0,0.0,0.0,Drama,G,7.0,,8.0,Nominated for 1 Oscar. Another 1 nomination.,Disney Pixar
+393,Pentecost,2011-02-10,04 Mar 2011,0.0,0.0,0.0,Comedy,,11.0,,6.7,Nominated for 1 Oscar. Another 1 nomination.,EMU Productions
+394,Raju Gadu,2018-06-01,01 Jun 2018,0.0,0.0,0.0,Comedy,,0.0,,,,
+395,Love at the Shore,2017-08-05,29 Jul 2017,0.0,0.0,0.0,Romance,TV-G,84.0,,6.5,,Crown Media Productions
+396,Time Freak,2018-11-09,09 Nov 2018,0.0,0.0,0.0,Science Fiction,,104.0,,5.8,,Lionsgate
+397,Tuba Atlantic,2010-02-10,01 Jun 2010,0.0,0.0,0.0,Comedy,,25.0,,7.5,Nominated for 1 Oscar. Another 5 wins.,The Norwegian Film School
+398,Drive,2011-08-06,16 Sep 2011,15000000.0,78054825.0,34300000.0,Drama,R,100.0,78.0,7.8,Nominated for 1 Oscar. Another 77 wins & 170 nominations.,FilmDistrict
+399,Transformers: Dark of the Moon,2011-06-28,29 Jun 2011,195000000.0,1123746996.0,352358779.0,Action,PG-13,154.0,42.0,6.3,Nominated for 3 Oscars. Another 10 wins & 39 nominations.,Paramount Studios
+400,Real Steel,2011-09-28,07 Oct 2011,110000000.0,299268508.0,85463309.0,Action,PG-13,127.0,56.0,7.1,Nominated for 1 Oscar. Another 2 wins & 5 nominations.,Walt Disney Pictures
+401,Rise of the Planet of the Apes,2011-08-03,05 Aug 2011,93000000.0,482860185.0,175300000.0,Thriller,PG-13,105.0,68.0,7.6,Nominated for 1 Oscar. Another 21 wins & 42 nominations.,20th Century Fox
+402,The Ides of March,2011-09-24,07 Oct 2011,12500000.0,75993061.0,40962534.0,Drama,R,101.0,67.0,7.1,Nominated for 1 Oscar. Another 9 wins & 33 nominations.,Sony Pictures
+403,Margin Call,2011-09-28,29 Sep 2011,3500000.0,19504039.0,600000.0,Thriller,R,107.0,76.0,7.1,Nominated for 1 Oscar. Another 8 wins & 23 nominations.,Roadside Attractions
+404,Mitch Albom's For One More Day,2007-12-09,09 Dec 2007,0.0,0.0,0.0,Drama,,120.0,,5.8,Nominated for 1 Primetime Emmy. Another 1 win & 9 nominations.,Harpo Films
+405,Alles wegen Robert De Niro,1996-12-04,04 Dec 1996,0.0,0.0,0.0,Comedy,,90.0,,8.3,,
+406,Brave,2012-06-21,22 Jun 2012,185000000.0,538983207.0,237282182.0,Animation,PG,93.0,69.0,7.1,Won 1 Oscar. Another 18 wins & 48 nominations.,Walt Disney Pictures
+407,Frankenweenie,2012-10-04,05 Oct 2012,39000000.0,35287788.0,35287788.0,Animation,PG,87.0,74.0,7.0,Nominated for 1 Oscar. Another 11 wins & 49 nominations.,Walt Disney Pictures
+408,ParaNorman,2012-08-03,17 Aug 2012,60000000.0,107139399.0,55994557.0,Family,PG,92.0,72.0,7.0,Nominated for 1 Oscar. Another 19 wins & 45 nominations.,Focus Features
+409,Wreck-It Ralph,2012-11-01,02 Nov 2012,165000000.0,471222889.0,189412677.0,Family,PG,101.0,72.0,7.7,Nominated for 1 Oscar. Another 33 wins & 41 nominations.,Walt Disney Pictures
+410,Anna Karenina,2012-09-06,07 Sep 2012,0.0,68929150.0,12802907.0,Drama,R,129.0,63.0,6.6,Won 1 Oscar. Another 31 wins & 51 nominations.,Focus Features
+411,Life of Pi,2012-11-20,21 Nov 2012,120000000.0,609016565.0,103500000.0,Adventure,PG,127.0,79.0,7.9,Won 4 Oscars. Another 78 wins & 129 nominations.,20th Century Fox
+412,Skyfall,2012-10-25,09 Nov 2012,200000000.0,1108561013.0,299300000.0,Action,PG-13,143.0,81.0,7.8,Won 2 Oscars. Another 65 wins & 119 nominations.,MGM
+413,Mirror Mirror,2012-03-15,30 Mar 2012,85000000.0,183018522.0,64933670.0,Adventure,PG,106.0,46.0,5.6,Nominated for 1 Oscar. Another 2 wins & 8 nominations.,Relativity Media
+414,Snow White and the Huntsman,2012-05-30,01 Jun 2012,170000000.0,396600000.0,155081785.0,Adventure,PG-13,127.0,57.0,6.1,Nominated for 2 Oscars. Another 13 wins & 31 nominations.,Universal Pictures
+415,Five Broken Cameras,2011-11-23,,0.0,0.0,108541.0,War,NOT RATED,94.0,78.0,8.0,Nominated for 1 Oscar. Another 18 wins & 6 nominations.,Kino Lorber Films
+416,The Gatekeepers,2012-07-09,14 Mar 2013,0.0,0.0,2408553.0,Documentary,PG-13,101.0,91.0,7.6,Nominated for 1 Oscar. Another 7 wins & 10 nominations.,Sony Pictures Classics
+417,How to Survive a Plague,2012-09-20,08 Nov 2013,0.0,0.0,122665.0,Documentary,NOT RATED,110.0,86.0,7.6,Nominated for 1 Oscar. Another 13 wins & 19 nominations.,Sundance Selects
+418,The Invisible War,2012-01-20,20 Jan 2012,0.0,0.0,66167.0,Crime,NOT RATED,93.0,75.0,7.6,Nominated for 1 Oscar. Another 10 wins & 13 nominations.,Cinedigm
+419,Searching for Sugar Man,2012-06-30,26 Jul 2012,0.0,0.0,3100000.0,Documentary,PG-13,86.0,79.0,8.2,Won 1 Oscar. Another 39 wins & 30 nominations.,Sony Pictures Classics
+420,Born Innocent,1974-09-10,10 Sep 1974,0.0,0.0,0.0,Drama,NOT RATED,98.0,,6.6,1 nomination.,Tomorrow Entertainment
+421,The Shawshank Redemption,1994-09-23,14 Oct 1994,25000000.0,28341469.0,0.0,Drama,R,142.0,80.0,9.3,Nominated for 7 Oscars. Another 19 wins & 32 nominations.,Columbia Pictures
+422,Kon-Tiki,2012-08-24,26 Apr 2013,16600000.0,0.0,1511798.0,Adventure,PG-13,118.0,62.0,7.2,Nominated for 1 Oscar. Another 12 wins & 13 nominations.,The Weinstein Company
+423,Dr. No,1962-10-04,07 Oct 1962,950000.0,59600000.0,0.0,Adventure,PG,110.0,78.0,7.3,Won 1 Golden Globe. Another 1 win & 4 nominations.,United Artists
+424,Rebelle,2012-02-17,,0.0,0.0,0.0,Drama,,0.0,,,,
+425,Hitchcock,2012-11-22,14 Dec 2012,0.0,23570541.0,6002708.0,Drama,PG-13,98.0,55.0,6.8,Nominated for 1 Oscar. Another 4 wins & 28 nominations.,Fox Searchlight Pictures
+426,The Hobbit: An Unexpected Journey,2012-11-26,14 Dec 2012,250000000.0,1021103568.0,303001229.0,Adventure,PG-13,169.0,58.0,7.9,Nominated for 3 Oscars. Another 10 wins & 72 nominations.,Warner Bros.
+427,Adam and Dog,2013-02-01,06 Nov 2012,0.0,0.0,0.0,Animation,TV-PG,16.0,,6.9,Nominated for 1 Oscar. Another 1 win.,
+428,Fresh Guacamole,2012-03-02,02 Mar 2012,0.0,0.0,0.0,Animation,,2.0,,7.4,Nominated for 1 Oscar. Another 1 nomination.,
+429,Head Over Heels,2001-02-02,02 Feb 2001,14000000.0,10424470.0,9892550.0,Comedy,PG-13,86.0,27.0,5.4,,Universal Pictures
+430,Paperman,2012-11-02,02 Nov 2012,0.0,0.0,0.0,Animation,G,7.0,,8.3,Won 1 Oscar. Another 2 wins & 2 nominations.,Walt Disney Pictures
+431,Curfew,2012-01-01,04 Oct 2012,50000.0,0.0,0.0,Drama,PG-13,19.0,,7.9,Won 1 Oscar. Another 20 wins & 3 nominations.,Fuzzy Logic Pictures
+432,Hardcore Henry,2015-09-12,08 Apr 2016,10000000.0,14333790.0,0.0,Action,R,96.0,51.0,6.7,1 win & 1 nomination.,
+433,The Avengers,2012-04-25,04 May 2012,220000000.0,1519557910.0,623279547.0,Science Fiction,PG-13,143.0,69.0,8.1,Nominated for 1 Oscar. Another 38 wins & 79 nominations.,Walt Disney Pictures
+434,Prometheus,2012-05-30,08 Jun 2012,130000000.0,403170142.0,126464904.0,Science Fiction,R,124.0,64.0,7.0,Nominated for 1 Oscar. Another 6 wins & 46 nominations.,20th Century Fox
+435,Moonrise Kingdom,2012-05-24,29 Jun 2012,16000000.0,68263166.0,45507865.0,Comedy,PG-13,94.0,84.0,7.8,Nominated for 1 Oscar. Another 38 wins & 118 nominations.,Focus Features
+436,Jill Drew and D.A. Pennebaker,2016-04-20,20 Apr 2016,0.0,0.0,0.0,Documentary,,26.0,,,,
+437,George Stevens Jr. On 'Woman of the Year',2017-04-18,18 Apr 2017,0.0,0.0,0.0,Documentary,,6.0,,,,
+438,The Croods,2013-03-20,22 Mar 2013,135000000.0,585178928.0,187165546.0,Action,PG,98.0,55.0,7.2,Nominated for 1 Oscar. Another 5 wins & 44 nominations.,20th Century Fox
+439,Despicable Me 2,2013-06-25,03 Jul 2013,76000000.0,970761885.0,368049635.0,Animation,PG,98.0,62.0,7.4,Nominated for 2 Oscars. Another 12 wins & 65 nominations.,Universal Pictures
+440,Frozen,2013-11-27,27 Nov 2013,150000000.0,1274219009.0,400736600.0,Animation,PG,102.0,74.0,7.5,Won 2 Oscars. Another 77 wins & 57 nominations.,Walt Disney Pictures
+441,Inside Llewyn Davis,2013-10-06,10 Jan 2014,11000000.0,32935319.0,9666762.0,Drama,R,104.0,93.0,7.5,Nominated for 2 Oscars. Another 47 wins & 169 nominations.,CBS Films
+442,Prisoners,2013-09-18,20 Sep 2013,46000000.0,122126687.0,60962878.0,Drama,R,153.0,74.0,8.1,Nominated for 1 Oscar. Another 10 wins & 35 nominations.,Warner Bros.
+443,The Great Gatsby,2013-05-10,10 May 2013,105000000.0,351040419.0,144812796.0,Drama,PG-13,143.0,55.0,7.3,Won 2 Oscars. Another 47 wins & 83 nominations.,Warner Bros. Pictures
+444,The Invisible Woman,2013-12-25,21 Feb 2014,0.0,1234254.0,1200000.0,Drama,R,111.0,75.0,6.2,Nominated for 1 Oscar. Another 1 win & 7 nominations.,Sony Pictures Classics
+445,Cutie and the Boxer,2013-08-16,01 Nov 2013,0.0,0.0,199274.0,Documentary,R,82.0,83.0,7.2,Nominated for 1 Oscar. Another 8 wins & 13 nominations.,Radius
+446,Dirty Wars,2013-01-18,18 Oct 2013,0.0,0.0,365604.0,Documentary,NOT RATED,87.0,76.0,7.5,Nominated for 1 Oscar. Another 10 wins & 6 nominations.,IFC Films
+447,The Square,2017-08-25,25 Aug 2017,0.0,1502347.0,1284672.0,Drama,R,151.0,73.0,7.3,Nominated for 1 Oscar. Another 27 wins & 36 nominations.,Magnolia Pictures
+448,20 Feet from Stardom,2013-06-14,26 Jul 2013,1000000.0,5892466.0,0.0,Documentary,PG-13,91.0,83.0,7.4,Won 1 Oscar. Another 20 wins & 26 nominations.,Radius-TWC
+449,Cavedigger,2013-01-12,12 Jan 2013,0.0,0.0,0.0,Documentary,TV-G,39.0,,7.2,Nominated for 1 Oscar. Another 1 nomination.,KAROFFilms
+450,Karama Has No Walls,2012-03-01,01 Mar 2012,0.0,0.0,0.0,Documentary,,26.0,,7.7,Nominated for 1 Oscar. Another 1 win.,
+451,The Broken Circle Breakdown,2012-10-09,10 Oct 2012,0.0,5475058.0,0.0,Drama,NOT RATED,111.0,70.0,7.8,Nominated for 1 Oscar. Another 33 wins & 24 nominations.,Tribeca Film
+452,The Great American Beauty Contest,1973-02-13,13 Feb 1973,0.0,0.0,0.0,TV Movie,UNRATED,74.0,,6.2,,
+453,Hunt for the Wilderpeople,2016-03-31,31 Mar 2016,2500000.0,23200000.0,5202582.0,Adventure,PG-13,101.0,81.0,7.9,20 wins & 25 nominations.,Piki Films
+454,The Lone Ranger,2013-07-03,03 Jul 2013,255000000.0,89289910.0,89289910.0,Action,PG-13,150.0,37.0,6.4,Nominated for 2 Oscars. Another 4 wins & 17 nominations.,Walt Disney Pictures
+455,The Book Thief,2013-11-08,27 Nov 2013,0.0,76586316.0,0.0,Drama,PG-13,131.0,53.0,7.6,Nominated for 1 Oscar. Another 8 wins & 14 nominations.,20th Century Fox
+456,Her,2013-12-18,10 Jan 2014,23000000.0,47351251.0,17901029.0,Romance,R,126.0,90.0,8.0,Won 1 Oscar. Another 82 wins & 181 nominations.,Warner Bros. Pictures
+457,Saving Mr. Banks,2013-11-16,20 Dec 2013,35000000.0,112544580.0,53260198.0,Comedy,PG-13,125.0,65.0,7.5,Nominated for 1 Oscar. Another 13 wins & 72 nominations.,Walt Disney Pictures
+458,Feral,2018-05-25,25 May 2018,0.0,0.0,0.0,Thriller,,90.0,41.0,4.1,,
+459,Get a Horse!,2013-11-27,27 Nov 2013,0.0,0.0,0.0,Animation,G,6.0,,7.6,Nominated for 1 Oscar. Another 2 wins & 1 nomination.,Walt Disney Pictures
+460,Mr Hublot,2013-10-14,26 Feb 2014,295000.0,0.0,0.0,Animation,,11.0,,7.2,Won 1 Oscar. Another 4 wins & 2 nominations.,
+461,Ava's Possessions,2015-03-16,04 Mar 2016,0.0,0.0,0.0,Mystery,R,89.0,53.0,5.6,1 nomination.,Off Hollywood Pictures
+462,Room on the Broom,2012-12-25,30 Oct 2013,0.0,0.0,0.0,Family,NOT RATED,25.0,,7.5,Nominated for 1 Oscar. Another 2 wins & 3 nominations.,Magic Light Pictures
+463,Helium,2013-10-01,31 Jan 2014,0.0,0.0,0.0,Drama,NOT RATED,23.0,,7.3,Won 1 Oscar. Another 5 wins & 2 nominations.,
+464,The Voorman Problem,2013-04-25,25 Apr 2013,0.0,0.0,0.0,Comedy,TV-PG,13.0,,7.3,Nominated for 1 Oscar. Another 2 wins & 4 nominations.,Honlodge Productions
+465,All Is Lost,2013-10-18,07 Nov 2013,9000000.0,6108720.0,4300353.0,Action,PG-13,106.0,87.0,6.9,Nominated for 1 Oscar. Another 3 wins & 48 nominations.,Lionsgate/Roadside Attractions
+466,The Hobbit: The Desolation of Smaug,2013-12-11,13 Dec 2013,250000000.0,958400000.0,180443783.0,Adventure,PG-13,161.0,66.0,7.8,Nominated for 3 Oscars. Another 16 wins & 86 nominations.,Warner Bros.
+467,Lone Survivor,2013-12-24,10 Jan 2014,40000000.0,149295601.0,97665254.0,Action,R,121.0,60.0,7.5,Nominated for 2 Oscars. Another 5 wins & 14 nominations.,Universal Studios
+468,Iron Man 3,2013-04-18,03 May 2013,200000000.0,1215439994.0,408992272.0,Action,PG-13,130.0,62.0,7.2,Nominated for 1 Oscar. Another 17 wins & 61 nominations.,Walt Disney Pictures
+469,Before Midnight,2013-04-05,14 Jun 2013,3000000.0,11176469.0,8114507.0,Romance,R,109.0,94.0,7.9,Nominated for 1 Oscar. Another 21 wins & 59 nominations.,Drafthouse Recommends
+470,They All Laughed 25 Years Later: Director to Director - A Conversation with Peter Bogdanovich and Wes Anderson,2006-10-17,17 Oct 2006,0.0,0.0,0.0,Documentary,,27.0,,,,
+471,Big Hero 6,2014-10-24,07 Nov 2014,165000000.0,657818612.0,0.0,Adventure,PG,102.0,74.0,7.8,Won 1 Oscar. Another 16 wins & 57 nominations.,Walt Disney Pictures
+472,The Boxtrolls,2014-09-10,26 Sep 2014,60000000.0,108255770.0,52098992.0,Animation,PG,96.0,61.0,6.8,Nominated for 1 Oscar. Another 8 wins & 59 nominations.,Focus Features
+473,How to Train Your Dragon 2,2014-06-12,13 Jun 2014,145000000.0,609123048.0,147065544.0,Fantasy,PG,102.0,76.0,7.8,Nominated for 1 Oscar. Another 14 wins & 60 nominations.,20th Century Fox
+474,Song of the Sea,2014-09-06,20 Nov 2015,0.0,857522.0,0.0,Family,PG,93.0,85.0,8.1,Nominated for 1 Oscar. Another 11 wins & 23 nominations.,GKIDS
+475,The Grand Budapest Hotel,2014-02-26,28 Mar 2014,30000000.0,174600318.0,56939515.0,Comedy,R,99.0,88.0,8.1,Won 4 Oscars. Another 127 wins & 218 nominations.,Fox Searchlight
+476,Ida,2013-10-25,25 Oct 2013,2159280.0,15298355.0,0.0,Drama,PG-13,82.0,91.0,7.4,Won 1 Oscar. Another 66 wins & 83 nominations.,Music Box Films
+477,Mr. Turner,2014-10-31,31 Oct 2014,0.0,5405500.0,0.0,History,R,150.0,94.0,6.8,Nominated for 4 Oscars. Another 19 wins & 62 nominations.,Sony Pictures Classics
+478,Unbroken,2014-12-25,25 Dec 2014,65000000.0,163442937.0,70500647.0,Drama,PG-13,137.0,59.0,7.2,Nominated for 3 Oscars. Another 14 wins & 29 nominations.,Universal Pictures
+479,Inherent Vice,2014-12-25,09 Jan 2015,20000000.0,11110975.0,6100613.0,Comedy,R,148.0,81.0,6.7,Nominated for 2 Oscars. Another 16 wins & 93 nominations.,Warner Bros. Pictures
+480,Maleficent,2014-05-28,30 May 2014,180000000.0,758539785.0,190871149.0,Fantasy,PG,97.0,56.0,7.0,Nominated for 1 Oscar. Another 10 wins & 42 nominations.,Walt Disney Pictures
+481,Citizenfour,2014-10-24,28 Nov 2014,0.0,3003169.0,0.0,Documentary,R,114.0,88.0,8.1,Won 1 Oscar. Another 43 wins & 35 nominations.,Radius-TWC
+482,Finding Vivian Maier,2014-03-28,17 Apr 2014,0.0,1503616.0,0.0,Documentary,NOT RATED,83.0,75.0,7.7,Nominated for 1 Oscar. Another 11 wins & 21 nominations.,IFC Films
+483,Last Days in Vietnam,2014-09-05,17 Jan 2014,0.0,161.0,408651.0,War,NOT RATED,98.0,86.0,7.6,Nominated for 1 Oscar. Another 4 wins & 10 nominations.,American Experience/PBS Films
+484,Salt of the Earth,1954-03-14,14 Mar 1954,0.0,0.0,0.0,History,NOT RATED,94.0,,7.5,3 wins.,The Film Detective
+485,Virunga,2014-11-07,07 Nov 2014,0.0,0.0,0.0,Documentary,NOT RATED,100.0,95.0,8.2,Nominated for 1 Oscar. Another 18 wins & 24 nominations.,Netflix
+486,Crisis Hotline: Veterans Press 1,2013-11-11,11 Nov 2013,0.0,0.0,0.0,Documentary,TV-14,40.0,,7.5,Won 1 Oscar. Another 1 nomination.,HBO Documentary
+487,Joanna,2013-06-28,26 Nov 2010,0.0,0.0,0.0,Documentary,,110.0,,6.9,6 wins & 6 nominations.,
+488,White Earth,2013-03-17,18 Jan 2014,0.0,0.0,0.0,Documentary,,20.0,,6.2,Nominated for 1 Oscar. Another 1 win & 1 nomination.,
+489,Leviathan,1989-03-17,05 Feb 2015,25000000.0,15704614.0,754393.0,Adventure,R,140.0,92.0,7.6,Nominated for 1 Oscar. Another 33 wins & 44 nominations.,Sony Pictures Classics
+490,Timbuktu,2014-12-10,10 Dec 2014,0.0,1076075.0,696436.0,Drama,PG-13,97.0,92.0,7.2,Nominated for 1 Oscar. Another 28 wins & 19 nominations.,Cohen Media Group
+491,Guardians of the Galaxy,2014-07-30,01 Aug 2014,170000000.0,773328629.0,270592504.0,Action,PG-13,121.0,76.0,8.1,Nominated for 2 Oscars. Another 52 wins & 99 nominations.,Walt Disney Pictures
+492,Interstellar,2014-11-05,07 Nov 2014,165000000.0,675120017.0,158737441.0,Adventure,PG-13,169.0,74.0,8.6,Won 1 Oscar. Another 43 wins & 143 nominations.,Paramount Pictures
+493,Selma,2014-12-25,09 Jan 2015,20000000.0,66787908.0,0.0,History,PG-13,128.0,89.0,7.5,Won 1 Oscar. Another 58 wins & 88 nominations.,Paramount Pictures
+494,The Bigger Picture,2014-05-21,11 Oct 2014,0.0,0.0,0.0,Drama,,8.0,,6.7,Nominated for 1 Oscar. Another 6 wins & 5 nominations.,
+495,The Dam Keeper,2014-02-06,11 Oct 2014,0.0,0.0,0.0,Animation,TV-G,18.0,,8.0,Nominated for 1 Oscar. Another 6 wins & 2 nominations.,
+496,Feast,2014-11-07,18 Jan 2007,0.0,0.0,0.0,Animation,R,95.0,43.0,6.3,1 win.,The Weinstein Company
+497,A Single Life,2014-12-04,01 Sep 2014,0.0,0.0,0.0,Animation,TV-PG,3.0,,7.4,Nominated for 1 Oscar. Another 1 win & 1 nomination.,NB Thrilling Films
+498,Boogaloo and Graham,2014-08-01,01 Aug 2014,0.0,0.0,0.0,Drama,TV-PG,14.0,,7.3,Nominated for 1 Oscar. Another 2 wins & 5 nominations.,Out of Orbit Films
+499,Parvaneh,2012-11-01,01 Nov 2012,0.0,0.0,0.0,Drama,TV-G,25.0,,6.8,Nominated for 1 Oscar. Another 1 nomination.,Zurich University of Arts
+500,The Phone Call,2013-10-20,20 Feb 2015,0.0,0.0,0.0,Drama,TV-14,22.0,,7.2,Won 1 Oscar. Another 7 wins & 3 nominations.,
+501,The Hobbit: The Battle of the Five Armies,2014-12-10,17 Dec 2014,250000000.0,956019788.0,187747747.0,Action,PG-13,144.0,59.0,7.4,Nominated for 1 Oscar. Another 7 wins & 51 nominations.,Warner Bros.
+502,Captain America: The Winter Soldier,2014-03-20,04 Apr 2014,170000000.0,714766572.0,228636083.0,Action,PG-13,136.0,70.0,7.8,Nominated for 1 Oscar. Another 5 wins & 50 nominations.,Walt Disney Pictures
+503,Dawn of the Planet of the Apes,2014-06-26,11 Jul 2014,170000000.0,710644566.0,183278877.0,Science Fiction,PG-13,130.0,79.0,7.6,Nominated for 1 Oscar. Another 16 wins & 47 nominations.,20th Century Fox
+504,X-Men: Days of Future Past,2014-05-15,23 May 2014,250000000.0,747862775.0,199305306.0,Action,PG-13,132.0,75.0,8.0,Nominated for 1 Oscar. Another 15 wins & 47 nominations.,20th Century Fox
+505,Nightcrawler,2014-10-23,31 Oct 2014,8500000.0,50300000.0,0.0,Crime,R,117.0,76.0,7.9,Nominated for 1 Oscar. Another 43 wins & 120 nominations.,Open Road Films
+506,Sing Your Song,2012-01-13,14 Apr 2012,0.0,29110.0,47718.0,Documentary,NOT RATED,103.0,73.0,7.5,3 wins & 2 nominations.,S2BN Films
+507,Busy Bodies,1933-10-07,07 Oct 1933,0.0,0.0,0.0,Comedy,APPROVED,19.0,,7.9,,Hal Roach Studios
+508,Driven,2001-04-27,27 Apr 2001,94000000.0,54744738.0,0.0,Action,PG-13,116.0,29.0,4.6,1 win & 10 nominations.,Warner Bros. Pictures
+509,Anomalisa,2015-12-30,11 Mar 2016,8000000.0,5659286.0,0.0,Animation,R,90.0,88.0,7.3,Nominated for 1 Oscar. Another 24 wins & 72 nominations.,Starburns Industries
+510,Inside Out,2015-06-09,19 Jun 2015,175000000.0,857611174.0,264317903.0,Drama,PG,95.0,94.0,8.2,Won 1 Oscar. Another 93 wins & 112 nominations.,Disney/Pixar
+511,Shaun the Sheep Movie,2015-02-05,05 Aug 2015,0.0,59700000.0,0.0,Family,PG,85.0,81.0,7.4,Nominated for 1 Oscar. Another 4 wins & 48 nominations.,Lionsgate
+512,Mad Max: Fury Road,2015-05-13,15 May 2015,150000000.0,378858340.0,129483877.0,Action,R,120.0,90.0,8.1,Won 6 Oscars. Another 232 wins & 219 nominations.,Warner Bros.
+513,Sicario,2015-09-17,02 Oct 2015,30000000.0,84025816.0,0.0,Action,R,121.0,82.0,7.6,Nominated for 3 Oscars. Another 15 wins & 150 nominations.,Lionsgate
+514,Cinderella,2015-03-12,13 Mar 2015,95000000.0,543514353.0,183327144.0,Romance,PG,105.0,67.0,6.9,Nominated for 1 Oscar. Another 8 wins & 35 nominations.,Walt Disney Pictures
+515,Amy,2015-07-03,03 Jul 2015,0.0,8413144.0,7851076.0,Documentary,R,128.0,85.0,7.8,Won 1 Oscar. Another 50 wins & 44 nominations.,A24 Films
+516,Cartel Land,2015-07-03,03 Jul 2015,0.0,0.0,0.0,Drama,R,100.0,76.0,7.4,Nominated for 1 Oscar. Another 18 wins & 35 nominations.,The Orchard
+517,The Look of Silence,2014-08-30,17 Jul 2015,0.0,332710.0,48097.0,History,PG-13,103.0,92.0,8.3,Nominated for 1 Oscar. Another 47 wins & 40 nominations.,Drafthouse Films
+518,"What Happened, Miss Simone?",2015-01-22,24 Jun 2015,0.0,0.0,0.0,Documentary,NOT RATED,101.0,75.0,7.6,Nominated for 1 Oscar. Another 6 wins & 18 nominations.,Netflix
+519,Winter on Fire: Ukraine's Fight for Freedom,2015-10-09,09 Oct 2015,0.0,0.0,0.0,Documentary,NOT RATED,102.0,79.0,8.4,Nominated for 1 Oscar. Another 2 wins & 4 nominations.,
+520,Body Team 12,2015-04-19,19 Apr 2015,0.0,0.0,0.0,Documentary,,13.0,,7.3,Nominated for 1 Oscar. Another 2 wins & 2 nominations.,RYOT Films
+521,"Chau, Beyond the Lines",2015-08-21,21 Aug 2015,0.0,0.0,0.0,Documentary,,34.0,,7.1,Nominated for 1 Oscar. Another 5 wins & 1 nomination.,Cynasty Films
+522,A Girl in the River: The Price of Forgiveness,2015-10-28,28 Oct 2015,0.0,0.0,0.0,Documentary,TV-PG,40.0,,7.9,Won 1 Oscar. Another 1 win.,HBO Documentary Films
+523,Last Day of Freedom,2015-04-11,11 Apr 2015,0.0,0.0,0.0,Animation,,32.0,,7.6,Nominated for 1 Oscar. Another 5 wins.,
+524,Star Wars: The Force Awakens,2015-12-15,18 Dec 2015,245000000.0,2068223624.0,936658640.0,Action,PG-13,136.0,81.0,8.0,Nominated for 5 Oscars. Another 57 wins & 123 nominations.,Walt Disney Pictures
+525,Mustang,2015-06-17,17 Jun 2015,1300000.0,250000.0,560778.0,Drama,PG-13,97.0,83.0,7.6,Nominated for 1 Oscar. Another 42 wins & 58 nominations.,CG Cinéma
+526,A Private War,2018-11-16,16 Nov 2018,0.0,0.0,0.0,Drama,,106.0,76.0,7.0,,Aviron Pictures
+527,The Bath Song & More Kids Songs: Super Simple Songs,2015-04-22,10 Jul 2017,0.0,0.0,0.0,Music,,40.0,,,,
+528,Prologue,2015-06-01,23 Feb 2016,0.0,0.0,0.0,Action,,6.0,,6.3,Nominated for 1 Oscar. Another 1 nomination.,Animation Masterclass
+529,Sanjay's Super Team,2015-11-25,25 Nov 2015,0.0,0.0,0.0,Animation,PG,7.0,,6.9,Nominated for 1 Oscar. Another 2 nominations.,Pixar
+530,World of Tomorrow,2015-03-05,31 Mar 2015,0.0,0.0,0.0,Animation,G,17.0,,8.2,Nominated for 1 Oscar. Another 27 wins & 3 nominations.,
+531,Ave Maria,2015-05-18,21 Jun 2015,0.0,0.0,0.0,Comedy,,15.0,,6.5,Nominated for 1 Oscar. Another 10 wins & 21 nominations.,Incognito Films
+532,Shok,2015-04-10,23 Feb 2016,0.0,0.0,0.0,Drama,,21.0,,8.2,Nominated for 1 Oscar. Another 14 wins & 4 nominations.,
+533,Stutterer,2015-07-08,09 Sep 2015,0.0,0.0,0.0,Drama,,12.0,,7.7,Won 1 Oscar. Another 5 wins & 1 nomination.,Bare Golly Films
+534,Ex Machina,2015-01-21,24 Apr 2015,15000000.0,36869414.0,19012798.0,Drama,R,108.0,78.0,7.7,Won 1 Oscar. Another 70 wins & 153 nominations.,A24 Films
+535,Straight Outta Compton,2015-08-13,14 Aug 2015,28000000.0,201634991.0,129402415.0,Drama,R,147.0,72.0,7.9,Nominated for 1 Oscar. Another 27 wins & 40 nominations.,Universal Pictures
+536,Bright Lights: Starring Carrie Fisher and Debbie Reynolds,2016-05-14,07 Jan 2017,10000000.0,0.0,0.0,Documentary,TV-14,95.0,78.0,8.0,Nominated for 2 Primetime Emmys. Another 1 win & 4 nominations.,HBO Films
+537,He Got Game,1998-05-01,01 May 1998,25000000.0,21567853.0,0.0,Drama,R,136.0,63.0,6.9,10 nominations.,Buena Vista
+538,Mumford,,24 Sep 1999,,,0.0,,R,112.0,62.0,6.9,1 win & 1 nomination.,Buena Vista Pictures
+539,King Richard and the Crusaders,,07 Aug 1954,,,0.0,,APPROVED,114.0,,5.7,,Warner Home Video
+540,...Og det var Danmark,,09 Apr 2008,,,0.0,,,107.0,,7.6,,
+541,La môme aux boutons,,22 Oct 1958,,,0.0,,,98.0,,,,
+542,I'm Not There,,07 Dec 2007,,,4000000.0,,R,135.0,73.0,7.0,Nominated for 1 Oscar. Another 27 wins & 45 nominations.,The Weinstein Co.
+543,A Christmas Eve Conversation with Quentin Tarantino & Paul Thomas Anderson,,24 Dec 2015,,,0.0,,,41.0,,6.8,,
+544,Julie,,17 Oct 1956,,,0.0,,APPROVED,99.0,,6.2,,Warner Home Video
+545,Rosy-Fingered Dawn: a Film on Terrence Malick,,01 Sep 2002,,,0.0,,,90.0,,6.2,,
+546,Wallace,,24 Apr 2014,,,0.0,,,19.0,,9.3,1 win.,
+547,Don't Tell Mom the Babysitter's Dead,,07 Jun 1991,,,0.0,,PG-13,102.0,35.0,6.1,4 nominations.,
+548,The Making of 'Sophie Scholl - Die letzten Tage',,27 Feb 2005,,,0.0,,,45.0,,,,
+549,Siðasti bærinn í dalnum,,11 Mar 1950,,,0.0,,,0.0,,7.0,,
+550,Eddie Murphy: Raw,,18 Dec 1987,,,0.0,,R,93.0,54.0,7.6,,Paramount Pictures
+551,"My Country, No More",,,,,0.0,,,0.0,,,,
+552,Indigènes: Sur les traces d'indigène,,01 Nov 2006,,,0.0,,,52.0,,,,
+553,The Stig-Helmer Story,,25 Dec 2011,,,0.0,,,100.0,,4.4,1 nomination.,
+554,Flags of our Fathers,,20 Oct 2006,,,33600000.0,,R,135.0,79.0,7.1,Nominated for 2 Oscars. Another 15 wins & 24 nominations.,Paramount
+555,Katyn,,21 Sep 2007,,,0.0,,,121.0,81.0,7.1,Nominated for 1 Oscar. Another 14 wins & 12 nominations.,Artificial Eye
+556,The Betrayal - Nerakhoon,,21 Nov 2008,,,0.0,,,96.0,78.0,7.3,Nominated for 1 Oscar. Another 2 wins & 4 nominations.,The Cinema Guild
+557,The Lady and the Reaper (La dama y la muerte),,19 Feb 2010,,,0.0,,TV-G,8.0,,7.2,,
+558,GasLand,,17 Jan 2011,,,30846.0,,NOT RATED,107.0,,7.7,Nominated for 1 Oscar. Another 7 wins & 6 nominations.,Independent Pictures
+559,Bandits en automobile - Épisode 2: Hors-la-loi,,,,,0.0,,,0.0,,6.3,,
+560,"Eros, O Deus do Amor",,,,,0.0,,,107.0,,6.3,5 wins.,
+561,Chico,,17 Jan 2002,,,0.0,,,112.0,,7.1,5 wins & 3 nominations.,
+562,God Is the Bigger Elvis,,01 Apr 2012,,,0.0,,,37.0,,7.1,Nominated for 1 Oscar. Another 1 win & 2 nominations.,HBO Documentary Films
+563,The Fantastic Flying Books of Mr. Morris Lessmore,,24 Sep 2014,,,0.0,,TV-G,15.0,,8.0,Won 1 Oscar. Another 6 wins & 1 nomination.,
+564,Jagal Bhaag Hamar,,01 Jan 1978,,,0.0,,,0.0,,,,
+565,Star Trek: Into Darkness,,16 May 2013,,,228756232.0,,PG-13,132.0,72.0,7.7,Nominated for 1 Oscar. Another 6 wins & 56 nominations.,Paramount
+566,Theeb,,19 Mar 2015,,,128430.0,,NOT RATED,100.0,80.0,7.2,Nominated for 1 Oscar. Another 10 wins & 14 nominations.,Noor Pictures
