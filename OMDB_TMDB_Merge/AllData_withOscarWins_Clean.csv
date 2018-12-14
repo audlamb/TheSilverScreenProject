@@ -1,0 +1,451 @@
+,Movie,Release Date_x,Release Date_y,Budget,Revenue,Box Office,Genres,Rating,Runtime,Metascore,IMDb Rating,Production Company,wins,nominations,Win or Nominated,Oscar Wins
+0,Capote,2005-09-30,03 Feb 2006,7000000.0,49084830.0,28337516.0,Crime,R,114.0,88.0,7.4,Sony Pictures Classics,58.0,86.0,W,1
+1,American Hustle,2013-12-12,20 Dec 2013,40000000.0,251171807.0,99165609.0,Drama,R,138.0,90.0,7.3,Sony Pictures,70.0,208.0,N,1
+2,Brokeback Mountain,2005-09-10,13 Jan 2006,14000000.0,178043761.0,82970165.0,Drama,R,134.0,87.0,7.7,Focus Features,138.0,128.0,W,3
+3,Walk the Line,2005-09-13,18 Nov 2005,28000000.0,186438883.0,119317827.0,Drama,PG-13,136.0,72.0,7.9,20th Century Fox,44.0,46.0,W,1
+4,"Good Night, and Good Luck.",2005-09-16,04 Nov 2005,7000000.0,54600000.0,31500000.0,Drama,PG,93.0,80.0,7.5,Warner Independent Pictures,38.0,121.0,N,6
+5,Syriana,2005-11-23,09 Dec 2005,50000000.0,93974620.0,50800000.0,Drama,R,128.0,76.0,6.9,Warner Bros. Pictures,13.0,28.0,W,1
+6,Crash,2005-05-06,06 May 2005,6500000.0,98410061.0,55382847.0,Drama,R,112.0,69.0,7.8,Lions Gate Films,64.0,111.0,W,3
+7,Cinderella Man,2005-06-02,03 Jun 2005,88000000.0,108539911.0,61600000.0,Romance,PG-13,144.0,69.0,8.0,Universal Pictures,16.0,41.0,N,3
+8,A History of Violence,2005-09-23,30 Sep 2005,32000000.0,60740827.0,31500000.0,Drama,R,96.0,81.0,7.5,New Line Cinema,37.0,78.0,N,2
+9,Mrs Henderson Presents,2005-09-08,17 Feb 2006,0.0,0.0,10965943.0,Comedy,R,103.0,71.0,7.1,Weinstein Company,6.0,31.0,N,2
+10,Transamerica,2005-12-23,03 Mar 2006,1000000.0,13350369.0,8713873.0,Drama,R,103.0,66.0,7.4,Weinstein Company,32.0,23.0,N,2
+11,Pride,2014-09-12,12 Sep 2014,0.0,7523634.0,0.0,Drama,R,119.0,79.0,7.8,CBS Films,9.0,17.0,N,1
+12,North Country,2005-02-12,21 Oct 2005,35000000.0,25224242.0,18324242.0,Drama,R,126.0,68.0,7.3,Warner Bros. Pictures,6.0,17.0,N,2
+13,Junebug,2005-08-03,16 Sep 2005,1000000.0,0.0,2416555.0,Comedy,R,106.0,80.0,7.0,Sony Pictures Classics,21.0,27.0,N,1
+14,The Constant Gardener,2005-08-31,31 Aug 2005,25000000.0,82466670.0,33565375.0,Drama,R,129.0,82.0,7.4,Focus Features,35.0,68.0,W,1
+19,Blood Diamond,2006-12-07,08 Dec 2006,100000000.0,170877916.0,57300000.0,Drama,R,143.0,64.0,8.0,Warner Bros. Pictures,8.0,26.0,N,5
+20,Half Nelson,2006-08-11,22 Sep 2006,700000.0,4911725.0,2591047.0,Drama,R,106.0,85.0,7.2,ThinkFilm,29.0,47.0,N,1
+21,Venus,2006-09-02,16 Feb 2007,0.0,0.0,3261449.0,Comedy,R,95.0,82.0,7.1,Miramax Films,4.0,20.0,N,1
+22,The Pursuit of Happyness,2006-12-14,15 Dec 2006,55000000.0,307077295.0,162586036.0,Drama,PG-13,117.0,64.0,8.0,Sony Pictures,11.0,24.0,N,1
+23,The Last King of Scotland,2006-09-01,19 Jan 2007,6000000.0,48027970.0,17449410.0,Drama,R,123.0,74.0,7.7,Fox Searchlight,47.0,31.0,W,1
+24,Little Miss Sunshine,2006-07-26,18 Aug 2006,8000000.0,100523181.0,59831476.0,Comedy,R,101.0,80.0,7.8,Fox Searchlight,68.0,107.0,W,2
+25,Little Children,2006-10-06,09 Feb 2007,26000000.0,14821658.0,5307219.0,Romance,R,136.0,75.0,7.5,New Line Cinema,20.0,57.0,N,3
+26,Dreamgirls,2006-12-25,25 Dec 2006,70000000.0,154937680.0,103300000.0,Drama,PG-13,130.0,76.0,6.5,Dreamworks,66.0,91.0,W,2
+27,The Departed,2006-10-05,06 Oct 2006,90000000.0,289847354.0,132300000.0,Drama,R,151.0,85.0,8.5,Warner Bros. Pictures,92.0,135.0,W,4
+28,Volver,2006-03-16,26 Jan 2007,12899867.0,85582407.0,12830604.0,Comedy,R,121.0,84.0,7.6,Sony Pictures Classics,60.0,90.0,N,1
+29,Notes on a Scandal,2006-12-25,26 Jan 2007,15000000.0,49469904.0,17400000.0,Drama,R,92.0,73.0,7.4,Fox Searchlight Pictures,15.0,68.0,N,4
+30,The Queen,2006-09-15,17 Nov 2006,15000000.0,123384128.0,56222759.0,Drama,PG-13,103.0,91.0,7.3,Miramax Films,94.0,95.0,W,1
+31,The Devil Wears Prada,2006-06-30,30 Jun 2006,35000000.0,326551094.0,124700000.0,Comedy,PG-13,109.0,62.0,6.9,20th Century Fox,16.0,50.0,N,2
+32,Babel,2006-09-08,10 Nov 2006,25000000.0,135330182.0,34237104.0,Drama,R,143.0,69.0,7.5,Paramount Classics,41.0,134.0,W,1
+36,Michael Clayton,2007-09-28,12 Oct 2007,25000000.0,92991835.0,48976323.0,Drama,R,119.0,82.0,7.3,Warner Bros. Pictures,26.0,110.0,W,1
+37,There Will Be Blood,2007-12-28,25 Jan 2008,25000000.0,77208711.0,40133435.0,Drama,R,158.0,93.0,8.1,Paramount Vantage,106.0,136.0,W,2
+38,Sweeney Todd: The Demon Barber of Fleet Street,2007-12-20,21 Dec 2007,50000000.0,152000000.0,52900000.0,Drama,R,116.0,83.0,7.4,DreamWorks/Paramount Studios,33.0,75.0,W,1
+39,In the Valley of Elah,2007-08-31,28 Sep 2007,23000000.0,29541790.0,6585535.0,History,R,121.0,65.0,7.2,Warner Independent Pictures,2.0,17.0,N,1
+40,Eastern Promises,2007-09-14,21 Sep 2007,51500000.0,55112356.0,17114882.0,Thriller,R,100.0,82.0,7.7,Focus Features,28.0,70.0,N,1
+41,The Assassination of Jesse James by the Coward Robert Ford,2007-09-02,19 Oct 2007,30000000.0,14711793.0,3900000.0,Action,R,160.0,68.0,7.5,Warner Bros. Pictures,25.0,65.0,N,2
+42,No Country for Old Men,2007-11-08,21 Nov 2007,25000000.0,171627166.0,74223625.0,Crime,R,122.0,91.0,8.1,Miramax Films,157.0,132.0,W,4
+43,Charlie Wilson's War,2007-12-19,21 Dec 2007,75000000.0,119000410.0,66636385.0,Comedy,R,102.0,69.0,7.1,Universal Pictures,5.0,22.0,N,1
+44,Into the Wild,2007-09-11,19 Oct 2007,15000000.0,56255142.0,18173360.0,Adventure,R,148.0,73.0,8.1,Paramount Vantage,23.0,99.0,N,2
+45,Elizabeth: The Golden Age,2007-09-09,12 Oct 2007,55000000.0,74237563.0,16264475.0,Drama,PG-13,114.0,45.0,6.9,Universal Pictures,5.0,29.0,W,1
+46,Away from Her,2006-09-11,25 May 2007,0.0,0.0,15830046.0,Drama,PG-13,110.0,88.0,7.6,Lionsgate,62.0,38.0,N,2
+47,The Savages,2007-01-19,01 Feb 2008,0.0,0.0,6426953.0,Drama,R,113.0,85.0,7.2,Fox Searchlight Pictures,17.0,31.0,N,2
+48,Juno,2007-12-05,25 Dec 2007,7500000.0,231411584.0,143380890.0,Comedy,PG-13,96.0,81.0,7.5,Fox Searchlight,89.0,95.0,W,1
+49,American Gangster,2007-11-02,02 Nov 2007,100000000.0,266465037.0,130127620.0,Drama,R,157.0,76.0,7.8,Universal Pictures,12.0,35.0,N,2
+50,Atonement,2007-08-29,11 Jan 2008,30000000.0,129266061.0,50830581.0,Drama,R,123.0,85.0,7.8,Focus Features,50.0,146.0,W,1
+51,Gone Baby Gone,2007-10-19,19 Oct 2007,19000000.0,34619699.0,20300218.0,Crime,R,114.0,72.0,7.7,Miramax,34.0,29.0,N,1
+53,"Roman J. Israel, Esq.",2017-11-17,22 Nov 2017,22000000.0,11942780.0,11887893.0,Crime,PG-13,122.0,58.0,6.4,Sony Pictures,1.0,7.0,N,1
+54,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,2006-11-01,03 Nov 2006,18000000.0,261572744.0,128400000.0,Comedy,R,84.0,89.0,7.3,20th Century Fox,20.0,33.0,N,1
+55,From Russia with Love,1963-10-11,27 May 1964,2000000.0,78898765.0,0.0,Action,PG,115.0,85.0,7.5,United Artists,3.0,5.0,N,1
+56,The Visitor,2007-09-07,23 May 2008,0.0,9234510.0,9234510.0,Crime,PG-13,104.0,79.0,7.7,Overture Films,19.0,34.0,N,1
+57,Frost/Nixon,2008-10-15,23 Jan 2009,25000000.0,18593156.0,18600000.0,Drama,R,122.0,80.0,7.7,Universal Pictures,21.0,71.0,N,5
+58,Milk,2008-11-26,30 Jan 2009,20000000.0,54586584.0,31716847.0,History,R,128.0,84.0,7.6,Focus Features,61.0,141.0,W,2
+59,The Curious Case of Benjamin Button,2008-12-25,25 Dec 2008,150000000.0,333932083.0,127490802.0,Fantasy,PG-13,166.0,70.0,7.8,Paramount,77.0,155.0,W,3
+60,The Wrestler,2008-09-07,30 Jan 2009,6000000.0,44703995.0,26136413.0,Drama,R,109.0,81.0,7.9,Fox Searchlight Pictures,57.0,86.0,N,2
+61,Tropic Thunder,2008-08-09,13 Aug 2008,92000000.0,188072649.0,110416702.0,Action,R,107.0,71.0,7.0,DreamWorks/Paramount Studios,10.0,43.0,N,1
+62,Doubt,2008-11-27,25 Dec 2008,20000000.0,50907234.0,33422556.0,Drama,PG-13,104.0,68.0,7.5,Miramax,26.0,88.0,N,5
+63,The Dark Knight,2008-07-16,18 Jul 2008,185000000.0,1004558444.0,533316061.0,Drama,PG-13,152.0,84.0,9.0,Warner Bros. Pictures/Legendary,152.0,155.0,W,2
+64,Revolutionary Road,2008-12-19,23 Jan 2009,35000000.0,75225693.0,22877808.0,Drama,R,119.0,69.0,7.3,Paramount Vantage,19.0,67.0,N,3
+65,Rachel Getting Married,2008-10-03,07 Nov 2008,0.0,0.0,12748504.0,Drama,R,113.0,82.0,6.7,Sony Pictures Classics,31.0,63.0,N,1
+66,Changeling,2008-01-30,31 Oct 2008,55000000.0,113020255.0,35707327.0,Crime,R,141.0,63.0,7.8,Universal Pictures,13.0,47.0,N,3
+67,Frozen River,2008-08-01,05 Sep 2008,0.0,0.0,2061019.0,Drama,R,97.0,82.0,7.2,Sony Pictures Classics,32.0,37.0,N,2
+68,The Reader,2008-12-10,30 Jan 2009,32000000.0,113019290.0,34111418.0,Drama,R,124.0,58.0,7.6,The Weinstein Co./MGM,25.0,47.0,W,1
+69,Vicky Cristina Barcelona,2008-08-15,15 Aug 2008,15000000.0,96408652.0,23164041.0,Drama,PG-13,96.0,70.0,7.1,The Weinstein Co.,31.0,53.0,W,1
+75,Crazy Heart,2009-12-16,05 Feb 2010,7000000.0,47405566.0,38349555.0,Drama,R,112.0,83.0,7.3,Fox Searchlight Pictures,36.0,29.0,W,2
+76,Up in the Air,2009-09-05,23 Dec 2009,25000000.0,163670000.0,83775048.0,Drama,R,109.0,83.0,7.4,Paramount Pictures,76.0,158.0,N,6
+77,A Single Man,2009-10-19,05 Feb 2010,7000000.0,24964890.0,9098668.0,Romance,R,99.0,77.0,7.6,The Weinstein Company,36.0,55.0,N,1
+78,Invictus,2009-12-10,11 Dec 2009,60000000.0,122233971.0,37431431.0,Drama,PG-13,134.0,74.0,7.3,Warner Bros. Pictures,10.0,33.0,N,2
+79,The Hurt Locker,2008-10-10,31 Jul 2009,15000000.0,42000000.0,15700000.0,Drama,R,131.0,94.0,7.6,Summit Entertainment,117.0,126.0,W,6
+80,The Messenger,2009-11-13,04 Dec 2009,6500000.0,1521261.0,1006655.0,Drama,R,113.0,77.0,7.1,Oscilloscope Pictures,17.0,44.0,N,2
+81,The Last Station,2009-09-04,26 Feb 2010,0.0,0.0,6500000.0,Drama,R,112.0,76.0,7.0,Sony Pictures Classics,3.0,15.0,N,2
+82,The Lovely Bones,2009-12-26,15 Jan 2010,65000000.0,93525586.0,43982842.0,Fantasy,PG-13,135.0,42.0,6.7,Paramount Pictures,10.0,45.0,N,1
+83,Inglourious Basterds,2009-08-18,21 Aug 2009,70000000.0,319131050.0,120523073.0,Drama,R,153.0,69.0,8.3,The Weinstein Company,129.0,165.0,W,1
+84,The Blind Side,2009-11-20,20 Nov 2009,29000000.0,309208309.0,255900000.0,Drama,PG-13,129.0,53.0,7.7,Warner Bros. Pictures,7.0,30.0,W,1
+85,An Education,2009-10-29,05 Feb 2010,7500000.0,26096852.0,12512069.0,Drama,PG-13,100.0,85.0,7.3,Sony Classics,35.0,91.0,N,3
+86,Precious,2009-11-06,20 Nov 2009,10000000.0,47536959.0,47536959.0,Drama,R,110.0,79.0,7.3,Lionsgate Films,111.0,98.0,W,2
+87,Nine,2009-12-03,25 Dec 2009,80000000.0,53825515.0,19628665.0,Drama,PG-13,118.0,49.0,5.8,The Weinstein Co.,8.0,56.0,N,4
+93,Biutiful,2010-10-20,04 Feb 2011,0.0,25147786.0,5100937.0,Drama,R,148.0,58.0,7.5,Roadside Attractions,18.0,45.0,N,2
+94,True Grit,2010-12-22,22 Dec 2010,38000000.0,252276927.0,171031347.0,Drama,PG-13,110.0,80.0,7.6,Paramount Pictures,37.0,153.0,N,1
+95,The Social Network,2010-10-01,01 Oct 2010,40000000.0,224920315.0,96400000.0,Drama,PG-13,120.0,95.0,7.7,Columbia Pictures,165.0,168.0,W,3
+96,The King's Speech,2010-09-06,25 Dec 2010,15000000.0,414211549.0,138300000.0,Drama,R,118.0,88.0,8.0,The Weinstein Company,102.0,194.0,W,4
+97,127 Hours,2010-11-05,28 Jan 2011,18000000.0,35692920.0,18329466.0,Adventure,R,94.0,82.0,7.6,Fox Searchlight,23.0,141.0,N,6
+98,The Fighter,2010-12-17,17 Dec 2010,25000000.0,93617009.0,93571803.0,Drama,R,116.0,79.0,7.8,Paramount Pictures,72.0,116.0,W,2
+99,Winter's Bone,2010-06-11,16 Jul 2010,2000000.0,13831503.0,6200000.0,Drama,R,100.0,90.0,7.2,Roadside Attractions,63.0,120.0,N,4
+100,The Town,2010-09-15,17 Sep 2010,37000000.0,154026136.0,92173235.0,Crime,R,125.0,74.0,7.6,Warner Bros. Pictures,9.0,45.0,N,1
+101,The Kids Are All Right,2010-07-09,30 Jul 2010,3500000.0,34705850.0,20803237.0,Comedy,R,106.0,86.0,7.0,Focus Features,28.0,120.0,N,4
+102,Rabbit Hole,2010-12-16,28 Jan 2011,5000000.0,5129058.0,2221809.0,Drama,PG-13,91.0,76.0,7.0,Lionsgate Films,7.0,40.0,N,1
+103,Black Swan,2010-12-03,17 Dec 2010,13000000.0,327803731.0,106952327.0,Drama,R,108.0,79.0,8.0,Fox Searchlight,91.0,257.0,W,1
+104,Blue Valentine,2010-12-27,28 Jan 2011,3500000.0,16566240.0,9600000.0,Drama,R,112.0,81.0,7.4,Weinstein Company,9.0,52.0,N,1
+105,Animal Kingdom,2010-06-03,03 Jun 2010,5000000.0,1000000.0,1000000.0,Drama,R,113.0,83.0,7.3,Sony Pictures Classics,38.0,54.0,N,1
+106,A Better Life,2011-06-24,28 Jul 2011,10000000.0,1759252.0,1754319.0,Drama,PG-13,98.0,64.0,7.2,Summit Entertainment,6.0,8.0,N,1
+107,The Descendants,2011-09-09,09 Dec 2011,20000000.0,177243185.0,78500000.0,Comedy,R,115.0,84.0,7.3,Fox Searchlight Pictures,66.0,142.0,W,1
+108,The Artist,2011-06-26,20 Jan 2012,15000000.0,133432856.0,44667095.0,Drama,PG-13,100.0,89.0,7.9,The Weinstein Company,145.0,188.0,W,5
+109,Tinker Tailor Soldier Spy,2011-09-16,06 Jan 2012,30000000.0,80630608.0,20200000.0,Drama,R,122.0,85.0,7.1,Focus Features,35.0,93.0,N,3
+110,Moneyball,2011-09-22,23 Sep 2011,50000000.0,110206216.0,75605492.0,Drama,PG-13,133.0,87.0,7.6,Sony Pictures,29.0,75.0,N,6
+111,My Week with Marilyn,2011-11-23,23 Dec 2011,6400000.0,35057696.0,12600000.0,Drama,R,99.0,65.0,7.0,The Weinstein Company,19.0,59.0,N,2
+112,Warrior,2011-09-09,09 Sep 2011,25000000.0,23057115.0,13600000.0,Action,PG-13,140.0,71.0,8.2,Lionsgate,6.0,20.0,N,1
+113,Beginners,2011-06-09,09 Jun 2011,3200000.0,14311701.0,5764842.0,Drama,R,105.0,81.0,7.2,Focus Features,34.0,29.0,W,1
+114,Extremely Loud & Incredibly Close,2011-12-24,20 Jan 2012,40000000.0,55247881.0,31836745.0,Drama,PG-13,129.0,46.0,6.9,Warner Bros. Pictures,8.0,23.0,N,2
+115,Albert Nobbs,2011-12-21,22 Feb 2012,8000000.0,5634828.0,3014541.0,Drama,R,113.0,57.0,6.7,Roadside Attractions,19.0,39.0,N,3
+116,The Help,2011-08-09,10 Aug 2011,25000000.0,124272124.0,169705587.0,Drama,PG-13,146.0,62.0,8.1,DreamWorks Studios,79.0,116.0,W,1
+117,The Girl with the Dragon Tattoo,2011-12-14,21 Dec 2011,90000000.0,232617430.0,102515793.0,Thriller,R,158.0,71.0,7.8,Sony Pictures,27.0,90.0,W,1
+118,The Iron Lady,2011-12-30,13 Jan 2012,13000000.0,114956699.0,29959436.0,History,PG-13,105.0,54.0,6.4,The Weinstein Co.,23.0,47.0,W,2
+119,Bridesmaids,2011-05-13,13 May 2011,32500000.0,288383523.0,166500000.0,Comedy,R,125.0,75.0,6.8,Universal Studios,25.0,69.0,N,2
+121,Rango,2011-03-02,04 Mar 2011,10000000.0,0.0,123188232.0,Animation,PG,107.0,75.0,7.2,Paramount Pictures,45.0,24.0,W,1
+124,Silver Linings Playbook,2012-09-08,25 Dec 2012,21000000.0,236412453.0,132088910.0,Drama,R,122.0,81.0,7.7,The Weinstein Company,88.0,145.0,W,1
+125,Lincoln,2012-11-09,16 Nov 2012,65000000.0,275293450.0,129477447.0,History,PG-13,150.0,86.0,7.4,Dreamworks Pictures,108.0,242.0,W,2
+126,Les Misérables,2012-12-18,25 Dec 2012,61000000.0,441809770.0,148775460.0,History,PG-13,158.0,63.0,7.6,Universal Pictures,81.0,172.0,W,3
+127,The Master,2012-09-07,21 Sep 2012,32000000.0,28258060.0,15800000.0,Drama,R,138.0,86.0,7.1,The Weinstein Company,76.0,179.0,N,3
+128,Flight,2012-11-02,02 Nov 2012,31000000.0,161772375.0,89400000.0,Drama,R,138.0,76.0,7.3,Paramount Pictures,16.0,42.0,N,2
+129,Argo,2012-10-11,12 Oct 2012,44500000.0,232324128.0,136019448.0,Drama,R,120.0,86.0,7.7,Warner Bros. Pictures,94.0,152.0,W,3
+130,Django Unchained,2012-12-25,25 Dec 2012,100000000.0,425368238.0,162804648.0,Drama,R,165.0,81.0,8.4,The Weinstein Co.,56.0,151.0,W,2
+131,Zero Dark Thirty,2012-12-19,11 Jan 2013,40000000.0,132820716.0,95720716.0,Thriller,R,157.0,95.0,7.4,Columbia Pictures,87.0,171.0,W,1
+132,Amour,2012-07-01,20 Sep 2012,8900000.0,29844753.0,6700000.0,Drama,PG-13,127.0,94.0,7.9,Sony Pictures Classics,77.0,103.0,W,1
+133,Beasts of the Southern Wild,2012-06-29,05 Jul 2012,1800000.0,21107746.0,12784397.0,Drama,PG-13,93.0,86.0,7.3,Fox Searchlight,92.0,123.0,N,4
+135,The Sessions,2012-05-02,16 Nov 2012,1000000.0,9138338.0,5997134.0,Drama,R,95.0,79.0,7.2,Fox Searchlight Pictures,18.0,63.0,N,1
+136,Corpse Bride,2005-09-12,23 Sep 2005,40000000.0,117195061.0,53300000.0,Romance,PG,77.0,83.0,7.4,Warner Bros. Pictures,8.0,28.0,N,1
+138,Nebraska,2013-09-21,24 Jan 2014,12000000.0,17654912.0,11348612.0,Drama,R,115.0,86.0,7.7,Paramount Pictures,28.0,157.0,N,6
+139,The Wolf of Wall Street,2013-12-25,25 Dec 2013,100000000.0,392000694.0,91330760.0,Crime,R,180.0,75.0,8.2,Paramount Studios,38.0,165.0,N,5
+140,12 Years a Slave,2013-10-18,08 Nov 2013,20000000.0,187000000.0,50628650.0,Drama,R,134.0,96.0,8.1,Fox Searchlight,235.0,326.0,W,3
+141,Dallas Buyers Club,2013-11-17,22 Nov 2013,5000000.0,55198285.0,23750994.0,Drama,R,117.0,84.0,8.0,Focus Features,81.0,81.0,W,3
+142,Captain Phillips,2013-10-10,11 Oct 2013,55000000.0,95000000.0,107100855.0,Action,PG-13,134.0,83.0,7.8,Sony Pictures,16.0,144.0,N,6
+143,Blue Jasmine,2013-07-25,23 Aug 2013,18000000.0,99206215.0,0.0,Comedy,PG-13,98.0,78.0,7.3,Sony Pictures Classics,54.0,75.0,W,1
+144,Gravity,2013-10-03,04 Oct 2013,105000000.0,716392705.0,274084951.0,Science Fiction,PG-13,91.0,96.0,7.7,Warner Bros. Pictures,232.0,175.0,W,7
+145,Philomena,2013-11-01,27 Nov 2013,12000000.0,100129872.0,0.0,Drama,PG-13,98.0,77.0,7.6,The Weinstein Company,32.0,76.0,N,4
+146,August: Osage County,2013-12-26,10 Jan 2014,25000000.0,74188937.0,29202643.0,Comedy,R,121.0,58.0,7.2,The Weinstein Company,15.0,62.0,N,2
+149,Foxcatcher,2014-05-19,16 Jan 2015,24000000.0,12096300.0,9744477.0,Drama,R,134.0,81.0,7.0,Sony Pictures Classics,12.0,74.0,N,5
+150,American Sniper,2014-12-11,16 Jan 2015,58800000.0,542307423.0,274377268.0,War,R,133.0,72.0,7.3,Warner Bros.,23.0,42.0,W,1
+151,The Imitation Game,2014-11-14,25 Dec 2014,14000000.0,233555708.0,0.0,History,PG-13,114.0,73.0,8.0,The Weinstein Company,46.0,155.0,W,1
+152,The Theory of Everything,2014-11-26,26 Nov 2014,15000000.0,123726688.0,35887263.0,Drama,PG-13,123.0,72.0,7.7,Focus Features,24.0,121.0,W,1
+153,The Judge,2014-10-08,10 Oct 2014,50000000.0,83719388.0,35631470.0,Drama,R,141.0,48.0,7.4,Warner Bros. Pictures,3.0,8.0,N,1
+154,Boyhood,2014-06-05,15 Aug 2014,4000000.0,44349000.0,18859617.0,Drama,R,165.0,100.0,7.9,IFC Films,171.0,209.0,W,1
+155,Whiplash,2014-10-10,15 Oct 2014,3300000.0,13092000.0,0.0,Drama,R,106.0,88.0,8.5,Sony Pictures Classics,89.0,136.0,W,3
+156,Still Alice,2014-12-05,20 Feb 2015,5000000.0,43884652.0,0.0,Drama,PG-13,101.0,72.0,7.5,Sony Pictures Classics,30.0,32.0,W,1
+157,Gone Girl,2014-10-01,03 Oct 2014,61000000.0,369330363.0,0.0,Mystery,R,149.0,79.0,8.1,20th Century Fox,65.0,177.0,N,1
+158,Wild,2014-12-05,19 Dec 2014,15000000.0,52501541.0,24673716.0,Drama,R,115.0,76.0,7.1,20th Century Fox,11.0,65.0,N,2
+159,Into the Woods,2014-12-25,25 Dec 2014,50000000.0,212902372.0,89789227.0,Fantasy,PG,125.0,69.0,6.0,Walt Disney Pictures,11.0,71.0,N,3
+161,Trumbo,2015-10-27,27 Nov 2015,15000000.0,8235661.0,0.0,Drama,R,124.0,60.0,7.5,Bleecker Street Media,5.0,41.0,N,1
+162,The Martian,2015-09-30,02 Oct 2015,108000000.0,630161890.0,202313768.0,Drama,PG-13,144.0,80.0,8.0,20th Century Fox,37.0,185.0,N,7
+163,The Revenant,2015-12-25,08 Jan 2016,135000000.0,532950503.0,0.0,Western,R,156.0,76.0,8.0,20th Century Fox,86.0,181.0,W,3
+164,Steve Jobs,2015-10-09,23 Oct 2015,30000000.0,34441873.0,12403169.0,Drama,R,122.0,82.0,7.2,Universal Pictures,28.0,109.0,N,2
+165,The Danish Girl,2015-11-27,22 Jan 2016,15000000.0,64191523.0,0.0,Drama,R,119.0,66.0,7.1,Focus Features,30.0,73.0,W,1
+166,The Big Short,2015-12-11,23 Dec 2015,28000000.0,133346506.0,0.0,Comedy,R,130.0,81.0,7.8,Paramount Pictures,37.0,79.0,W,1
+167,Spotlight,2015-11-06,20 Nov 2015,20000000.0,88346473.0,0.0,Drama,R,129.0,93.0,8.1,Open Road Films,119.0,138.0,W,2
+168,Bridge of Spies,2015-10-15,16 Oct 2015,40000000.0,165478348.0,0.0,Thriller,PG-13,142.0,81.0,7.6,Dreamworks Pictures,30.0,99.0,W,1
+169,Creed,2015-11-25,25 Nov 2015,37000000.0,173567581.0,81157671.0,Drama,PG-13,133.0,82.0,7.6,Warner Bros.,46.0,61.0,N,1
+170,Carol,2015-11-20,15 Jan 2016,0.0,40272135.0,8518148.0,Romance,R,118.0,95.0,7.2,The Weinstein Company,75.0,238.0,N,6
+171,Room,2015-10-16,22 Jan 2016,6000000.0,35401758.0,14677654.0,Drama,R,118.0,86.0,8.2,Element Pictures,103.0,136.0,W,1
+172,Joy,2015-12-24,25 Dec 2015,60000000.0,101134059.0,42581369.0,Drama,PG-13,124.0,56.0,6.6,20th Century Fox,7.0,20.0,N,1
+173,45 Years,2015-08-28,28 Aug 2015,0.0,4250507.0,3489919.0,Drama,R,91.0,94.0,7.1,Sundance Selects,20.0,52.0,N,1
+174,Brooklyn,2015-10-20,25 Nov 2015,11000000.0,62076141.0,30459009.0,Drama,PG-13,117.0,87.0,7.5,Fox Searchlight Pictures,37.0,152.0,N,3
+175,The Hateful Eight,2015-12-25,30 Dec 2015,44000000.0,155760117.0,54116191.0,Crime,R,187.0,68.0,7.8,The Weinstein Company,39.0,113.0,W,1
+183,Harry Potter and the Goblet of Fire,2005-11-16,18 Nov 2005,150000000.0,895921036.0,289994397.0,Adventure,PG-13,157.0,81.0,7.7,Warner Bros. Pictures,13.0,42.0,N,1
+184,King Kong,2005-12-12,14 Dec 2005,207000000.0,550517357.0,218100000.0,Adventure,PG-13,187.0,81.0,7.2,Universal Pictures,43.0,100.0,W,3
+185,Memoirs of a Geisha,2005-12-06,23 Dec 2005,85000000.0,162242962.0,57000000.0,Drama,PG-13,145.0,54.0,7.4,Sony Pictures,27.0,44.0,W,3
+186,Batman Begins,2005-06-10,15 Jun 2005,150000000.0,374218673.0,204100000.0,Action,PG-13,140.0,70.0,8.3,Warner Bros. Pictures,14.0,72.0,N,1
+188,Charlie and the Chocolate Factory,2005-07-13,15 Jul 2005,150000000.0,474968763.0,206100000.0,Adventure,PG,115.0,72.0,6.7,Warner Bros. Pictures,14.0,50.0,N,1
+189,Munich,2005-12-23,06 Jan 2006,70000000.0,130358911.0,47379090.0,Drama,R,164.0,74.0,7.6,Universal Pictures,13.0,65.0,N,5
+190,Darwin's Nightmare,2004-09-01,21 Jan 2005,0.0,0.0,0.0,Documentary,Not Listed,107.0,84.0,7.6,Ad Vitam,16.0,4.0,N,1
+191,Enron: The Smartest Guys in the Room,2005-04-22,20 May 2005,0.0,0.0,3886956.0,Documentary,NOT RATED,110.0,0,7.7,Magnolia Pictures,3.0,10.0,N,1
+192,Murderball,2005-07-22,05 Aug 2005,300000.0,1750211.0,1328551.0,Documentary,R,88.0,87.0,7.8,ThinkFilm,17.0,12.0,N,1
+193,Street Fight,2005-01-01,23 Apr 2005,0.0,0.0,0.0,Documentary,NOT RATED,83.0,85.0,8.1,Marshall Curry Productions,6.0,4.0,N,1
+194,The Death of Kevin Carter: Casualty of the Bang Bang Club,2004-09-17,18 Sep 2004,11000.0,0.0,0.0,Documentary,Not Listed,27.0,0,7.4,Not Listed,7.0,2.0,N,1
+196,Paradise Now,2005-02-14,18 Nov 2005,0.0,3357075.0,1300000.0,Thriller,PG-13,90.0,71.0,7.5,Warner Independent Pictures,13.0,15.0,N,1
+197,Tsotsi,2005-08-18,31 Mar 2006,3000000.0,9879971.0,2753840.0,Crime,R,94.0,70.0,7.3,Miramax,16.0,13.0,W,1
+198,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005-12-07,09 Dec 2005,180000000.0,748806957.0,291685219.0,Adventure,PG,143.0,75.0,6.9,Buena Vista,14.0,46.0,W,1
+199,Star Wars: Episode III - Revenge of the Sith,2005-05-17,19 May 2005,113000000.0,850000000.0,0.0,Science Fiction,PG-13,140.0,68.0,7.6,20th Century Fox,25.0,56.0,N,1
+200,Badgered,2005-02-23,15 Oct 2005,0.0,0.0,0.0,Animation,Not Listed,7.0,0,6.6,Not Listed,2.0,2.0,N,1
+201,The Mysterious Geographic Explorations of Jasper Morello,2005-01-19,01 Jan 2006,0.0,0.0,0.0,Adventure,Not Listed,26.0,0,7.8,Not Listed,7.0,3.0,N,1
+205,Our Time Is Up,2004-01-01,08 Oct 2004,0.0,0.0,0.0,Comedy,Not Listed,14.0,0,7.5,Not Listed,4.0,Not Listed,N,1
+206,Six Shooter,2004-01-01,01 Feb 2005,200000.0,0.0,0.0,Comedy,NOT RATED,27.0,0,7.6,Not Listed,5.0,2.0,W,1
+207,War of the Worlds,2005-06-28,29 Jun 2005,132000000.0,591739379.0,234141872.0,Adventure,PG-13,116.0,73.0,6.5,Paramount Pictures,14.0,44.0,N,3
+208,Match Point,2005-10-26,20 Jan 2006,15000000.0,85306374.0,23100000.0,Drama,R,124.0,72.0,7.6,Dreamworks,11.0,30.0,N,1
+209,The Squid and the Whale,2005-10-05,16 Dec 2005,1500000.0,11098131.0,7073391.0,Comedy,R,81.0,82.0,7.4,Samuel Goldwyn Films,23.0,47.0,N,1
+212,Cars,2006-06-08,09 Jun 2006,120000000.0,461983149.0,244052771.0,Animation,G,117.0,73.0,7.1,Buena Vista,27.0,28.0,N,2
+213,Happy Feet,2006-11-16,17 Nov 2006,100000000.0,384335608.0,197800000.0,Animation,PG,108.0,77.0,6.5,Warner Bros. Pictures,18.0,23.0,W,1
+214,Monster House,2006-07-21,21 Jul 2006,75000000.0,140175006.0,73661010.0,Animation,PG,91.0,68.0,6.6,Sony Pictures Releasing,4.0,22.0,N,1
+215,The Good Shepherd,2006-12-11,22 Dec 2006,85000000.0,59908565.0,59839040.0,Drama,R,167.0,61.0,6.7,Universal Pictures,2.0,11.0,N,1
+216,Pirates of the Caribbean: Dead Man's Chest,2006-06-20,07 Jul 2006,200000000.0,1065659812.0,423032628.0,Adventure,PG-13,151.0,53.0,7.3,Buena Vista,42.0,53.0,W,1
+217,The Prestige,2006-10-19,20 Oct 2006,40000000.0,109676311.0,53100000.0,Drama,PG-13,130.0,66.0,8.5,Buena Vista Pictures,5.0,37.0,N,2
+218,The Black Dahlia,2006-09-15,15 Sep 2006,50000000.0,49111202.0,22518325.0,Drama,R,121.0,49.0,5.6,Universal Pictures,4.0,12.0,N,1
+219,Children of Men,2006-09-22,05 Jan 2007,76000000.0,69959751.0,35100000.0,Drama,R,109.0,84.0,7.9,Universal Pictures,48.0,76.0,N,3
+220,The Illusionist,2006-08-18,01 Sep 2006,40000000.0,86915017.0,39680302.0,Fantasy,PG-13,110.0,68.0,7.6,Yari Film Group,10.0,10.0,N,1
+221,Marie Antoinette,2006-05-24,20 Oct 2006,40000000.0,60474340.0,15962471.0,Drama,PG-13,123.0,65.0,6.4,Sony Pictures,18.0,23.0,W,1
+222,Letters from Iwo Jima,2006-12-19,02 Feb 2007,19000000.0,68673228.0,13600000.0,Action,R,141.0,89.0,7.9,Warner Bros. Pictures,23.0,37.0,W,1
+223,United 93,2006-04-28,28 Apr 2006,15000000.0,76286096.0,31500000.0,Drama,R,111.0,90.0,7.6,Universal Pictures,28.0,54.0,N,2
+225,An Inconvenient Truth,2006-01-24,30 Jun 2006,1000000.0,46243000.0,23727472.0,Documentary,PG,96.0,75.0,7.5,Paramount Classics,31.0,11.0,W,2
+226,Iraq in Fragments,2006-01-21,19 Jan 2007,0.0,202000.0,0.0,Documentary,Not Listed,94.0,84.0,7.3,Typecast,12.0,7.0,N,1
+227,Jesus Camp,2006-09-15,18 Apr 2007,0.0,1013596.0,900000.0,Documentary,PG-13,87.0,62.0,7.5,Magnolia Pictures,6.0,6.0,N,1
+228,The Blood of Yingzhou District,2006-06-13,14 Jun 2006,0.0,0.0,0.0,Documentary,Not Listed,38.0,0,7.5,HBO Documentary Films,8.0,3.0,W,1
+231,The Shape of Water,2017-12-01,22 Dec 2017,19500000.0,194989655.0,57393976.0,Drama,R,123.0,87.0,7.4,Fox Searchlight Pictures,101.0,293.0,W,4
+232,Apocalypto,2006-12-07,08 Dec 2006,40000000.0,120175290.0,50772724.0,Action,R,139.0,68.0,7.8,Buena Vista,9.0,20.0,N,3
+233,Click,2006-06-22,23 Jun 2006,82500000.0,237681299.0,137340146.0,Comedy,PG-13,107.0,45.0,6.4,Sony Pictures Releasing,3.0,11.0,N,1
+234,The Good German,2006-12-08,19 Jan 2007,32000000.0,5914908.0,891721.0,Drama,R,105.0,49.0,6.1,Warner Bros. Pictures,3.0,4.0,N,1
+235,The Danish Poet,2006-02-15,01 Oct 2006,0.0,0.0,0.0,Animation,Not Listed,15.0,0,7.6,Not Listed,8.0,2.0,W,1
+237,The Little Matchgirl,2006-09-07,07 Sep 2006,0.0,0.0,0.0,Drama,G,7.0,0,7.9,Not Listed,0.0,Not Listed,N,1
+238,Maestro,2014-07-23,Not Listed,0.0,0.0,0.0,Drama,Not Listed,5.0,0,7.6,Not Listed,5.0,1.0,N,1
+239,No Time for Nuts,2006-10-23,14 Sep 2006,0.0,0.0,0.0,Adventure,G,7.0,0,7.6,Fox,1.0,Not Listed,N,1
+241,West Bank Story,2005-01-01,20 Jan 2005,0.0,0.0,0.0,Comedy,Not Listed,21.0,0,7.4,Not Listed,7.0,1.0,W,1
+242,Poseidon,2006-05-12,12 May 2006,160000000.0,181674817.0,60600000.0,Adventure,PG-13,98.0,50.0,5.6,Warner Bros. Pictures,0.0,Not Listed,N,1
+243,Superman Returns,2006-06-28,28 Jun 2006,270000000.0,391081192.0,200100000.0,Adventure,PG-13,154.0,72.0,6.1,Warner Bros. Pictures,12.0,40.0,N,1
+245,Persepolis,2007-05-23,22 Feb 2008,7300000.0,0.0,4400000.0,Animation,PG-13,96.0,90.0,8.1,Sony Pictures Classics,28.0,54.0,N,1
+246,Ratatouille,2007-06-22,29 Jun 2007,150000000.0,623722818.0,112408657.0,Animation,G,111.0,96.0,8.0,Disney/Pixar,64.0,42.0,W,1
+247,Surf's Up,2007-06-08,08 Jun 2007,85000000.0,149044513.0,58867694.0,Animation,PG,85.0,64.0,6.7,Sony Pictures,2.0,17.0,N,1
+248,The Golden Compass,2007-12-04,07 Dec 2007,180000000.0,372234864.0,70100000.0,Adventure,PG-13,113.0,51.0,6.1,New Line Cinema,6.0,32.0,W,1
+249,Across the Universe,2007-09-14,12 Oct 2007,0.0,0.0,24343673.0,Adventure,PG-13,133.0,56.0,7.4,Sony,2.0,16.0,N,1
+250,No End in Sight,2007-07-27,22 Jan 2007,2000000.0,1431623.0,1250100.0,Documentary,NOT RATED,102.0,89.0,8.3,Magnolia Pictures,12.0,18.0,N,1
+251,Operation Homecoming: Writing the Wartime Experience,2007-02-09,09 Feb 2007,0.0,0.0,0.0,Documentary,Not Listed,81.0,0,7.2,SnagFilms,3.0,5.0,N,1
+252,Sicko,2007-05-18,03 Jul 2007,9000000.0,24538513.0,24333911.0,Documentary,PG-13,123.0,74.0,8.0,The Weinstein Company,14.0,14.0,N,1
+253,Taxi to the Dark Side,2007-04-30,23 Jan 2009,1000000.0,274661.0,0.0,Documentary,R,106.0,82.0,7.5,ThinkFilm,10.0,4.0,W,1
+254,War Dance,2007-11-09,01 Nov 2008,0.0,0.0,0.0,Documentary,PG-13,105.0,68.0,7.9,ThinkFilm,10.0,3.0,N,1
+256,The Bourne Ultimatum,2007-08-03,03 Aug 2007,70000000.0,442824138.0,227400000.0,Action,PG-13,115.0,85.0,8.0,Universal Pictures,26.0,39.0,W,3
+257,The Counterfeiters,1948-05-28,18 Apr 2008,0.0,0.0,0.0,Action,R,98.0,78.0,7.6,Sony Pictures Classics,6.0,10.0,W,1
+258,12,2007-06-06,20 Sep 2007,4000000.0,7537453.0,0.0,Crime,PG-13,159.0,72.0,7.7,Sony Pictures Classics,9.0,7.0,N,1
+259,Norbit,2007-02-08,09 Feb 2007,10000000.0,0.0,95323496.0,Comedy,PG-13,102.0,27.0,4.0,Dreamworks Distribution LLC,8.0,8.0,N,1
+260,Pirates of the Caribbean: At World's End,2007-05-19,25 May 2007,300000000.0,961000000.0,309404152.0,Adventure,PG-13,169.0,50.0,7.1,Buena Vista,20.0,44.0,N,2
+261,The Kite Runner,2007-10-14,11 Jan 2008,20000000.0,73276047.0,15690103.0,Drama,PG-13,128.0,61.0,7.6,Paramount Vantage,6.0,22.0,N,1
+262,3:10 to Yuma,2007-09-06,07 Sep 2007,55000000.0,70016220.0,53574088.0,Western,R,122.0,76.0,7.7,Lionsgate Films,3.0,30.0,N,2
+263,I Met the Walrus,2007-06-13,15 Feb 2008,0.0,0.0,0.0,Documentary,Not Listed,5.0,0,7.0,Not Listed,3.0,1.0,N,1
+264,Madame Tutli-Putli,2007-05-19,15 Feb 2008,0.0,0.0,0.0,Animation,Not Listed,17.0,0,7.3,Not Listed,12.0,5.0,N,1
+267,Transformers,2007-06-27,03 Jul 2007,150000000.0,709709780.0,319014499.0,Adventure,PG-13,144.0,61.0,7.1,Dreamworks,20.0,41.0,N,3
+268,Lars and the Real Girl,2007-10-12,02 Nov 2007,12000000.0,11293663.0,5802820.0,Comedy,PG-13,106.0,70.0,7.3,MGM/Sidney Kimmel Entertainment,7.0,32.0,N,1
+271,Bolt,2008-01-29,21 Nov 2008,150000000.0,309979994.0,114053579.0,Animation,PG,96.0,67.0,6.9,Walt Disney Pictures,1.0,30.0,N,1
+272,Kung Fu Panda,2008-06-04,06 Jun 2008,130000000.0,631744560.0,215395021.0,Adventure,PG,92.0,73.0,7.6,Paramount Pictures,14.0,37.0,N,1
+273,Wall Street,1987-12-10,11 Dec 1987,15000000.0,43848069.0,0.0,Crime,R,126.0,56.0,7.4,20th Century Fox,9.0,4.0,W,1
+274,The Duchess,2008-09-05,10 Oct 2008,17759769.0,43306325.0,13800000.0,Drama,PG-13,110.0,62.0,6.9,Paramount Vantage,7.0,21.0,W,1
+275,Slumdog Millionaire,2008-05-12,25 Dec 2008,15000000.0,377910544.0,141243551.0,Drama,R,120.0,86.0,8.0,Fox Searchlight Pictures,144.0,126.0,W,8
+276,Australia,2008-11-18,26 Nov 2008,130000000.0,49554002.0,49420849.0,Adventure,PG-13,165.0,53.0,6.6,20th Century Fox,11.0,35.0,N,1
+277,Encounters at the End of the World,2007-09-01,18 Jul 2008,0.0,0.0,723966.0,Documentary,G,99.0,80.0,7.8,ThinkFilm,2.0,14.0,N,1
+279,Man on Wire,2008-07-25,29 Aug 2008,0.0,2957978.0,2600296.0,Thriller,PG-13,94.0,89.0,7.8,Magnolia Pictures,45.0,11.0,W,1
+280,Trouble the Water,2008-01-20,05 Dec 2008,0.0,0.0,146384.0,Documentary,UNRATED,93.0,83.0,7.4,Zeitgeist Films,7.0,13.0,N,1
+282,Smile Pinki,2008-12-31,17 Jun 2008,0.0,0.0,0.0,Documentary,Not Listed,39.0,0,8.1,Principe,0.0,Not Listed,W,1
+284,Departures,2018-12-31,19 Jun 2009,0.0,0.0,1500000.0,Drama,PG-13,130.0,68.0,8.1,Regent Releasing,33.0,8.0,W,1
+285,Revanche,2008-05-16,16 May 2008,0.0,0.0,0.0,Crime,NOT RATED,121.0,84.0,7.6,Janus Films,13.0,7.0,N,1
+286,Hellboy II: The Golden Army,2008-07-11,11 Jul 2008,85000000.0,160388063.0,75754670.0,Adventure,PG-13,120.0,78.0,7.0,Universal Pictures,5.0,28.0,N,1
+287,Defiance,2008-12-31,16 Jan 2009,32000000.0,51155219.0,28622873.0,Action,R,137.0,58.0,7.2,Paramount Vantage,2.0,4.0,N,1
+288,Oktapodi,2007-01-01,07 Oct 2015,0.0,0.0,0.0,Animation,Not Listed,3.0,0,7.3,Not Listed,5.0,1.0,N,1
+289,Presto,2008-06-18,27 Jun 2008,0.0,0.0,0.0,Animation,G,5.0,0,8.4,Pixar Animation Studios,0.0,Not Listed,N,1
+290,This Way Up,2008-04-24,Not Listed,0.0,0.0,0.0,Comedy,TV-G,9.0,0,7.0,Not Listed,5.0,2.0,N,1
+292,Babe: Pig in the City,1998-11-25,25 Nov 1998,90000000.0,69131860.0,0.0,Adventure,G,97.0,68.0,5.8,Universal Studios,1.0,16.0,N,1
+293,Iron Man,2008-04-30,02 May 2008,140000000.0,585174222.0,318298180.0,Action,PG-13,126.0,79.0,7.9,Paramount Pictures,20.0,65.0,N,2
+294,Wanted,2008-06-19,27 Jun 2008,75000000.0,258270008.0,134294280.0,Action,R,110.0,64.0,6.7,Universal Pictures,4.0,20.0,N,2
+295,Happy-Go-Lucky,2008-04-18,21 Nov 2008,0.0,18130888.0,3494485.0,Drama,R,118.0,84.0,7.0,Miramax Films,39.0,59.0,N,1
+296,In Bruges,2008-02-08,29 Feb 2008,15000000.0,34533783.0,7550836.0,Comedy,R,107.0,67.0,7.9,Focus Features,24.0,53.0,N,1
+297,The Nutty Professor,1963-06-04,28 Jun 1996,0.0,0.0,0.0,Comedy,PG-13,95.0,62.0,5.6,Universal Pictures,9.0,12.0,W,1
+300,Coraline,2009-02-05,06 Feb 2009,60000000.0,124596398.0,75169351.0,Animation,PG,100.0,80.0,7.7,Focus Features,7.0,43.0,N,1
+301,Fantastic Mr. Fox,2009-10-23,25 Nov 2009,40000000.0,46471023.0,21000000.0,Adventure,PG,87.0,83.0,7.8,20th Century Fox,32.0,60.0,N,2
+302,The Princess and the Frog,2009-12-08,11 Dec 2009,105000000.0,270997378.0,104374107.0,Romance,G,97.0,73.0,7.1,Walt Disney Pictures,11.0,38.0,N,3
+303,The Secret of Kells,2009-02-09,22 Jun 2016,0.0,0.0,686383.0,Animation,NOT RATED,75.0,81.0,7.7,GKIDS,7.0,5.0,N,1
+304,Up,2009-05-28,29 May 2009,175000000.0,735099082.0,292979556.0,Animation,PG,96.0,88.0,8.3,Walt Disney Pictures,74.0,81.0,W,2
+305,Avatar,2009-12-10,18 Dec 2009,237000000.0,2787965087.0,749700000.0,Action,PG-13,162.0,83.0,7.8,20th Century Fox,85.0,128.0,W,3
+306,The Imaginarium of Doctor Parnassus,2009-10-01,08 Jan 2010,30000000.0,64352607.0,7504196.0,Adventure,PG-13,123.0,65.0,6.8,Sony Pictures Classics,5.0,21.0,N,2
+307,Sherlock Holmes,2009-12-23,25 Dec 2009,90000000.0,524028679.0,208711166.0,Action,PG-13,128.0,57.0,7.6,Warner Bros. Pictures/Village Roadshow,10.0,27.0,N,2
+308,The Young Victoria,2009-03-04,08 Jan 2010,35000000.0,31878891.0,10900000.0,Drama,PG,105.0,64.0,7.3,Apparition,12.0,17.0,W,1
+309,Harry Potter and the Half-Blood Prince,2009-07-07,15 Jul 2009,250000000.0,933959197.0,301920409.0,Adventure,PG,153.0,78.0,7.6,Warner Bros. Pictures,8.0,35.0,N,1
+310,Bright Star,2009-11-05,09 Oct 2009,10000000.0,0.0,4341275.0,Drama,PG,119.0,81.0,7.0,Apparition Films,16.0,52.0,N,1
+311,The Cove,2009-07-31,07 Aug 2009,0.0,1162422.0,619467.0,Documentary,PG-13,92.0,84.0,8.5,Roadside Attractions,39.0,17.0,W,1
+312,"Food, Inc.",2008-09-07,31 Jul 2009,0.0,0.0,4238694.0,Documentary,PG,94.0,80.0,7.8,Magnolia Pictures,7.0,19.0,N,1
+313,The Most Dangerous Man in America: Daniel Ellsberg and the Pentagon Papers,2009-10-16,17 Oct 2009,0.0,0.0,453483.0,Documentary,Not Listed,92.0,75.0,7.8,First Run Features,5.0,2.0,N,1
+314,Which Way Home,2009-01-31,31 Jan 2009,0.0,0.0,0.0,Documentary,Not Listed,90.0,0,7.9,HBO Films,3.0,4.0,N,1
+315,China's Unnatural Disaster: The Tears of Sichuan Province,2009-05-07,21 Jan 2010,0.0,0.0,0.0,Documentary,Not Listed,38.0,0,7.5,HBO,2.0,1.0,N,1
+316,The Last Truck: Closing of a GM Plant,2009-09-07,29 Nov 2012,0.0,0.0,0.0,Documentary,NOT RATED,40.0,0,7.0,HBO,1.0,2.0,N,1
+317,Music by Prudence,2010-04-01,12 May 2010,0.0,0.0,0.0,Documentary,Not Listed,32.0,0,7.5,HBO Films,0.0,Not Listed,W,1
+318,District 9,2009-08-05,14 Aug 2009,30000000.0,210819611.0,115646235.0,Science Fiction,R,112.0,81.0,7.9,Sony Pictures/Screen Gems,30.0,110.0,N,4
+319,Ajami,2009-09-17,17 Sep 2009,0.0,0.0,500000.0,Crime,NOT RATED,124.0,82.0,7.4,Kino International,15.0,9.0,N,1
+320,Il Divo,2008-05-28,28 May 2008,7275000.0,11260366.0,200000.0,Drama,NOT RATED,110.0,81.0,7.3,Music Box Films,30.0,36.0,N,1
+321,Star Trek,2009-05-06,08 May 2009,150000000.0,385680446.0,257704099.0,Science Fiction,PG-13,127.0,82.0,8.0,IMAX,23.0,92.0,W,1
+322,A Serious Man,2009-10-02,06 Nov 2009,7000000.0,31430334.0,9190525.0,Comedy,R,106.0,79.0,7.0,Focus Features,17.0,72.0,N,2
+323,French Roast,2008-09-30,19 Feb 2010,0.0,0.0,0.0,Animation,TV-PG,8.0,0,7.1,Not Listed,9.0,7.0,N,1
+324,Granny O'Grimm's Sleeping Beauty,2008-01-01,31 May 2008,0.0,0.0,0.0,Animation,NOT RATED,6.0,0,6.4,Not Listed,1.0,Not Listed,N,1
+325,Logorama,2009-01-01,05 Oct 2011,0.0,0.0,0.0,Animation,R,16.0,0,7.6,Not Listed,8.0,5.0,W,1
+326,A Matter of Loaf and Death,2008-12-03,01 Jan 2010,0.0,0.0,0.0,Animation,Not Listed,30.0,0,7.6,LionsGate Entertainment,2.0,4.0,N,1
+328,Instead of Abracadabra,2008-01-23,12 Mar 2010,0.0,0.0,0.0,Action,Not Listed,22.0,0,7.3,Not Listed,2.0,2.0,N,1
+329,Miracle Fish,2009-01-16,12 Mar 2010,0.0,0.0,0.0,Drama,TV-PG,17.0,0,7.2,Blue-Tongue Films,12.0,Not Listed,N,1
+330,The New Tenants,2009-01-01,06 Mar 2010,0.0,0.0,0.0,Comedy,TV-14,21.0,0,6.7,Park Pictures,0.0,Not Listed,W,1
+331,Transformers: Revenge of the Fallen,2009-06-19,24 Jun 2009,150000000.0,836297228.0,402076689.0,Science Fiction,PG-13,150.0,35.0,6.0,Paramount/Dreamworks,15.0,27.0,N,1
+332,In the Loop,2009-01-22,04 Sep 2009,0.0,6149791.0,2251324.0,Comedy,NOT RATED,106.0,83.0,7.5,IFC,16.0,41.0,N,1
+336,How to Train Your Dragon,2010-03-05,26 Mar 2010,165000000.0,494878759.0,216900000.0,Fantasy,PG,98.0,74.0,8.1,Paramount/DWA,25.0,60.0,N,2
+337,Toy Story 3,2010-06-16,18 Jun 2010,200000000.0,1066969703.0,414984497.0,Animation,G,103.0,92.0,8.3,Walt Disney Pictures,58.0,91.0,W,2
+338,Alice in Wonderland,2010-03-03,05 Mar 2010,200000000.0,1025491110.0,319323000.0,Family,PG,108.0,53.0,6.5,Walt Disney Pictures,31.0,62.0,W,2
+339,Harry Potter and the Deathly Hallows: Part 1,2010-10-17,19 Nov 2010,250000000.0,954305868.0,294980434.0,Adventure,PG-13,146.0,65.0,7.7,Warner Bros. Pictures,15.0,53.0,N,2
+340,Inception,2010-07-15,16 Jul 2010,160000000.0,825532764.0,292568851.0,Action,PG-13,148.0,74.0,8.8,Warner Bros. Pictures,152.0,204.0,W,4
+341,The Tempest,2010-12-10,07 Jan 2011,20000000.0,346594.0,277515.0,Drama,PG-13,110.0,43.0,5.4,Touchstone Pictures/Miramax Films,2.0,3.0,N,1
+342,Exit Through the Gift Shop,2010-01-24,14 May 2010,0.0,4790751.0,3288699.0,Documentary,R,87.0,85.0,8.0,Abarorama,24.0,28.0,N,1
+343,Inside Job,2010-10-08,12 Nov 2010,2000000.0,7871522.0,4311834.0,Documentary,PG-13,109.0,88.0,8.3,Sony Pictures Classics,7.0,26.0,W,1
+344,Restrepo,2010-06-25,06 Aug 2010,0.0,1422910.0,1330894.0,Documentary,R,93.0,85.0,7.5,National Geographic,10.0,19.0,N,1
+345,Waste Land,2010-01-24,21 Jan 2011,1500000.0,187716.0,100000.0,Documentary,NOT RATED,99.0,78.0,7.9,Arthouse Films,27.0,10.0,N,1
+348,Incendies,2010-09-04,12 Jan 2011,10000000.0,0.0,6857096.0,Drama,R,131.0,80.0,8.2,Sony Pictures Classics,39.0,15.0,N,1
+349,Barney's Version,2010-10-26,18 Feb 2011,30000000.0,8454301.0,7501404.0,Comedy,R,134.0,67.0,7.3,Sony Classics,18.0,18.0,N,1
+351,The Wolfman,2010-02-11,12 Feb 2010,150000000.0,0.0,61937495.0,Drama,R,103.0,43.0,5.8,Universal Pictures,3.0,8.0,W,1
+353,The Gruffalo,2009-12-25,09 Dec 2010,0.0,0.0,0.0,Animation,NOT RATED,27.0,0,7.5,Phase 4 Films,7.0,3.0,N,1
+354,The Lost Thing,2010-06-03,11 Feb 2011,0.0,0.0,0.0,Animation,NOT RATED,15.0,0,7.4,Not Listed,8.0,2.0,W,1
+356,Na Wewe,2010-04-25,11 Feb 2011,0.0,0.0,0.0,Comedy,Not Listed,19.0,0,6.9,Radio Télévision Belge Francophone,1.0,Not Listed,N,1
+357,Wish 143,2009-11-19,11 Feb 2011,0.0,0.0,0.0,Drama,Not Listed,24.0,0,7.3,Not Listed,3.0,Not Listed,N,1
+358,TRON: Legacy,2010-12-10,17 Dec 2010,170000000.0,400062763.0,172051787.0,Adventure,PG,125.0,49.0,6.8,Walt Disney Pictures,10.0,49.0,N,1
+359,Unstoppable,2010-11-04,12 Nov 2010,100000000.0,167805466.0,81557479.0,Action,PG-13,98.0,69.0,6.8,20th Century Fox,1.0,13.0,N,1
+360,Salt,2010-07-21,23 Jul 2010,110000000.0,293329073.0,118311368.0,Action,PG-13,100.0,65.0,6.4,Sony Pictures,4.0,15.0,N,1
+361,Hereafter,2010-10-22,22 Oct 2010,50000000.0,105197635.0,32741596.0,Drama,PG-13,129.0,56.0,6.5,Warner Bros. Pictures,4.0,13.0,N,1
+362,Iron Man 2,2010-04-28,07 May 2010,200000000.0,623933331.0,312057433.0,Adventure,PG-13,124.0,57.0,7.0,Paramount Studios,7.0,42.0,N,1
+363,Another Year,2010-11-05,04 Feb 2011,8000000.0,18124262.0,3200000.0,Comedy,PG-13,129.0,80.0,7.3,Sony Classics,22.0,53.0,N,1
+365,Hearts of Darkness: A Filmmaker's Apocalypse,1991-09-06,06 Dec 1991,0.0,0.0,0.0,Documentary,R,96.0,0,8.2,Showtime Network,6.0,5.0,W,2
+369,Kung Fu Panda 2,2011-05-25,26 May 2011,150000000.0,665692281.0,165230261.0,Animation,PG,90.0,67.0,7.2,Paramount Studios/Dreamworks,5.0,46.0,N,1
+370,Puss in Boots,2011-10-28,28 Oct 2011,130000000.0,554987477.0,149234747.0,Action,PG,90.0,65.0,6.6,Paramount/Dreamworks,9.0,42.0,N,1
+371,Harry Potter and the Deathly Hallows: Part 2,2011-07-07,15 Jul 2011,125000000.0,1342000000.0,381000185.0,Family,PG-13,130.0,87.0,8.1,Warner Bros. Pictures,45.0,91.0,N,3
+372,Hugo,2011-11-22,23 Nov 2011,170000000.0,185770160.0,73820094.0,Adventure,PG,126.0,83.0,7.5,Paramount Studios,57.0,186.0,W,5
+373,Midnight in Paris,2011-05-11,10 Jun 2011,30000000.0,151119219.0,55400000.0,Fantasy,PG-13,94.0,81.0,7.7,Sony Pictures Classics,24.0,101.0,W,1
+374,War Horse,2011-12-25,25 Dec 2011,66000000.0,177584879.0,79883359.0,Drama,PG-13,146.0,72.0,7.2,Walt Disney Pictures,15.0,70.0,N,6
+375,The Tree of Life,2011-05-18,17 May 2011,32000000.0,54674226.0,13303319.0,Drama,PG-13,139.0,85.0,6.8,Fox Searchlight,111.0,117.0,N,3
+376,Anonymous,2011-10-21,28 Oct 2011,30000000.0,15395087.0,4463292.0,Drama,PG-13,130.0,50.0,6.9,Sony Pictures,7.0,8.0,N,1
+377,Jane Eyre,2011-03-11,22 Apr 2011,0.0,34710627.0,0.0,Drama,PG-13,120.0,76.0,7.4,Focus Features,10.0,14.0,N,1
+378,W.E.,2011-09-01,20 Jan 2012,15000000.0,868439.0,582075.0,Drama,R,119.0,37.0,6.3,The Weinstein Company,4.0,4.0,N,1
+379,Hell and Back Again,2011-10-04,05 Oct 2011,0.0,0.0,37539.0,Documentary,NOT RATED,88.0,81.0,6.5,Docurama Films,4.0,8.0,N,1
+380,If a Tree Falls: A Story of the Earth Liberation Front,2011-06-22,01 Jan 2011,0.0,0.0,61153.0,Documentary,UNRATED,85.0,65.0,7.2,Oscilloscope,6.0,3.0,N,1
+381,Paradise Lost 3: Purgatory,2011-10-10,13 Oct 2012,0.0,0.0,0.0,Documentary,NOT RATED,121.0,85.0,8.1,@radical.media,5.0,5.0,N,1
+382,Pina,2011-02-24,24 Feb 2011,4317946.0,14624826.0,3520458.0,Documentary,PG,103.0,83.0,7.7,IFC Films,10.0,24.0,N,1
+383,Undefeated,2011-03-13,03 Aug 2012,0.0,0.0,561054.0,Documentary,PG-13,113.0,71.0,7.8,The Weinstein Company,3.0,8.0,W,1
+384,The Barber of Birmingham: Foot Soldier of the Civil Rights Movement,2011-01-01,Not Listed,0.0,0.0,0.0,Documentary,Not Listed,25.0,0,7.2,Not Listed,2.0,1.0,N,1
+385,Incident in New Baghdad,2011-04-24,24 Apr 2011,0.0,0.0,0.0,Documentary,Not Listed,22.0,0,6.6,Morninglight Films,4.0,Not Listed,N,1
+387,The Tsunami and the Cherry Blossom,2011-09-12,20 Jan 2012,0.0,0.0,0.0,Documentary,Not Listed,39.0,0,7.8,Not Listed,2.0,3.0,N,1
+388,In Darkness,2018-05-25,05 Jan 2012,0.0,0.0,1038733.0,Thriller,R,145.0,74.0,7.3,Sony Pictures,10.0,17.0,N,1
+389,Monsieur Lazhar,2011-09-10,07 Mar 2012,0.0,6581915.0,2009041.0,Drama,PG-13,94.0,82.0,7.5,Music Box Films,30.0,12.0,N,1
+390,The Adventures of Tintin,2011-10-25,21 Dec 2011,130000000.0,371940071.0,75300000.0,Adventure,PG,107.0,68.0,7.3,Paramount,21.0,60.0,N,1
+392,La Luna,1979-08-29,22 Jun 2012,0.0,0.0,0.0,Drama,G,7.0,0,8.0,Disney Pixar,0.0,Not Listed,N,1
+393,Pentecost,2011-02-10,04 Mar 2011,0.0,0.0,0.0,Comedy,Not Listed,11.0,0,6.7,EMU Productions,0.0,Not Listed,N,1
+397,Tuba Atlantic,2010-02-10,01 Jun 2010,0.0,0.0,0.0,Comedy,Not Listed,25.0,0,7.5,The Norwegian Film School,5.0,Not Listed,N,1
+398,Drive,2011-08-06,16 Sep 2011,15000000.0,78054825.0,34300000.0,Drama,R,100.0,78.0,7.8,FilmDistrict,77.0,170.0,N,1
+399,Transformers: Dark of the Moon,2011-06-28,29 Jun 2011,195000000.0,1123746996.0,352358779.0,Action,PG-13,154.0,42.0,6.3,Paramount Studios,10.0,39.0,N,3
+400,Real Steel,2011-09-28,07 Oct 2011,110000000.0,299268508.0,85463309.0,Action,PG-13,127.0,56.0,7.1,Walt Disney Pictures,2.0,5.0,N,1
+401,Rise of the Planet of the Apes,2011-08-03,05 Aug 2011,93000000.0,482860185.0,175300000.0,Thriller,PG-13,105.0,68.0,7.6,20th Century Fox,21.0,42.0,N,1
+402,The Ides of March,2011-09-24,07 Oct 2011,12500000.0,75993061.0,40962534.0,Drama,R,101.0,67.0,7.1,Sony Pictures,9.0,33.0,N,1
+403,Margin Call,2011-09-28,29 Sep 2011,3500000.0,19504039.0,600000.0,Thriller,R,107.0,76.0,7.1,Roadside Attractions,8.0,23.0,N,1
+406,Brave,2012-06-21,22 Jun 2012,185000000.0,538983207.0,237282182.0,Animation,PG,93.0,69.0,7.1,Walt Disney Pictures,18.0,48.0,W,1
+407,Frankenweenie,2012-10-04,05 Oct 2012,39000000.0,35287788.0,35287788.0,Animation,PG,87.0,74.0,7.0,Walt Disney Pictures,11.0,49.0,N,1
+408,ParaNorman,2012-08-03,17 Aug 2012,60000000.0,107139399.0,55994557.0,Family,PG,92.0,72.0,7.0,Focus Features,19.0,45.0,N,1
+409,Wreck-It Ralph,2012-11-01,02 Nov 2012,165000000.0,471222889.0,189412677.0,Family,PG,101.0,72.0,7.7,Walt Disney Pictures,33.0,41.0,N,1
+410,Anna Karenina,2012-09-06,07 Sep 2012,0.0,68929150.0,12802907.0,Drama,R,129.0,63.0,6.6,Focus Features,31.0,51.0,W,1
+411,Life of Pi,2012-11-20,21 Nov 2012,120000000.0,609016565.0,103500000.0,Adventure,PG,127.0,79.0,7.9,20th Century Fox,78.0,129.0,W,4
+412,Skyfall,2012-10-25,09 Nov 2012,200000000.0,1108561013.0,299300000.0,Action,PG-13,143.0,81.0,7.8,MGM,65.0,119.0,W,2
+413,Mirror Mirror,2012-03-15,30 Mar 2012,85000000.0,183018522.0,64933670.0,Adventure,PG,106.0,46.0,5.6,Relativity Media,2.0,8.0,N,1
+414,Snow White and the Huntsman,2012-05-30,01 Jun 2012,170000000.0,396600000.0,155081785.0,Adventure,PG-13,127.0,57.0,6.1,Universal Pictures,13.0,31.0,N,2
+415,Five Broken Cameras,2011-11-23,Not Listed,0.0,0.0,108541.0,War,NOT RATED,94.0,78.0,8.0,Kino Lorber Films,18.0,6.0,N,1
+416,The Gatekeepers,2012-07-09,14 Mar 2013,0.0,0.0,2408553.0,Documentary,PG-13,101.0,91.0,7.6,Sony Pictures Classics,7.0,10.0,N,1
+417,How to Survive a Plague,2012-09-20,08 Nov 2013,0.0,0.0,122665.0,Documentary,NOT RATED,110.0,86.0,7.6,Sundance Selects,13.0,19.0,N,1
+418,The Invisible War,2012-01-20,20 Jan 2012,0.0,0.0,66167.0,Crime,NOT RATED,93.0,75.0,7.6,Cinedigm,10.0,13.0,N,1
+419,Searching for Sugar Man,2012-06-30,26 Jul 2012,0.0,0.0,3100000.0,Documentary,PG-13,86.0,79.0,8.2,Sony Pictures Classics,39.0,30.0,W,1
+421,The Shawshank Redemption,1994-09-23,14 Oct 1994,25000000.0,28341469.0,0.0,Drama,R,142.0,80.0,9.3,Columbia Pictures,19.0,32.0,N,7
+422,Kon-Tiki,2012-08-24,26 Apr 2013,16600000.0,0.0,1511798.0,Adventure,PG-13,118.0,62.0,7.2,The Weinstein Company,12.0,13.0,N,1
+423,Dr. No,1962-10-04,07 Oct 1962,950000.0,59600000.0,0.0,Adventure,PG,110.0,78.0,7.3,United Artists,1.0,4.0,W,1
+425,Hitchcock,2012-11-22,14 Dec 2012,0.0,23570541.0,6002708.0,Drama,PG-13,98.0,55.0,6.8,Fox Searchlight Pictures,4.0,28.0,N,1
+426,The Hobbit: An Unexpected Journey,2012-11-26,14 Dec 2012,250000000.0,1021103568.0,303001229.0,Adventure,PG-13,169.0,58.0,7.9,Warner Bros.,10.0,72.0,N,3
+427,Adam and Dog,2013-02-01,06 Nov 2012,0.0,0.0,0.0,Animation,TV-PG,16.0,0,6.9,Not Listed,1.0,Not Listed,N,1
+428,Fresh Guacamole,2012-03-02,02 Mar 2012,0.0,0.0,0.0,Animation,Not Listed,2.0,0,7.4,Not Listed,0.0,Not Listed,N,1
+430,Paperman,2012-11-02,02 Nov 2012,0.0,0.0,0.0,Animation,G,7.0,0,8.3,Walt Disney Pictures,2.0,2.0,W,1
+431,Curfew,2012-01-01,04 Oct 2012,50000.0,0.0,0.0,Drama,PG-13,19.0,0,7.9,Fuzzy Logic Pictures,20.0,3.0,W,1
+433,The Avengers,2012-04-25,04 May 2012,220000000.0,1519557910.0,623279547.0,Science Fiction,PG-13,143.0,69.0,8.1,Walt Disney Pictures,38.0,79.0,N,1
+434,Prometheus,2012-05-30,08 Jun 2012,130000000.0,403170142.0,126464904.0,Science Fiction,R,124.0,64.0,7.0,20th Century Fox,6.0,46.0,N,1
+435,Moonrise Kingdom,2012-05-24,29 Jun 2012,16000000.0,68263166.0,45507865.0,Comedy,PG-13,94.0,84.0,7.8,Focus Features,38.0,118.0,N,1
+438,The Croods,2013-03-20,22 Mar 2013,135000000.0,585178928.0,187165546.0,Action,PG,98.0,55.0,7.2,20th Century Fox,5.0,44.0,N,1
+439,Despicable Me 2,2013-06-25,03 Jul 2013,76000000.0,970761885.0,368049635.0,Animation,PG,98.0,62.0,7.4,Universal Pictures,12.0,65.0,N,2
+440,Frozen,2013-11-27,27 Nov 2013,150000000.0,1274219009.0,400736600.0,Animation,PG,102.0,74.0,7.5,Walt Disney Pictures,77.0,57.0,W,2
+441,Inside Llewyn Davis,2013-10-06,10 Jan 2014,11000000.0,32935319.0,9666762.0,Drama,R,104.0,93.0,7.5,CBS Films,47.0,169.0,N,2
+442,Prisoners,2013-09-18,20 Sep 2013,46000000.0,122126687.0,60962878.0,Drama,R,153.0,74.0,8.1,Warner Bros.,10.0,35.0,N,1
+443,The Great Gatsby,2013-05-10,10 May 2013,105000000.0,351040419.0,144812796.0,Drama,PG-13,143.0,55.0,7.3,Warner Bros. Pictures,47.0,83.0,W,2
+444,The Invisible Woman,2013-12-25,21 Feb 2014,0.0,1234254.0,1200000.0,Drama,R,111.0,75.0,6.2,Sony Pictures Classics,1.0,7.0,N,1
+445,Cutie and the Boxer,2013-08-16,01 Nov 2013,0.0,0.0,199274.0,Documentary,R,82.0,83.0,7.2,Radius,8.0,13.0,N,1
+446,Dirty Wars,2013-01-18,18 Oct 2013,0.0,0.0,365604.0,Documentary,NOT RATED,87.0,76.0,7.5,IFC Films,10.0,6.0,N,1
+447,The Square,2017-08-25,25 Aug 2017,0.0,1502347.0,1284672.0,Drama,R,151.0,73.0,7.3,Magnolia Pictures,27.0,36.0,N,1
+448,20 Feet from Stardom,2013-06-14,26 Jul 2013,1000000.0,5892466.0,0.0,Documentary,PG-13,91.0,83.0,7.4,Radius-TWC,20.0,26.0,W,1
+449,Cavedigger,2013-01-12,12 Jan 2013,0.0,0.0,0.0,Documentary,TV-G,39.0,0,7.2,KAROFFilms,0.0,Not Listed,N,1
+450,Karama Has No Walls,2012-03-01,01 Mar 2012,0.0,0.0,0.0,Documentary,Not Listed,26.0,0,7.7,Not Listed,1.0,Not Listed,N,1
+451,The Broken Circle Breakdown,2012-10-09,10 Oct 2012,0.0,5475058.0,0.0,Drama,NOT RATED,111.0,70.0,7.8,Tribeca Film,33.0,24.0,N,1
+454,The Lone Ranger,2013-07-03,03 Jul 2013,255000000.0,89289910.0,89289910.0,Action,PG-13,150.0,37.0,6.4,Walt Disney Pictures,4.0,17.0,N,2
+455,The Book Thief,2013-11-08,27 Nov 2013,0.0,76586316.0,0.0,Drama,PG-13,131.0,53.0,7.6,20th Century Fox,8.0,14.0,N,1
+456,Her,2013-12-18,10 Jan 2014,23000000.0,47351251.0,17901029.0,Romance,R,126.0,90.0,8.0,Warner Bros. Pictures,82.0,181.0,W,1
+457,Saving Mr. Banks,2013-11-16,20 Dec 2013,35000000.0,112544580.0,53260198.0,Comedy,PG-13,125.0,65.0,7.5,Walt Disney Pictures,13.0,72.0,N,1
+459,Get a Horse!,2013-11-27,27 Nov 2013,0.0,0.0,0.0,Animation,G,6.0,0,7.6,Walt Disney Pictures,2.0,1.0,N,1
+460,Mr Hublot,2013-10-14,26 Feb 2014,295000.0,0.0,0.0,Animation,Not Listed,11.0,0,7.2,Not Listed,4.0,2.0,W,1
+462,Room on the Broom,2012-12-25,30 Oct 2013,0.0,0.0,0.0,Family,NOT RATED,25.0,0,7.5,Magic Light Pictures,2.0,3.0,N,1
+463,Helium,2013-10-01,31 Jan 2014,0.0,0.0,0.0,Drama,NOT RATED,23.0,0,7.3,Not Listed,5.0,2.0,W,1
+464,The Voorman Problem,2013-04-25,25 Apr 2013,0.0,0.0,0.0,Comedy,TV-PG,13.0,0,7.3,Honlodge Productions,2.0,4.0,N,1
+465,All Is Lost,2013-10-18,07 Nov 2013,9000000.0,6108720.0,4300353.0,Action,PG-13,106.0,87.0,6.9,Lionsgate/Roadside Attractions,3.0,48.0,N,1
+466,The Hobbit: The Desolation of Smaug,2013-12-11,13 Dec 2013,250000000.0,958400000.0,180443783.0,Adventure,PG-13,161.0,66.0,7.8,Warner Bros.,16.0,86.0,N,3
+467,Lone Survivor,2013-12-24,10 Jan 2014,40000000.0,149295601.0,97665254.0,Action,R,121.0,60.0,7.5,Universal Studios,5.0,14.0,N,2
+468,Iron Man 3,2013-04-18,03 May 2013,200000000.0,1215439994.0,408992272.0,Action,PG-13,130.0,62.0,7.2,Walt Disney Pictures,17.0,61.0,N,1
+469,Before Midnight,2013-04-05,14 Jun 2013,3000000.0,11176469.0,8114507.0,Romance,R,109.0,94.0,7.9,Drafthouse Recommends,21.0,59.0,N,1
+471,Big Hero 6,2014-10-24,07 Nov 2014,165000000.0,657818612.0,0.0,Adventure,PG,102.0,74.0,7.8,Walt Disney Pictures,16.0,57.0,W,1
+472,The Boxtrolls,2014-09-10,26 Sep 2014,60000000.0,108255770.0,52098992.0,Animation,PG,96.0,61.0,6.8,Focus Features,8.0,59.0,N,1
+473,How to Train Your Dragon 2,2014-06-12,13 Jun 2014,145000000.0,609123048.0,147065544.0,Fantasy,PG,102.0,76.0,7.8,20th Century Fox,14.0,60.0,N,1
+474,Song of the Sea,2014-09-06,20 Nov 2015,0.0,857522.0,0.0,Family,PG,93.0,85.0,8.1,GKIDS,11.0,23.0,N,1
+475,The Grand Budapest Hotel,2014-02-26,28 Mar 2014,30000000.0,174600318.0,56939515.0,Comedy,R,99.0,88.0,8.1,Fox Searchlight,127.0,218.0,W,4
+476,Ida,2013-10-25,25 Oct 2013,2159280.0,15298355.0,0.0,Drama,PG-13,82.0,91.0,7.4,Music Box Films,66.0,83.0,W,1
+477,Mr. Turner,2014-10-31,31 Oct 2014,0.0,5405500.0,0.0,History,R,150.0,94.0,6.8,Sony Pictures Classics,19.0,62.0,N,4
+478,Unbroken,2014-12-25,25 Dec 2014,65000000.0,163442937.0,70500647.0,Drama,PG-13,137.0,59.0,7.2,Universal Pictures,14.0,29.0,N,3
+479,Inherent Vice,2014-12-25,09 Jan 2015,20000000.0,11110975.0,6100613.0,Comedy,R,148.0,81.0,6.7,Warner Bros. Pictures,16.0,93.0,N,2
+480,Maleficent,2014-05-28,30 May 2014,180000000.0,758539785.0,190871149.0,Fantasy,PG,97.0,56.0,7.0,Walt Disney Pictures,10.0,42.0,N,1
+481,Citizenfour,2014-10-24,28 Nov 2014,0.0,3003169.0,0.0,Documentary,R,114.0,88.0,8.1,Radius-TWC,43.0,35.0,W,1
+482,Finding Vivian Maier,2014-03-28,17 Apr 2014,0.0,1503616.0,0.0,Documentary,NOT RATED,83.0,75.0,7.7,IFC Films,11.0,21.0,N,1
+483,Last Days in Vietnam,2014-09-05,17 Jan 2014,0.0,161.0,408651.0,War,NOT RATED,98.0,86.0,7.6,American Experience/PBS Films,4.0,10.0,N,1
+485,Virunga,2014-11-07,07 Nov 2014,0.0,0.0,0.0,Documentary,NOT RATED,100.0,95.0,8.2,Netflix,18.0,24.0,N,1
+486,Crisis Hotline: Veterans Press 1,2013-11-11,11 Nov 2013,0.0,0.0,0.0,Documentary,TV-14,40.0,0,7.5,HBO Documentary,0.0,Not Listed,W,1
+488,White Earth,2013-03-17,18 Jan 2014,0.0,0.0,0.0,Documentary,Not Listed,20.0,0,6.2,Not Listed,1.0,1.0,N,1
+489,Leviathan,1989-03-17,05 Feb 2015,25000000.0,15704614.0,754393.0,Adventure,R,140.0,92.0,7.6,Sony Pictures Classics,33.0,44.0,N,1
+490,Timbuktu,2014-12-10,10 Dec 2014,0.0,1076075.0,696436.0,Drama,PG-13,97.0,92.0,7.2,Cohen Media Group,28.0,19.0,N,1
+491,Guardians of the Galaxy,2014-07-30,01 Aug 2014,170000000.0,773328629.0,270592504.0,Action,PG-13,121.0,76.0,8.1,Walt Disney Pictures,52.0,99.0,N,2
+492,Interstellar,2014-11-05,07 Nov 2014,165000000.0,675120017.0,158737441.0,Adventure,PG-13,169.0,74.0,8.6,Paramount Pictures,43.0,143.0,W,1
+493,Selma,2014-12-25,09 Jan 2015,20000000.0,66787908.0,0.0,History,PG-13,128.0,89.0,7.5,Paramount Pictures,58.0,88.0,W,1
+494,The Bigger Picture,2014-05-21,11 Oct 2014,0.0,0.0,0.0,Drama,Not Listed,8.0,0,6.7,Not Listed,6.0,5.0,N,1
+495,The Dam Keeper,2014-02-06,11 Oct 2014,0.0,0.0,0.0,Animation,TV-G,18.0,0,8.0,Not Listed,6.0,2.0,N,1
+497,A Single Life,2014-12-04,01 Sep 2014,0.0,0.0,0.0,Animation,TV-PG,3.0,0,7.4,NB Thrilling Films,1.0,1.0,N,1
+498,Boogaloo and Graham,2014-08-01,01 Aug 2014,0.0,0.0,0.0,Drama,TV-PG,14.0,0,7.3,Out of Orbit Films,2.0,5.0,N,1
+499,Parvaneh,2012-11-01,01 Nov 2012,0.0,0.0,0.0,Drama,TV-G,25.0,0,6.8,Zurich University of Arts,0.0,Not Listed,N,1
+500,The Phone Call,2013-10-20,20 Feb 2015,0.0,0.0,0.0,Drama,TV-14,22.0,0,7.2,Not Listed,7.0,3.0,W,1
+501,The Hobbit: The Battle of the Five Armies,2014-12-10,17 Dec 2014,250000000.0,956019788.0,187747747.0,Action,PG-13,144.0,59.0,7.4,Warner Bros.,7.0,51.0,N,1
+502,Captain America: The Winter Soldier,2014-03-20,04 Apr 2014,170000000.0,714766572.0,228636083.0,Action,PG-13,136.0,70.0,7.8,Walt Disney Pictures,5.0,50.0,N,1
+503,Dawn of the Planet of the Apes,2014-06-26,11 Jul 2014,170000000.0,710644566.0,183278877.0,Science Fiction,PG-13,130.0,79.0,7.6,20th Century Fox,16.0,47.0,N,1
+504,X-Men: Days of Future Past,2014-05-15,23 May 2014,250000000.0,747862775.0,199305306.0,Action,PG-13,132.0,75.0,8.0,20th Century Fox,15.0,47.0,N,1
+505,Nightcrawler,2014-10-23,31 Oct 2014,8500000.0,50300000.0,0.0,Crime,R,117.0,76.0,7.9,Open Road Films,43.0,120.0,N,1
+509,Anomalisa,2015-12-30,11 Mar 2016,8000000.0,5659286.0,0.0,Animation,R,90.0,88.0,7.3,Starburns Industries,24.0,72.0,N,1
+510,Inside Out,2015-06-09,19 Jun 2015,175000000.0,857611174.0,264317903.0,Drama,PG,95.0,94.0,8.2,Disney/Pixar,93.0,112.0,W,1
+511,Shaun the Sheep Movie,2015-02-05,05 Aug 2015,0.0,59700000.0,0.0,Family,PG,85.0,81.0,7.4,Lionsgate,4.0,48.0,N,1
+512,Mad Max: Fury Road,2015-05-13,15 May 2015,150000000.0,378858340.0,129483877.0,Action,R,120.0,90.0,8.1,Warner Bros.,232.0,219.0,W,6
+513,Sicario,2015-09-17,02 Oct 2015,30000000.0,84025816.0,0.0,Action,R,121.0,82.0,7.6,Lionsgate,15.0,150.0,N,3
+514,Cinderella,2015-03-12,13 Mar 2015,95000000.0,543514353.0,183327144.0,Romance,PG,105.0,67.0,6.9,Walt Disney Pictures,8.0,35.0,N,1
+515,Amy,2015-07-03,03 Jul 2015,0.0,8413144.0,7851076.0,Documentary,R,128.0,85.0,7.8,A24 Films,50.0,44.0,W,1
+516,Cartel Land,2015-07-03,03 Jul 2015,0.0,0.0,0.0,Drama,R,100.0,76.0,7.4,The Orchard,18.0,35.0,N,1
+517,The Look of Silence,2014-08-30,17 Jul 2015,0.0,332710.0,48097.0,History,PG-13,103.0,92.0,8.3,Drafthouse Films,47.0,40.0,N,1
+518,"What Happened, Miss Simone?",2015-01-22,24 Jun 2015,0.0,0.0,0.0,Documentary,NOT RATED,101.0,75.0,7.6,Netflix,6.0,18.0,N,1
+519,Winter on Fire: Ukraine's Fight for Freedom,2015-10-09,09 Oct 2015,0.0,0.0,0.0,Documentary,NOT RATED,102.0,79.0,8.4,Not Listed,2.0,4.0,N,1
+520,Body Team 12,2015-04-19,19 Apr 2015,0.0,0.0,0.0,Documentary,Not Listed,13.0,0,7.3,RYOT Films,2.0,2.0,N,1
+521,"Chau, Beyond the Lines",2015-08-21,21 Aug 2015,0.0,0.0,0.0,Documentary,Not Listed,34.0,0,7.1,Cynasty Films,5.0,1.0,N,1
+522,A Girl in the River: The Price of Forgiveness,2015-10-28,28 Oct 2015,0.0,0.0,0.0,Documentary,TV-PG,40.0,0,7.9,HBO Documentary Films,1.0,Not Listed,W,1
+523,Last Day of Freedom,2015-04-11,11 Apr 2015,0.0,0.0,0.0,Animation,Not Listed,32.0,0,7.6,Not Listed,5.0,Not Listed,N,1
+524,Star Wars: The Force Awakens,2015-12-15,18 Dec 2015,245000000.0,2068223624.0,936658640.0,Action,PG-13,136.0,81.0,8.0,Walt Disney Pictures,57.0,123.0,N,5
+525,Mustang,2015-06-17,17 Jun 2015,1300000.0,250000.0,560778.0,Drama,PG-13,97.0,83.0,7.6,CG Cinéma,42.0,58.0,N,1
+528,Prologue,2015-06-01,23 Feb 2016,0.0,0.0,0.0,Action,Not Listed,6.0,0,6.3,Animation Masterclass,0.0,Not Listed,N,1
+529,Sanjay's Super Team,2015-11-25,25 Nov 2015,0.0,0.0,0.0,Animation,PG,7.0,0,6.9,Pixar,0.0,Not Listed,N,1
+530,World of Tomorrow,2015-03-05,31 Mar 2015,0.0,0.0,0.0,Animation,G,17.0,0,8.2,Not Listed,27.0,3.0,N,1
+531,Ave Maria,2015-05-18,21 Jun 2015,0.0,0.0,0.0,Comedy,Not Listed,15.0,0,6.5,Incognito Films,10.0,21.0,N,1
+532,Shok,2015-04-10,23 Feb 2016,0.0,0.0,0.0,Drama,Not Listed,21.0,0,8.2,Not Listed,14.0,4.0,N,1
+533,Stutterer,2015-07-08,09 Sep 2015,0.0,0.0,0.0,Drama,Not Listed,12.0,0,7.7,Bare Golly Films,5.0,1.0,W,1
+534,Ex Machina,2015-01-21,24 Apr 2015,15000000.0,36869414.0,19012798.0,Drama,R,108.0,78.0,7.7,A24 Films,70.0,153.0,W,1
+535,Straight Outta Compton,2015-08-13,14 Aug 2015,28000000.0,201634991.0,129402415.0,Drama,R,147.0,72.0,7.9,Universal Pictures,27.0,40.0,N,1
+536,Bright Lights: Starring Carrie Fisher and Debbie Reynolds,2016-05-14,07 Jan 2017,10000000.0,0.0,0.0,Documentary,TV-14,95.0,78.0,8.0,HBO Films,1.0,4.0,N,2
+542,I'm Not There,Not Listed,07 Dec 2007,0,0,4000000.0,Not Listed,R,135.0,73.0,7.0,The Weinstein Co.,27.0,45.0,N,1
+554,Flags of our Fathers,Not Listed,20 Oct 2006,0,0,33600000.0,Not Listed,R,135.0,79.0,7.1,Paramount,15.0,24.0,N,2
+555,Katyn,Not Listed,21 Sep 2007,0,0,0.0,Not Listed,Not Listed,121.0,81.0,7.1,Artificial Eye,14.0,12.0,N,1
+556,The Betrayal - Nerakhoon,Not Listed,21 Nov 2008,0,0,0.0,Not Listed,Not Listed,96.0,78.0,7.3,The Cinema Guild,2.0,4.0,N,1
+558,GasLand,Not Listed,17 Jan 2011,0,0,30846.0,Not Listed,NOT RATED,107.0,0,7.7,Independent Pictures,7.0,6.0,N,1
+562,God Is the Bigger Elvis,Not Listed,01 Apr 2012,0,0,0.0,Not Listed,Not Listed,37.0,0,7.1,HBO Documentary Films,1.0,2.0,N,1
+563,The Fantastic Flying Books of Mr. Morris Lessmore,Not Listed,24 Sep 2014,0,0,0.0,Not Listed,TV-G,15.0,0,8.0,Not Listed,6.0,1.0,W,1
+565,Star Trek: Into Darkness,Not Listed,16 May 2013,0,0,228756232.0,Not Listed,PG-13,132.0,72.0,7.7,Paramount,6.0,56.0,N,1
+566,Theeb,Not Listed,19 Mar 2015,0,0,128430.0,Not Listed,NOT RATED,100.0,80.0,7.2,Noor Pictures,10.0,14.0,N,1
